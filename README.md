@@ -28,7 +28,8 @@ python -m spacy init-model pt vectors_spacy --vectors-loc .\vectors\vetores.txt
 ```
 
 Será criada a pasta <b>vectors_spacy<b> que poderá ser carregada pelo Spacy
-```pyfrom spacy import util as spc_util
+```py
+  from spacy import util as spc_util
   import pt_core_news_sm
 
   nlp = pt_core_news_sm.load()
@@ -44,6 +45,7 @@ Será criada a pasta <b>vectors_spacy<b> que poderá ser carregada pelo Spacy
   tk=[k for k in doc]
   print('Semelhança entre justica e tribunal = ',tk[0].similarity(tk[1]))
 ```
+
 Como exemplo, termos a saída das comparações dos termos <b>justica</b> e <b>tribunal</b> com e sem o modelo gerado pelos 25 documentos:
 - <b>Sem o uso do modelo gerado:</b> Semelhança entre justica e tribunal =  0.49759972
 - <b>Com o uso do modelo gerado:</b> Semelhança entre justica e tribunal =  0.9622429
