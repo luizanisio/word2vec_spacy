@@ -50,7 +50,7 @@ Como exemplo, termos a saída das comparações dos termos <b>justica</b> e <b>t
 - <b>Sem o uso do modelo gerado:</b> Semelhança entre justica e tribunal =  0.49759972
 - <b>Com o uso do modelo gerado:</b> Semelhança entre justica e tribunal =  0.9622429
  
-### 4 Utilizando o tensorboard para visualizar o modelo criado e testar algumas similaridades
+### 4. Utilizando o tensorboard para visualizar o modelo criado e testar algumas similaridades
 O tensorboard é uma ferramenta excelente para visualizar o modelo criado com a rederização de uma nuvem de vetores onde os termos ficam próximos dos seus semelhantes, o exemplo <b>vectors_tensorboard.py</b> foi baseado no código abaixo:
 - https://github.com/explosion/spaCy/blob/master/examples/vectors_tensorboard.py
 
