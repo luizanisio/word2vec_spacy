@@ -13,6 +13,7 @@ Este tutorial foi baseado nos links abaixo e em alguns fóruns pela web.
 ### 1. Juntar um volume de textos brutos (txt) do domínio desejado.
 Podem ser textos médicos, jurídicos, de psicologia, de uma área técnica qualquer, receitas etc. 
 É difícil de definir o número de documentos necessários para a criação dos vetores, mas uma centena de milhares parece um bom número para começar. Uma prova de conceito com 10 mil documentos jurídicos mostrou resultados bons para começar.
+- o exemplo aqui foi gerado com uma base de 25 textos jurídicos diversos baixados na interent e não é representativo
 
 ### 2. A geração do modelo
 Foram realizados testes com o código de <b>Kavita Ganesan</b> que pode ser baixado no Github https://github.com/kavgan/nlp-text-mining-working-examples/blob/master/word2vec/scripts/word2vec.py
