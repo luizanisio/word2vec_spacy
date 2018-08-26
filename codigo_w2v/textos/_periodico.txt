@@ -1,0 +1,469 @@
+Dezembro 2014 [PROJEÇÃO, DIREITO E SOCIEDADE]
+Periódico Científico Projeção, Direito e Sociedade | v.5 | n.2 39
+A jurisprudência como fonte de Direito
+Rogerio Soares de Souza
+Introdução
+O presente trabalho tem por finalidade, sem a pretensão de esgotar o assunto e até mesmo
+em razão da amplitude deste, catalogar as fontes de direito, classificá-las e proceder ao
+enquadramento da jurisprudência dentre elas. Para tanto, proceder-se-á inicialmente à
+definição de fonte de direito, sua conceituação e classificações apontadas por doutrinadores
+de escola.
+Passar-se-á, posteriormente, a definição do que se pode considerar como jurisprudência e
+quais são seus aspectos gerais, de modo a se obter um primeiro enquadramento do assunto
+enquanto fonte de direito. Ressalve-se que a referência a primeiro enquadramento toma em
+conta a alteração promovida pela Emenda Constitucional n. 45/2004 ao ordenamento jurídico
+brasileiro, que culminou por inserir a figura da súmula vinculante ao nosso sistema. Tal fato
+provoca a necessidade de um maior aprofundamento no exame da jurisprudência como fonte
+de direito, em se tratando a súmula da cristalização de um entendimento jurisprudencial
+consolidado ou dominante no âmbito pretoriano.
+Necessário, portanto, o exame das características da súmula vinculante, seus efeitos em
+comparação às outras espécies de súmulas e sua repercussão e enquadramento enquanto
+fonte de direito, o que será feito por ocasião da conclusão do presente trabalho.
+Definição de Fonte
+Antes do início do estudo de qualquer tema, necessário estabelecer seus parâmetros, seu
+sentido, significado e definição. É por este motivo que, seja qual for o tema objeto de
+desenvolvimento, importante o estabelecimento das premissas básicas para seu estudo,
+análise e investigação, razão pela qual deve o investigador recorrer às suas fontes.
+Para Miguel Reale, por fonte do direito designamos os processos ou meios em virtude dos
+quais as regras jurídicas se positivam com legítima força obrigatória, isto é, com vigência e
+eficácia.1
+Sob o sentido etimológico, fonte é a origem, a nascente, o manancial de onde provém algo ou
+alguma coisa.
+Fontes Materiais e Formais de Direito
+Assevera Renato César Jardim2 que a catalogação das fontes do direito sempre foi fruto de
+divergências entre os doutrinadores e operadores do direito, e que a inclusão da doutrina, da
+
+1 Miguel Reale. Lições Preliminares de Direito. São Paulo, 1986, p. 140.
+2 Renato César Jardim. As súmulas dos tribunais como fonte formal de direito. Uma abordagem após
+o advento das súmulas vinculantes e impeditivas de recurso. Revista Jurisprudência Mineira, ano 58,
+n. 181, p. 19-36, abr/jun. 2007, Belo Horizonte. 
+Dezembro 2014 [PROJEÇÃO, DIREITO E SOCIEDADE]
+Periódico Científico Projeção, Direito e Sociedade | v.5 | n.2 40
+jurisprudência, do negócio jurídico e das súmulas dos tribunais no rol das aludidas fontes,
+classificando-as como fontes formais, sempre rendeu acalorados debates.
+Por força do disposto no artigo 4º da Lei de Introdução às Normas do Direito Brasileiro – LINDB
+(Decreto-lei n. 4657, de 1942), “quando a lei for omissa, o juiz decidirá o caso de acordo com
+a analogia, os costumes e os princípios gerais de direito”. Ainda nesse aspecto, o artigo 126
+do Código de Processo Civil (Lei 5.869, de 1973), que traz em seu conteúdo o princípio da
+indeclinabilidade, pelo qual o juiz não poderá deixar de sentenciar alegando lacunas ou
+obscuridades na lei, fonte formal por excelência, caso em que deverá recorrer à analogia, aos
+costumes e aos princípios gerais de direito.
+Assim, por uma questão didática, as fontes de direito são divididas em duas espécies, quais
+sejam, fontes materiais e fontes formais.
+Entende-se por fonte material do direito o órgão imbuído de competência para sua elaboração
+e criação. São, portanto, os valores sociais que orientam o legislador na criação das leis. A
+Constituição Federal Brasileira, em seu artigo 22, inciso I, dispõe que compete privativamente
+à União Federal dispor sobre direito civil, comercial, penal, processual, eleitoral, agrário,
+marítimo, aeronáutico, espacial e do trabalho. Isto posto, estão os demais entes federativos
+alijados do direito de legislar sobre referidos temas.
+Fonte formal, por sua vez, pode ser compreendida como aquela através da qual o direito se
+manifesta, podendo ser subdivididas em duas espécies: formais imediatas e formais mediatas.
+Por fonte formal imediata são reconhecidas as normas legais, ou lei em seu sentido lato,
+considerada como objeto de produção do Poder Legislativo em seus diversos níveis e dentro
+de seu âmbito de competência.
+A fonte formal mediata, por conseguinte, consiste em mecanismos na qual se apoia o julgador
+para, diante de uma situação concreta, solucionar o caso que lhe é posto à análise, atendendo,
+então, os ditames da regra de que ao juiz não é dado deixar de decidir alegando inexistência
+de regra específica para tanto. Podemos apontar como fontes formais mediatas os costumes,
+os princípios gerais do direito, a doutrina e a jurisprudência.
+Quanto à última, sua valorização, atualmente, nos ordenamentos jurídicos resultou na
+disseminação de estudos e manifestações doutrinárias daqueles que defendem sua inclusão
+dentre as fontes do Direito. Anteriormente relegada a mero elemento integrador de dado
+ordenamento jurídico, a jurisprudência já começa a ser discutida como legítima fonte do
+Direito. Tais manifestações ainda são minoritárias e o tema ainda é alvo de demasiada
+divergência doutrinária. No entanto, as vozes dissonantes representam uma tendência de
+mudança dogmática no estudo do direito.
+Entretanto, é necessário esclarecer que esse enquadramento não encontra consenso na
+doutrina brasileira. Dentre aqueles que entendem não ser, a jurisprudência, fonte formal do
+Direito, encontra-se Cândido Rangel Dinamarco3
+. Aduz o referido processualista que a
+
+3 Cândido Rangel Dinamarco. Instituições de direito processual civil, tomo 1. São Paulo: Malheiros, 2003.
+p. 81.
+Dezembro 2014 [PROJEÇÃO, DIREITO E SOCIEDADE]
+Periódico Científico Projeção, Direito e Sociedade | v.5 | n.2 41
+afirmação da jurisprudência como fonte do Direito incorre em confusão conceitual, uma vez
+que tal admissão só seria possível caso fosse, a mesma, portadora de normas gerais e
+abstratas com eficácia em relação aos casos futuros, com força vinculante em relação aos
+sujeitos atingidos e aos juízes que se defrontassem com situações análogas posteriormente.
+Na mesma esteira encontra-se Sílvio Venosa4
+, que visualiza a jurisprudência como uma fonte
+informativa do Direito, de natureza subsidiária. Argumenta o autor que a ausência de força
+vinculativa dos julgados não permite que seja a jurisprudência considerada fonte primária do
+Direito. Destaca, todavia, a importância do conjunto de decisões uniformes sobre
+determinada matéria como fator que influencia a mente do julgador, que tenderá a julgar de
+maneira semelhante.
+Entendimento diverso é o de Miguel Reale5
+. Para ele, a importância da jurisprudência na
+contemporaneidade decorre da pletora legislativa e da necessidade de se adequar as normas
+legais, cada vez mais insculpidas sob a forma aberta e indeterminada, às peculiaridades das
+relações sociais. Ante essa atividade de interpretação e concretização, afirma que não há que
+se negar à jurisprudência a categoria de fonte do Direito.
+Assim, uma vez classificada e enquadrada a jurisprudência enquanto fonte formal mediata de
+direito, com ressalva às posições doutrinárias divergentes, passamos à análise desse vetor do
+direito, que é o tema do presente trabalho.
+Jurisprudência – definição e aspectos gerais
+Jurisprudência, em noção bem simples, é o conjunto de decisões emanadas de um
+determinado órgão jurisdicional, que, orientadas em um determinado sentido, auxiliam ou
+indicam uma tomada de decisão.
+Jurisprudência deriva de juris-prudentia, prudência do direito, tomada a expressão prudência
+como virtude intelectual voltada para a prática, para a ação honesta, leal e justa. Segundo
+Sálvio de Figueiredo Teixeira6
+, a jurisprudência se constitui na grande força criadora da ordem
+jurídica, designava a ciência que se ocupa do direito, enquanto a expressão juris prudentes se
+destinava para designar os que a cultivavam, os quais, embora não recebessem honorários ou
+remuneração, desfrutavam de inegável prestígio cultural e generalizado acatamento.
+Destaca ainda que, em países como o Brasil e a França, a expressão se destina a apontar a
+“prática dos tribunais”, enquanto caracterizada por certa continuidade, isto é, “forma de
+revelação do direito que se processa através do exercício da jurisdição, em virtude de uma
+sucessão harmônica de decisões dos tribunais”. Ou, nas palavras de Roberto Rosas7
+, um
+código norteador das decisões a seguir, a reiteração de casos análogos passados para o rol
+
+4 Sílvio de Salvo Venosa. Direito civil: parte geral, 6ª edição. São Paulo: Atlas, 2006. p.21.
+5 Op. Cit. p. 168.
+6 Sálvio de Figueiredo Teixeira. A jurisprudência como fonte do direito e o aprimoramento da
+magistratura. in O juiz – seleção e formação do magistrado no mundo contemporâneo. Ed. Del Rey,
+Belo Horizonte, 1999.
+7 Roberto Rosas. Comentários ao Código de Processo Civil. São Paulo: RT.
+Dezembro 2014 [PROJEÇÃO, DIREITO E SOCIEDADE]
+Periódico Científico Projeção, Direito e Sociedade | v.5 | n.2 42
+dos fatos consumados, que podem ser revistos em virtude de motivos relevantes ou alteração
+das suas origens ou fonte emanadora: a lei, a doutrina, e assim por diante.
+A importância e o papel da jurisprudência variam a depender do modelo de ordenamento
+jurídico, ou seja, tem maior relevância nos países adeptos da common law do que naqueles
+de origem romano-germânica, como é o caso do Brasil. Todavia, isto não quer dizer que nos
+últimos a jurisprudência não goze de nenhum relevo ou importância, pelo contrário, uma vez
+que o presente trabalho pretende, ainda que de forma despretensiosa, demonstrar o alcance
+e o papel dado à jurisprudência no ordenamento jurídico brasileiro, ademais após o advento
+da Emenda Constitucional de n. 45, de 2004, que promoveu a chamada “reforma do judiciário”
+e implantou a figura da súmula vinculante.
+Nos países em que vigora o sistema da common law, a exemplo dos Estado Unidos da América
+e a Inglaterra, a ratio decidendi como regra de direito é necessariamente mais concreta do
+que naqueles adeptos do sistema romano-germânico. Aos olhos da common law as regras
+abstratas do direito continental não se parecem com verdadeiras regras jurídicas, mas com
+exortações morais à consciência do julgador.
+Para Lívio Goellner Goron8
+, na ótica de um jurista inglês ou mesmo norte-americano as regras
+jurídicas típicas do Direito continental, significativamente mais abertas à discricionariedade
+do julgador, deixam muito espaço à arbitrariedade e ameaçam perigosamente a segurança
+jurídica. A common law ofereceria, assim, aos seus juízes, basicamente três métodos para
+extrair a ratio decidendi dos precedentes. Ela pode sê-lo de forma extensiva, restritiva ou
+analógica. Pelo método extensivo o juiz está habilitado a ampliar o campo de abrangência da
+regra jurisprudencial. O método restritivo é usado em regra para evitar a aplicação de
+precedentes injustos ou incômodos. A aplicação analógica, por fim, tem lugar nos campos
+chamados cases of first impression, quando não existe um precedente que possa ser
+diretamente aplicado e o juiz necessita criar a solução adequada ao caso concreto.
+Assim, para o referido autor, o juiz inglês tem grande dificuldade em negar a autoridade de
+um precedente com força vinculante. Em muitos casos quando a solução contida no
+precedente lhe parece injusta ou inadequada, o juiz da common law prefere se utilizar da
+técnica conhecida como distinção, as vezes sob o preço de criar delimitações bastante
+artificiais. Esse método, denominado distinguishing, apresenta a vantagem essencial de não
+demonstrar incompatibilidade técnica com a regra do stare decisis, ainda que, muitas vezes,
+como visto, seja tênue a linha que separa a distinção da superação pura e simples do
+precedente.
+Nosso sistema jurídico, de alicerces romano-germânicos e filiação à família do civil law,
+estrutura seu ordenamento jurídico na supremacia da lei, considerando esta a principal e
+imediata fonte do Direito. Os juristas clássicos refutam o enquadramento da jurisprudência
+como fonte formal do Direito em nosso sistema sob o principal argumento de que os tribunais
+
+8 Lívio Goellner Goron. A jurisprudência como fonte do direito: a experiência anglo-americana. Revista
+de Direito Constitucional e Internacional. Ano 12. abr/julho, n. 47, p. 287, RT, 2004, São Paulo.
+Dezembro 2014 [PROJEÇÃO, DIREITO E SOCIEDADE]
+Periódico Científico Projeção, Direito e Sociedade | v.5 | n.2 43
+não criam regra jurídica com força vinculativa, caracterizada pela obrigatoriedade,
+abstratividade e generalidade.
+O próprio ordenamento, como apontado alhures, em dispositivo da Lei de Introdução às
+Normas do Direito Brasileiro, ao elencar as fontes do Direito, excluiu a jurisprudência desse
+rol. Importante, portanto, a observação de que, por jurisprudência, neste tocante, se entende
+“o conjunto de decisões dos tribunais, ou uma série de decisões similares sobre uma mesma
+matéria”. Relevante destacar, também, as características da reiteratividade e da similaridade
+a fim de que reste claro que não constitui jurisprudência um único precedente. Trata-se,
+indubitavelmente, de conceito coletivo.
+No Brasil, ordenamento cuja influência é de origem romano-germânica, alterações legislativas
+vem adotando técnicas semelhantes à da common law como forma de minimizar os impactos
+do aumento vertiginoso de recursos sobre a máquina jurisdicional. Cite-se, como exemplos, o
+requisito da arguição de relevância nos recursos extraordinários e a já mencionada súmula
+vinculante.
+Trata-se, no primeiro caso, e conforme magistério de Fátima Nancy Andrighi9
+, de um
+instrumento de controle, realizado pelo Supremo Tribunal Federal, da interposição,
+conhecimento e julgamento do recurso extraordinário instituído no cenário nacional para
+fazer frente ao excesso de trabalho que sobreveio ao STF a partir de 1965, vez que, somente
+os casos que envolvam questões federais de relevo, no prisma do interesse público, devem
+ser submetidos ao julgamento do Supremo Tribunal Federal. Aproxima a suprema corte
+brasileira, portanto, à suprema corte norte-americana, no tocante à necessidade de relevância
+do caso concreto como condição para análise por aquele sodalício. Encontra semelhança,
+segundo ela, com o writ of certiorari norte americano e com o recurso de revisão alemão.
+Quanto ao último instrumento, a súmula vinculante, dissertaremos mais abaixo, após
+analisarmos as súmulas dos tribunais enquanto cristalizadoras de entendimentos
+jurisprudenciais consolidados.
+Funções da Jurisprudência
+Feitas as considerações acerca do que se pode entender como jurisprudência, cabe destacar,
+a seguir, os papéis que cumpre a esta forma de expressão do direito desempenhar. Rubens
+Limongi França10 aponta as seguintes funções assumidas da jurisprudência:
+a) Interpretação da lei, mesmo porque não se pode aceitar o aforismo inexplicável que prega
+que a lei clara não necessita de interpretação;
+b) Atualização e vivificação da lei, porque uma nova lei influi e sofre influência do
+ordenamento que a precede, podendo surgir a necessidade de novas interpretações para a
+harmonização de todo o sistema jurídico;
+
+9 Fátima Nancy Andrighi. Arguição de relevância. Disponível em: HTTP://www.bdjur.stj.jus.br.
+10 Rubens Limongi França. A jurisprudência como forma de expressão do direito. Revista de Direito
+Civil, v. 51.
+Dezembro 2014 [PROJEÇÃO, DIREITO E SOCIEDADE]
+Periódico Científico Projeção, Direito e Sociedade | v.5 | n.2 44
+c) Humanização da lei, porque há que se atender aos fins sociais a que ela se dirige e às
+exigências do bem comum;
+d) Suplementação da lei, para que as lacunas – que são inevitáveis – sejam vencidas e todos
+os eventos da vida disciplinados pelo direito;
+e) Rejuvenescimento da lei, para destacar-lhe as imprecisões, incongruências, aspectos
+ásperos e mesmo as inevitáveis falhas, reelaborando, constantemente, o sistema jurídico que
+é dinâmico e relativo a um determinado momento histórico e da sociedade.
+Considerando-se as funções acima destacadas, o referido autor aponta, em decorrência delas,
+duas consequências ou requisitos inevitáveis: i) a jurisprudência deve ser progressiva e
+sempre deve interpretar o direito que lhe é apresentado (mesmo que aparentemente claros
+os termos da lei), impedindo que esta se torne imune aos avanços da sociedade; e ii) deve ser
+uniforme para que cumpra essa mesma função, mas proporcionando, acima de tudo,
+segurança ao jurisdicionado.
+Assim, o envelhecimento e caducidade da lei, à medida que deixaria de ser aplicada àquelas
+circunstâncias motivadoras de sua existência, será objeto de renovação, oxigenação,
+rejuvenescido pela interpretação jurisprudencial, que lhe dará as cores e formas próprias à
+nova realidade social que se apresenta. Cabe à jurisprudência revelar os princípios e costumes
+que ali serão aplicados, sendo indispensável à aplicação e ao progresso do direito, por seu
+caráter completativo e perfeccionador em relação à lei.
+Considerando a própria dinâmica do direito, pode ocorrer que um julgado diverso venha a
+alterar de forma definitiva um entendimento que, até então, se considerava cristalizado pela
+jurisprudência. Muitos são os fatores que podem levar a esta situação: a evolução dos meios
+tecnológicos, a necessidade de se dar uma interpretação mais restritiva ou mais ampliativa a
+determinados assuntos, devendo a jurisprudência, portanto, se amoldar a essa nova realidade
+que se apresenta.
+As súmulas como forma de sedimentação de uma jurisprudência consolidada
+Com base nas noções postas acima, e com o objetivo de definir o âmbito de enquadramento
+da jurisprudência enquanto fonte de direito, necessário discorrer quanto à relação entre a
+jurisprudência das cortes de justiça brasileiras e as súmulas por elas editadas.
+Enquanto a jurisprudência isolada serve apenas como forma de se alcançar o conteúdo de
+uma norma jurídica, assim como ocorre com a doutrina, as súmulas dos tribunais, pelo fato
+de trazerem sedimentado ou cristalizado o entendimento de uma determinada Corte sobre
+casos análogos, reiteradamente decididos, criando para os aplicadores do direito uma
+orientação que muito de perto se aproxima de uma verdadeira fonte do direito.
+Não se trata, no dizer de Renato César Jardim11, da análise de um único caso concreto levado
+ao Poder Judiciário, mas de diversos casos idênticos com a mesma solução, que acabam dando
+ensejo a uma interpretação consolidada pelos dispositivos legais existentes em nosso
+
+11 Op. Cit.
+Dezembro 2014 [PROJEÇÃO, DIREITO E SOCIEDADE]
+Periódico Científico Projeção, Direito e Sociedade | v.5 | n.2 45
+ordenamento jurídico. Para o referido magistrado, a edição de súmulas não consubstancia um
+processo legislativo na acepção da palavra, mas, ao contrário, apenas uma orientação acerca
+de determinado dispositivo legal. Conclui que não se deve aceitar opiniões no sentido de que
+as súmulas dos tribunais, mesmo as vinculantes, têm o escopo de trazer à tona a figura do
+judge made law, para ele incompatível com a tripartição dos Poderes, embora reconheça que
+seus efeitos se aproximem aos das leis.
+Quanto às súmulas, questão de relevante indagação diz respeito à súmula vinculante dos
+Tribunais, instrumento ainda recente no ordenamento jurídico brasileiro e que, como exposto
+acima, aproximou de certa maneira nosso ordenamento da regras da common law.
+Súmula Vinculante
+Trata-se de instituto relativamente recente no ordenamento jurídico brasileiro, eis que
+introduzido por meio da Emenda Constitucional n. 45, de 31.12.2004. Referido ato normativo,
+cujas disposições foram voltadas à chamada “reforma do Judiciário”, trouxe significativa
+alteração no panorama jurídico nacional, merecendo destaque, dentre outros importantes
+temas nela abordados, a inclusão expressa do princípio da razoável duração dos processos,
+sedimentado no inciso LXXVIII do artigo 5º da Carta Magna.
+Além do citado princípio, e ainda com a mesma finalidade, qual seja, abreviar os litígios
+judiciais e administrativos, conferindo celeridade na solução das demandas, trouxe também a
+Emenda Constitucional 45/2004 a figura da súmula vinculante, que passou a ser expressa no
+artigo 103-A, da Constituição Federal, sob a seguinte redação:
+Art. 103-A. O Supremo Tribunal Federal poderá, de ofício ou por
+provocação, mediante decisão de dois terços dos seus membros,
+após reiteradas decisões sobre matéria constitucional, aprovar
+súmula que, a partir de sua publicação na imprensa oficial, terá
+efeito vinculante em relação aos demais órgãos do Poder
+Judiciário e à administração pública direta e indireta, nas esferas
+federal, estadual e municipal, bem como proceder à sua revisão
+ou cancelamento, na forma estabelecida em lei.
+§ 1º A súmula terá por objetivo a validade, a interpretação e a
+eficácia de normas determinadas, acerca das quais haja
+controvérsia atual entre órgãos judiciários ou entre esses e a
+administração pública que acarrete grave insegurança jurídica e
+relevante multiplicação de processos sobre questão idêntica.
+§ 2º Sem prejuízo do que vier a ser estabelecido em lei, a
+aprovação, revisão ou cancelamento de súmula poderá ser
+provocada por aqueles que podem propor a ação direta de
+inconstitucionalidade.
+§ 3º Do ato administrativo ou decisão judicial que contrariar a
+súmula aplicável ou que indevidamente a aplicar, caberá 
+Dezembro 2014 [PROJEÇÃO, DIREITO E SOCIEDADE]
+Periódico Científico Projeção, Direito e Sociedade | v.5 | n.2 46
+reclamação ao Supremo Tribunal Federal que, julgando-a
+procedente, anulará o ato administrativo ou cassará a decisão
+judicial reclamada, e determinará que outra seja proferida com
+ou sem a aplicação da súmula, conforme o caso.
+Verifica-se, portanto, que atualmente o Supremo Tribunal Federal conta com duas espécies
+diversas de súmulas12: as súmulas já existentes, ou comuns, sem prejuízo de outras da mesma
+espécie que forem editadas, e as vinculantes, com efeito especial definido acima, e que
+dependem de um quórum especial de votação para alcançarem essa condição. Nota-se da
+redação do art. 103-A da Carta Constitucional que essa espécie de súmula tem por finalidade
+dar cabo às discussões envolvendo questões repetitivas no âmbito do Supremo Tribunal
+Federal, desafogando o Pretório Excelso, ao menos nesses assuntos.
+Aproxima-se a súmula vinculante das stare decisis, próprias da common law, embora nos
+ordenamentos jurídicos optantes por esse sistema, um único precedente jurisprudencial é
+capaz de impor o alinhamento de julgados posteriores que versem sobre o mesmo assunto.
+Atualmente, o Supremo Tribunal Federal conta com trinta e duas súmulas vinculantes sobre
+os diversos ramos do direito.
+Quanto ao efeito vinculante das súmulas, defende Renato César Jardim que antes mesmo do
+advento da Emenda Constitucional 45/2004 já existia em nosso ordenamento situações que
+davam às súmulas dos tribunais o referido efeito. Cita o magistrado mineiro os arts. 22, § 1º e
+56, § único do Regimento Interno do Supremo Tribunal Federal, que permitem ao Ministro
+Relator arquivar ou negar seguimento a eventual recurso que contrarie súmula13. Aponta,
+ainda, o art. 557 do Código de Processo Civil, que exorta o relator a negar seguimento a
+recurso que contrarie súmula ou jurisprudência dominante do respectivo tribunal, do
+Supremo Tribunal Federal ou de Tribunal Superior, e o art. 90, § 2º, da Lei Orgânica da
+Magistratura Nacional, que estabelece que o relator mandará arquivar ou negará provimento
+a recurso que contrarie súmula do Supremo Tribunal Federal.
+Conquanto reconheçamos a eficácia desses dispositivos, é inegável a amplitude dos efeitos
+conferidos à súmula vinculante pela Emenda Constitucional n. 45/2004. Nesta última hipótese
+estão sujeitos até mesmo os órgãos administrativos, sendo possível a revisão e cancelamento
+de decisões que a contrariem, sendo facultada, ainda, a utilização do mecanismo da
+reclamação ao Supremo Tribunal Federal a fim de corrigir eventuais desacertos e confrontos
+com súmula vinculante.
+Como dito, referido instituto foi introduzido com a finalidade precípua de conferir maior
+celeridade aos processos, desafogando o Poder Judiciário e garantindo ao jurisdicionado a
+efetiva prestação jurisdicional. Entretanto, por se tratar de tema ainda relativamente recente,
+
+12 Cabe aqui um parêntese para salientar que, na melhor acepção técnica, quando se faz referência a
+determinada súmula de um tribunal, a menção diz respeito a um enunciado. Esse esclarecimento,
+inclusive, já foi regulamentado pelo Tribunal Superior do Trabalho, que, através da Resolução n. 44,
+de 28 de junho de 1985, esclareceu que a súmula de um Tribunal é composta por enunciados, ou
+seja, a súmula é um rol de enunciados.
+13 Op. Cit., p. 32.
+Dezembro 2014 [PROJEÇÃO, DIREITO E SOCIEDADE]
+Periódico Científico Projeção, Direito e Sociedade | v.5 | n.2 47
+enfrenta profundas discussões doutrinárias quanto à sua real eficácia na solução célere dos
+processos e quanto à sua possível violação de direitos, princípios e garantias constitucionais
+no Estado Democrático de Direito.
+Conforme expõe Lênio Luiz Streck, com o passar dos anos, transitou em julgado a tese de que
+a solução para os problemas da justiça brasileira passa, necessariamente, pela adoção do
+efeito vinculante das súmulas do Supremo Tribunal Federal. Esquece-se com isto, que o
+problema da efetividade das decisões judiciais e da assim denominada morosidade da justiça
+não serão resolvidos mediante um ataque à funcionalidade do ordenamento ou do sistema,
+mas, sim, a partir de uma profunda mudança na estrutura do Poder Judiciário e das demais
+instituições encarregadas de aplicar a justiça, além da superação do paradigma
+epistemológico da filosofia da consciência, que pré-domina o imaginário dos juristas.14
+Merecem registro, também, as opiniões sobre a súmula vinculante proferidas pelos próprios
+ministros que compõem o Excelso Tribunal. Para Sepúlveda Pertence, a súmula vinculante
+representa uma estagnação da jurisprudência, uma vez que nos casos por ela abrangidos não
+haverá sequer a apreciação dos fatos para construção da sentença, posto que a matéria já
+fora decidida. Referido ministro, citado por José de Anchieta da Silva, posicionou-se da
+seguinte forma15:
+O efeito vinculante implicaria uma redução, quando não uma
+eliminação, da independência jurídica do juiz e levaria à paralisia
+da jurisprudência. Não nego seriedade a essas críticas nem riscos
+de sua procedência se a redisciplina e a prática do efeito
+vinculante não forem cercados de cuidados.
+A independência do juiz para decidir em cada caso concreto conforme os fatos apresentados
+durante o processo é uma garantia constitucional precípua, com a função de resguardar a
+sociedade de possíveis interferências do Estado, segundo manifesta o ministro Celso de
+Melo16:
+Mais que a própria instituição judiciária, é a sociedade quem
+efetivamente necessita de juízes livres e independentes.
+[...] a independência do juiz, para decidir com autonomia as
+controvérsias, traduz uma prerrogativa destinada à proteção da
+coletividade contra eventuais interferências ilegítimas do poder
+estatal.
+
+14 STRECK, Lenio Luiz. O efeito vinculante das súmulas e o mito da efetividade: uma crítica
+hermenêutica. Revista do Instituto de Hermenêutica Jurídica, Porto Alegre, 2005, p. 102-103.
+15 SILVA, José Anchieta da. A súmula de efeito vinculante amplo no direito brasileiro: um problema e
+não uma solução. Belo Horizonte: Del Rey, 1998, p. 83.
+16 Op. Cit. p. 83.
+Dezembro 2014 [PROJEÇÃO, DIREITO E SOCIEDADE]
+Periódico Científico Projeção, Direito e Sociedade | v.5 | n.2 48
+Para Renato César Jardim17, em que pesem as opiniões em sentido contrário, após a
+instituição das chamadas súmulas vinculante e impeditiva de recurso, a questão em debate
+não mais comporta discussões. Para ele, não resta dúvida de que a súmula vinculante tem
+mesmo força de lei, não se podendo negar a ela a qualidade de fonte formal de direito. E
+prossegue:
+A súmula vinculante, portanto, constitui inegavelmente fonte
+formal do direito de origem estatal, tal como a lei, porque seus
+enunciados derivam do Poder Judiciário e porque a atividade
+jurisdicional é uma atividade do Estado, um dos braços da
+soberania. Dentre as fontes não estatais, podemos citar a
+analogia, os costumes, o negócio jurídico e a doutrina, estes
+últimos para quem os aceita como tais.
+Nesse mesmo sentido é o magistério de Maria Helena Diniz18:
+... as fontes formais podem ser estatais e não estatais. As estatais
+subdividem-se em legislativas (leis, decretos, regulamentos, etc),
+jurisprudenciais (sentenças, precedentes judiciais, súmulas, etc)
+e convencionais (tratados e convenções internacionais). As não
+estatais, por sua vez, abrangem o direito consuetudinário
+(costume jurídico), o direito científico (a doutrina) e as
+convenções em geral ou negócios jurídicos.
+Postas essas considerações, e uma vez feito o enquadramento da súmula vinculante na atual
+sistemática legal brasileira, e ainda considerada enquanto cristalização de uma jurisprudência
+reiterada, verifica-se que, enquanto fonte de direito, apresenta contornos e características
+diferenciadas.
+Conclusão
+Do quanto exposto nos tópicos anteriores, não pairam dúvidas quanto à inclusão da
+jurisprudência como fonte de direito brasileiro. Como registrado, tanto o art. 4º da Lei de
+Introdução às Normas do Direito Brasileiro – LINDB (Decreto-lei n. 4657, de 1942), quanto o
+art. 126 do Código de Processo Civil enquadram a jurisprudência como fonte supletiva em face
+de lacunas legais.
+Inegável, portanto, seu enquadramento na condição de fonte formal de direito, ou seja,
+aquela através da qual o direito se manifesta. Aprofundando o exame, é possível a
+classificação da jurisprudência como fonte formal mediata, consistente em mecanismo no
+qual se apoia o julgador para, diante de uma situação concreta, solucionar o caso que lhe é
+posto à análise, atendendo, então, os ditames da regra de que ao juiz não é dado não decidir
+alegando inexistência de regra específica para tanto.
+
+17 Op. Cit. p. 32.
+18 DINIZ. Maria Helena. Curso de Direito Civil Brasileiro. 22. Ed. São Paulo: Saraiva, 2005, v.1., p. 22.
+Dezembro 2014 [PROJEÇÃO, DIREITO E SOCIEDADE]
+Periódico Científico Projeção, Direito e Sociedade | v.5 | n.2 49
+O mesmo poderia ser dito em relação às súmulas dos tribunais – ou enunciado da súmula,
+como ressaltamos alhures – resultante na consolidação ou cristalização enunciativa de um
+entendimento reiterado no seio das Cortes, no qual também se apoia o magistrado diante de
+uma situação concreta.
+Entretanto, referida conclusão não nos parece razoável quando o objeto de análise é a súmula
+vinculante do Supremo Tribunal Federal, criada e introduzida ao ordenamento jurídico
+brasileiro pela Emenda Constitucional n. 45/2004. Referido instrumento, como vimos,
+apresenta delineamentos diversos das súmulas propriamente ditas, efeitos mais amplos e
+vinculativos, além de quorum mais dificultoso para aprovação.
+A súmula vinculante do STF, enquanto resultado de uma jurisprudência reiterada e
+consolidada, tem efeitos mais profundos e cogentes, obrigando as instâncias judicial e
+administrativas e vinculando-as aos seus comandos. Assemelha-se, como acima aduzido, das
+stare decisis da common law, e geram efeitos semelhantes. Sua cogência, obrigatoriedade e
+efeitos erga omnes, portanto, acabam por lhe carrear os mesmos resultados de uma lei, não
+sob o aspecto formal, já que derivada do Poder Judiciário e resultado de quórum diferenciado.
+Classificando-se a súmula vinculante sob esses predicados, poderíamos dizer tratar-se de
+fonte formal imediata de direito, tal qual a lei lato sensu.
+Isto posto, enquanto jurisprudência propriamente dita, e ainda que cristalizada sob a forma
+de enunciado de súmula sodalícia, a jurisprudência é sem dúvida fonte formal mediata de
+direito. Em se tratando de súmula vinculante, e, com base no que foi exposto, entendemos
+razoável seu enquadramento na condição de fonte formal imediata de lei.
+Referências
+ANDRIGHI, Fátima Nancy. Arguição de relevância. Disponível em: http://www.bdjur.stj.jus.br.
+DINAMARCO, Cândido Rangel. Instituições de direito processual civil, tomo 1. São Paulo:
+Malheiros, 2003. p. 81.
+DINIZ. Maria Helena. Curso de Direito Civil Brasileiro. 22. Ed. São Paulo: Saraiva, 2005, v.1., p.
+22.
+FRANÇA, Rubens Limongi. A jurisprudência como forma de expressão do direito. Revista de
+Direito Civil, v. 51.
+GORON, Lívio Goellner. A jurisprudência como fonte do direito: a experiência angloamericana.
+Revista de Direito Constitucional e Internacional. Ano 12. abr/julho, n. 47, p. 284-
+295, RT, 2004, São Paulo.
+JARDIM, Renato César. As súmulas dos tribunais como fonte formal de direito. Uma
+abordagem após o advento das súmulas vinculantes e impeditivas de recurso. Revista
+Jurisprudência Mineira, ano 58, n. 181, p. 19-36, abr/jun. 2007, Belo Horizonte.
+REALE, Miguel. Lições Preliminares de Direito. São Paulo, 1986.
+Dezembro 2014 [PROJEÇÃO, DIREITO E SOCIEDADE]
+Periódico Científico Projeção, Direito e Sociedade | v.5 | n.2 50
+ROSAS, Roberto. Comentários ao Código de Processo Civil. São Paulo: RT.
+SILVA, José Anchieta da. A súmula de efeito vinculante amplo no direito brasileiro: um
+problema e não uma solução. Belo Horizonte: Del Rey, 1998.
+STRECK, Lenio Luiz. O efeito vinculante das súmulas e o mito da efetividade: uma crítica
+hermenêutica. Revista do Instituto de Hermenêutica Jurídica, Porto Alegre, 2005.
+TEIXEIRA, Sálvio de Figueiredo. A jurisprudência como fonte do direito e o aprimoramento da
+magistratura. in O juiz – seleção e formação do magistrado no mundo contemporâneo. Ed.
+Del Rey, Belo Horizonte, 1999.
+VENOSA, Sílvio de Salvo. Direito civil: parte geral, 6ª edição. São Paulo: Atlas, 2006. 

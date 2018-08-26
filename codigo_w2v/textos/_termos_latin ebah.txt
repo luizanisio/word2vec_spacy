@@ -1,0 +1,939 @@
+FIAT JUSTITIA ET RUAT CAELUM
+
+TERMOS JURÍDICOS MAIS USADOS
+
+A quo - Juízo a quo é aquele de cuja decisão se recorre. Dies a quo é o dia em que começa a correr um prazo.
+
+Abandono de processo - Ocorre quando o processo fica paralisado por mais de um ano, em virtude de negligência de ambas as partes (art. 267, II), ou por mais de trinta dias, por negligência do autor (art. 267, III).
+
+Absolvição sumária - Absolvição antecipada que ocorre na fase inicial nos crimes de competência do Tribunal do Júri quando o juiz deixa de oferecer pronúncia por reconhecer que o réu ou agiu em legítima defesa, ou em estado de necessidade, ou no exercício regular de direito, ou mesmo em estrito cumprimento de seu dever legal, ou, ainda, se ficar provado que era inimputável.
+
+Ação - Direito subjetivo público da parte interessada de deduzir em juízo uma pretensão para que o Estado lhe dê a prestação jurisdicional.
+
+Ação cautelar - É a destinada à proteção urgente e provisória de um direito. Tem a finalidade de assegurar direito. Não dá razão a ninguém, pois qualquer das partes poderá ganhar o processo subseqüente, chamado de "principal". A cautelar pode ser nominada (arresto, seqüestro, busca e apreensão) e inominada, ou seja, a que o Código não atribui nome, mas, sim, o proponente da medida (cautelar inominada de sustação de protesto, por exemplo). Pode ser preparatória, quando antecede a propositura da ação principal, e incidental, proposta no curso da ação principal, como incidente da própria ação.
+
+Ação cível - É toda aquela em que se pleiteia em juízo um direito de natureza civil, ou seja, não-criminal.
+
+Ação civil - É aquela através da qual objetiva-se a obter um de natureza civil, ou seja, pertencente à área familiar, sucessória, obrigacional ou real.
+
+Ação civil pública - Meio atribuído ao Ministério Público, e dado a pessoas jurídicas públicas e particulares, para a proteção do patrimônio público e social, do meio ambiente e de outros interesses difusos e coletivos, objetivando fixar responsabilidade pelos danos a eles causados.
+
+Ação cominatória - Visa à condenação do réu a fazer ou não fazer alguma coisa, sob pena de pagar multa diária (arts. 287, 644 e 645, CPC).
+
+Ação constitutiva - Tem por finalidade criar, modificar ou extinguir um estado ou relação jurídica.
+
+Ação criminal ou penal - Procedimento judicial que visa à aplicação da lei penal ao agente ou agentes de ato ou omissão, nela definidos como crime ou contravenção. Pode ser de natureza pública ou privada.
+
+Ação de conhecimento - Tem como finalidade reconhecer o direito do autor.
+
+Ação de execução - Visa ao cumprimento forçado de um direito já reconhecido.
+
+Ação declaratória - Aquela que visa à declaração judicial da existência ou inexistência de relação jurídica, ou à declaração da autenticidade ou falsidade de documento.
+
+Ação declaratória de constitucionalidade - Ação que tem por objeto principal a declaração da constitucionalidade de lei ou ato normativo federal. Entretanto, se julgada improcedente, a Corte declarará a inconstitucionalidade da norma ou do ato. É proposta perante o Supremo Tribunal Federal. Somente podem propô-la o Presidente da República, a Mesa do Senado Federal, a Mesa da Câmara dos Deputados ou o Procurador-Geral da República.
+
+Ação declaratória incidental - Serve para pedir que se julgue uma questão prejudicial referida no processo. Questão prejudicial é a questão que não está em julgamento, nem faz parte do mérito, mas se coloca como antecedente lógico da decisão a ser proferida e que poderá, por si só, ser objeto de um processo autônomo (arts. 5.0 e 325, CPC).
+
+Ação direta de inconstitucionalidade (ADIN) - Ação que tem por objeto principal a declaração de inconstitucionalidade de lei ou ato normativo. Será proposta perante o Supremo Tribunal Federal quando se tratar de inconstitucionalidade de norma ou ato normativo federal ou estadual perante a Constituição Federal. Ou será proposta perante os Tribunais de Justiça dos Estados quando se tratar de inconstitucionalidade de norma ou ato normativo estadual ou municipal perante as Constituições Estaduais. Entretanto, se julgada improcedente, a Corte declarará a constitucionalidade da norma ou do ato. A Constituição Federal de 1988 e a Constituição do Estado do Rio Grande do Sul de 1989 ampliaram o rol dos que possuem a titularidade para a propositura dessas ações.
+
+Ação dúplice - É uma ação cumulativa em que as partes são, concomitantemente, autor e réu.
+
+Ação incidental - É proposta no curso de outra ação, já em andamento, e com ela passa a caminhar, dentro do mesmo processo para decidir questões prejudiciais. Exemplo: exibição de documentos com vistas a comprovar o direito discutido na ação principal.
+
+Ação monitória - Ação própria para reclamar pagamento em dinheiro, ou entrega de coisa móvel ou fungível, aquilo que é suscetível de substituição por bem da mesma espécie, quantidade ou qualidade.
+
+Ação penal - É aquela de titularidade do Ministério Público, quando incondicionada, com a finalidade de processar e julgar os autores de delitos penais.
+
+Ação popular - É aquela que visa a anulação de ato lesivo ao patrimônio público ou de entidade de que o Estado participe, à moralidade administrativa, ao meio ambiente e ao patrimônio histórico e cultural, podendo ser proposta por qualquer cidadão (art. 5º, LXXIII, da CF; L. 4717, de 29.6.65). Meio processual, de assento constitucional, que legitima qualquer cidadão a promover a anulação de ato lesivo ao patrimônio público, ou de entidade de que o Estado participe, à moralidade administrativa, ao meio ambiente e ao patrimônio histórico e cultural, ficando o autor popular, salvo comprovada má-fé, isento de custas judiciais e do ônus da sucumbência.
+
+Ação rescisória - Destinada a desconstituir ou revogar acórdão ou sentença de mérito transitada em julgado (art. 485, CPC). 0 prazo para a sua interposição é de dois anos (art. 495, CPC). É aquela que visa a rescindir ("abrir") uma decisão judicial transitada em julgado, substituindo-a por outra, que reapreciará objeto da ação anterior, quando aquela foi proferida com vício ou ilegalidade.
+
+Ações ordinárias - São aquelas que observam um procedimento corriqueiro, comum a todas, sem qualquer cautela diferenciada ou alguma forma especial de seqüência, prova ou atuação das partes.
+
+Acórdão - Decisão proferida por tribunal (art. 163, CPC). Designação dos julgamentos proferidos por tribunal, nos feitos de sua competência originária ou recursal, por um dos seus órgãos colegiados. Cada vez mais a lei delega ao relator poderes para julgar isoladamente, mas tais atos não são acórdãos, e, sim, decisões.
+
+Ad hoc - Para isto; para este fim específico.
+
+Ad judicia - Para fins judiciais. Procuração ad judicia.
+
+Ad quem - Juízo ad quem é aquele para quem se recorre.
+
+Aditamento - Acréscimo lançado, quando possível, num documento no sentido de completá-lo ou esclarecê-lo.
+
+Adjudicação - Ato judicial em que o credor recebe a coisa penhorada em pagamento de seu crédito. Só cabe se na praça ou leilão não houve nenhum licitante (arts. 708 e 714, CPC).
+
+Administração direta - Conjunto de órgãos ligados diretamente aos governos da União, dos Estados, do Distrito Federal e dos Municípios.
+
+Administração indireta - São os órgãos dotados de personalidade jurídica própria e criados para a consecução de um objetivo específico do Estado, como as autarquias, as fundações públicas, as empresas públicas e as sociedades de economia mista.
+
+Autarquia - é uma entidade de direito público, com personalidade jurídica e patrimônio próprios, destinada à execução de atividades destacadas da administração direta. Exemplo: INSS, BACEN.
+
+Fundação - é a pessoa jurídica composta por um patrimônio juridicamente personalizado, destacado pelo seu fundador, para uma finalidade específica. Não tem proprietário, nem titular, nem sócios ou acionistas. Consiste apenas num patrimônio destinado a um fim, dirigido por administradores ou curadores, na conformidade de seus estatutos. Na área pública, a fundação é criada por lei, ou por escritura pública, desde que autorizada por lei. Ex.: FUNAI - Fundação Nacional do índio.
+
+Empresa pública - é uma empresa de capital inteiramente público, dedicada a atividades econômicas, tendo, porém, personalidade jurídica de direito privado. Exemplo: CEF, EBCT.
+
+Sociedade de economia mista - é uma empresa de capital público e particular, com direção estatal e personalidade jurídica de direito privado. Deve ter a forma de sociedade anônima, com maioria de ações votantes nas mãos do poder público. Exemplo: Banco do Brasil S.A., PETROBRAS.
+
+Advogado constituído - Aquele que é contratado por alguém para defender seus interesses.
+
+Advogado dativo ou assistente judiciário - Advogado nomeado pelo juiz para propor ou contestar ação civil, mediante pedido formal da parte interessada que não possui condições de pagar as custas do processo ou os honorários do advogado. Na esfera penal, é o nomeado ao acusado que não tem defensor, ou quando, tendo-o, este não comparecer a qualquer ato do processo.
+
+Agravado - 1. Decisão ou despacho. 2. A parte recorrida no recurso de agravo.
+
+Agravante - 1. Circunstância acidental que, além da reincidência, contribui para maior gravidade do delito, e que sempre majora a pena, quando não constitui ou qualifica o crime. 2. A parte que recorre no recurso de agravo.
+
+Agravo - Recurso contra decisão interlocutória ou contra despacho de juiz ou membro de tribunal agindo singularmente.
+
+Agravo de instrumento - Recurso que cabe das decisões, ou seja, dos atos pelos quais o juiz, no curso do processo, resolve questão incidente, sem encerrá-lo (art. 522, CPC). O prazo é de dez dias. Deve ser interposto diretamente no tribunal competente (art. 524, CPC).
+
+Agravo regimental - Espécie de recurso disciplinado no regimento do Tribunal que o adota, daí a denominação. Consiste no comumente chamado "agravinho". No TJRS caberá agravo regimental no prazo de cinco dias de decisão do Presidente, dos Vice-Presidentes ou do relator, que causar prejuízo ao direito da parte. A petição do agravo regimental será submetida ao prolator da decisão, que poderá reconsiderá-la ou submeter o agravo a julgamento do órgão competente, computando-se também seu voto. Somente quando o recurso for a Órgão Especial, o Presidente, como relator, participará do julgamento. Nos demais casos de decisão do Presidente, será sorteado o relator. A interposição do agravo regimental não terá efeito suspensivo. Controverte-se a possibilidades de o regimento do Tribunal criar recursos, pois, em princípio, só a lei poderá fazê-lo.
+
+Agravo retido - Recurso de decisão interlocutória que, a requerimento do agravante, fica retido nos autos, a fim de que dele conheça o tribunal, preliminarmente, por ocasião do julgamento da apelação.
+
+Alegações finais - A última manifestação das partes, com exposição de fundamentos de fato e de direito, com a finalidade de convencer o juiz a decidir de acordo com a sua respectiva pretensão.
+
+Alvará - É a autorização administrativa ou judiciária, para que seja feito ou praticado algum ato, que é fiscalizado pela Administração Pública ou só pode ser praticado mediante autorização judicial.
+
+Apelação - Recurso contra a sentença proferida em 1º grau, que extingue o processo, com ou sem julgamento do mérito, a fim de submeter ao grau superior o reexame de todas as questões suscitadas na causa e nos limites do próprio recurso. Recurso que cabe da sentença, ou seja, do ato pelo qual o juiz põe termo ao processo, decidindo ou não o mérito da causa (art. 513, CPC). O prazo é de 15 dias (art. 508, CPC); a apelação ex officio, chamada de reexame necessário, é aquela na qual o juiz, por força de lei, já na sentença submete a mesma a reexame do tribunal.
+
+Apelação cível - É o recurso que se interpõe de decisão terminativa ou definitiva de primeira instância, para instância imediatamente superior, a fim de pleitear a reforma, total ou parcial, da sentença de natureza cível com a qual a parte não se conformou.
+
+Apelação criminal - Recurso interposto pela parte que se julga prejudicada, contra a sentença definitiva de condenação ou absolvição em matéria de natureza criminal.
+
+Apelado - A parte que figura como recorrida na apelação.
+
+Apelante - Quem interpõe a apelação.
+
+Argüição de inconstitucionalidade - Procedimento mediante o qual as pessoas ou entidades elencadas no art. 103 da Constituição Federal impugnam atos ou legislação de natureza normativa que contrariem os preceitos da Carta Magna.
+
+Arrematação - Aquisição de bens levados a leilão em processos de execução; um leiloeiro apregoa e um licitante os adquire, pelo maior lance (art. 686, CPC).
+
+Arrestar - Fazer ou decretar arresto, isto é, a apreensão judicial de bens do devedor, como meio preventivo de garantir ao credor a cobrança de seu crédito, até ser decidida a questão (art. 813, CPC).
+
+Arresto - Medida acautelatória dos direitos do credor, para não ter prejuízo na eventualidade de ser vencedor em ação contra o proprietário do bem que possa ser subtraído de sua disponibilidade, assim evitando seja ocultado, danificado, dilapidado ou alienado.
+
+Assistência - Intervenção de terceiro no processo, para auxiliar uma das partes (art. 50). Pode ser simples (envolvimento indireto), ou litisconsorcial (envolvimento direto, devendo a sentença ser uniforme, tanto para o assistido como para o assistente).
+
+Assistência judiciária gratuita - É o benefício prestado às pessoas desprovidas de recursos para custear o processo. Gozam desse benefício os necessitados nacionais ou estrangeiros residentes no País que precisarem recorrer à Justiça Penal, Civil, Militar ou do Trabalho. Considera-se necessitado, para os fins legais, todo aquele cuja situação econômica não lhe permita pagar as custas do processo e os honorários de advogado, sem prejuízo do sustento próprio ou de sua família. Também as pessoas jurídicas podem obter o benefício.
+
+Assistente judiciário - O advogado nomeado pelo juiz para propor ou contestar ação civil, mediante pedido formal da parte interessada.
+
+Assistente técnico - Técnico indicado pela parte para acompanhar perícia (art. 421, § 1º, CPC).
+
+Atribuição de dirimir os dissídios oriundos das relações entre empregadores e empregados regidos pela legislação social.
+
+Audiência - Reunião solene, presidida pelo juiz, para a realização de atos processuais.
+
+Audiência de instrução - Mais precisamente: audiência de instrução e julgamento. Momento culminante do processo de conhecimento quando, em reunião pública e solene do juiz com as partes, produzem-se ou completam-se as provas, enseja-se a conciliação e é proferida a sentença.
+
+Autos - Conjunto ordenado das peças de um processo judicial.
+
+Autuação - Formação dos "autos" pelo escrivão, com a colocação da petição inicial numa capa de cartolina, que conterá também todas as demais peças subseqüentes além do termo lavrado nessa capa contendo o nome das partes, juízo, espécie de ação etc.
+
+Averbação - Registro de alguma anotação à margem de alguma outra. Por exemplo, anotação de sentença de divórcio no Livro de Registro de Casamento e de Imóveis.
+
+Avocar - Chamar a si, atribuir-se; chamar o juiz a seu juízo a causa que corre em outro ("O juiz avocou o processo à sua comarca").
+
+Avocatória - Carta ou mandado, a pedido das partes ou do próprio juiz, pelos quais o juiz chama ao seu juízo todas as causas conexas que correm noutro juízo, por serem de sua competência
+
+Baixa dos autos - Expressão simbólica significando a volta dos autos do grau superior para o juízo originário, após julgamento do último recurso cabível e interposto ou medida administrativa após solução da lide
+Busca e apreensão - Medida preventiva ou preparatória, que consiste no ato de investigar e procurar, seguido de apoderamento da coisa ou pessoa que é objeto de diligência judicial ou policial.
+
+Caducar - Perder a validade ou a força de um direito, em decorrência do tempo; superado o prazo legal, o titular do direito não mais poderá exercê-lo.
+
+Calúnia - Imputação falsa a alguém de fato definido como crime (CP, art. 138 do CP). A conduta é imputar, atribuir, afirmar fato cometido por alguém. Fato que há de ser definido como crime pela legislação em vigor. Protege-se, neste crime, a honra objetiva do ofendido, já que a calúnia vem para lhe trazer o (potencial, pelo menos) descrédito social.
+
+Câmaras - O Tribunal de Justiça atua em órgãos plenário - o Órgão Especial - e fracionários. Estes dividem-se em Grupos e Câmaras. Estas são compostas por quatro desembargadores, dos quais apenas três participam do julgamento, sendo presididas pelo mais antigo. O Tribunal de Justiça do Rio Grande do Sul possui 21 Câmaras cíveis e oito Câmaras criminais.
+
+Câmaras de férias - Atendem aos processos que ingressam no Tribunal de Justiça durante os períodos de recessos, nos meses de janeiro e julho.
+
+Caput - Refere-se à primeira parte, ou à parte mais alta de um artigo de lei.
+
+Carência de ação - Ausência do direito de agir decorrente da falta de pressuposto processual ou de condição da ação (v. pressupostos processuais e condições da ação).
+
+Carta de citação - Meio que serve para citar alguém por via postal.
+
+Carta de ordem - Ato pelo qual uma autoridade judiciária determina a outra, de hierarquia inferior, a prática de um ato processual, contanto que da mesma Justiça e do mesmo Estado.
+
+Carta de sentença - É uma coletânea de peças de um processo, que habilita a parte a executar provisoriamente a sentença e que só é formada porque os autos principais subirão à instância superior para conhecimento do recurso da parte vencida, recurso esse que não é dotado de efeito suspensivo.
+
+Carta precatória - É o expediente pelo qual o juiz se dirige ao titular de outra jurisdição que não a sua, de categoria igual ou superior à de que se reveste, para solicitar-lhe seja feita determinada diligência que só pode ter lugar no território cuja jurisdição lhe está afeta. 0 juiz que expede a precatória é chamado de deprecante e o que recebe denomina-se deprecado. A precatória, ordinariamente, é expedida por carta, mas, quando a parte o preferir, por telegrama, radiograma, telefone e fax, ou em mãos do procurador.
+
+Carta rogatória - Solicitação de diligência a autoridade judiciária estrangeira (art. 201, CPC).
+
+Carta testemunhável - É o recurso cabível, em matéria penal, contra decisão que denega recurso, ou da que, embora o admitindo, obste a sua expedição e seguimento para o juízo de instância superior. Modalidade de recurso, cabível contra as decisões em que o juiz denegue recurso em ação criminal, ou da decisão que obstar à sua expedição e seguimento para o Tribunal;
+
+Cartório extrajudicial - É o local onde são praticados os atos notariais e registrais, como por exemplo escrituras, testamentos públicos, registros imobiliários de pessoas físicas, expedição de certidões, etc.
+
+Cartório ou Vara judicial - É o local onde são praticados os atos judiciais relativos ao processamento e procedimento dos feitos civis e criminais.
+
+Caução judicial - É a garantia real (sobre bens) ou fidejussória (baseada "na palavra", compromisso de pessoas, que é a fiança) de que de um ato judicial, que uma das partes quer praticar, resultará indenizada a parte contrária; pode ser requerida pelo interessado, mas, às vezes é a própria lei que determina que alguém, para fazer algo, ou para promover determinada ação, preste caução. Exemplo: o Código Civil, no art. 555, diz que o proprietário tem direito de exigir do dono do prédio vizinho a demolição, ou reparação necessária, quando este ameace ruína, bem como preste caução pelo dano iminente.
+
+Certidão de objeto e pé (ou de breve relato) - Certidão que retrata o andamento do processo, elaborada pela secretaria do cartório judicial a pedido de parte interessada.
+
+Certidão negativa - É aquela cujo teor declara não haver registro de algum ato ou fato, como, v.g., existência de dívida.
+
+Circunscrição - É a delimitação territorial para efeitos de divisão administrativa de trabalho, definindo a área de atuação de agentes públicos.
+
+Citação - Ato processual escrito pelo qual se chama, por ordem da autoridade competente, o réu, ou o interessado, para defender-se em juízo. Pode ser feita por mandado, se o réu ou interessado estiver no território sujeito à jurisdição do juiz que a ordenou; por precatória, se estiver fora da jurisdição do magistrado processante; por rogatória, se a citação tiver de ser feita em outro país, e por edital, se o réu estiver em local inacessível ou se a pessoa que tiver de ser citada for incerta.
+
+Citação ficta - Também é designada citação presumida, por ocorrer mediante edital ou com hora certa.
+
+Citação na execução - Ato processual que dá início à execução, quando o devedor é chamado para defender-se, sendo-lhe oferecida uma última oportunidade para cumprir a prestação devida.
+
+Citação pelo correio - Ocorre através de carta citatória registrada e expedida com aviso de recebimento para que, com a anexação deste aviso aos autos, fique comprovado o recebimento da citação pelo destinatário.
+
+Citação por carta de ordem - Ordem do tribunal dirigida a juiz que lhe seja subordinado para que este determine o cumprimento de uma citação.
+
+Citação por carta precatória - Ato citatório que ocorre quando o réu ou interessado mora em outra comarca e deva ser comunicado para defender-se em juízo. O juiz do processo, por não ter jurisdição na comarca onde a citação deve ser efetuada, depreca ao juiz da comarca onde a citação deve ser feita para que a providencie. O instrumento deste pedido feito por um juiz a outro da mesma categoria funcional é a carta precatória.
+
+Citação por carta rogatória - Ato processual solicitado por juiz brasileiro, por via diplomática, a uma autoridade judiciária estrangeira, quando o réu ou interessado esteja no exterior. Dá-se o mesmo nome para pedidos de juízes estrangeiros a juízes brasileiros.
+
+Citação por edital - Quando a citação ocorre através de aviso ou anúncio publicado na imprensa oficial ou particular e afixado na sede do juízo, ou divulgado pelo rádio, no caso de ser o réu desconhecido ou incerto, de se encontrar em local ignorado, incerto ou inacessível ou, ainda, nos casos expressamente indicados em lei.
+
+Citação por mandado - Feita pelo próprio oficial de justiça, não dispondo a lei de outro modo, no território da circunscrição judiciária em que o juiz ordenador da diligência citatória exerce a jurisdição ou no de comarca contígua, quando fácil a comunicação e próximo o lugar onde resida o citando ou onde possa ser encontrado.
+
+Citação por oficial de justiça - Aquela feita pelo oficial de justiça, por ordem do juiz, que manda entregar-lhe o mandado, quando vedada ou frustrada a citação pelo correio, para que procure o réu e cite-o, onde o encontrar, ou proceda a citação através de pessoa da sua família ou do vizinho, no caso de não encontrar o citando porque este se escondeu para não ser citado.
+
+Cláusula pétrea - Dispositivo constitucional imutável, não podendo ser alterado nem mesmo por via de Emenda à Constituição. O objetivo é impedir inovações em assuntos cruciais para a cidadania ou o próprio Estado. O art. 60, parágrafo 4º da CF traz um exemplo de cláusula pétrea: "Não será objeto de deliberação a proposta de emenda tendente a abolir: I - a forma federativa de Estado; II - o voto direto, secreto, universal e periódico; III -a separação dos Poderes; IV - os direitos e garantias individuais".
+
+Código - Conjunto de disposições legais sistematizadas, relativas a um ramo do Direito.
+
+Coisa julgada - Qualidade que a sentença adquire, de ser imutável, depois que dela não couber mais recurso.
+
+Coisa julgada formal - É a irritabilidade da sentença dentro do processo em que foi proferida.
+
+Coisa julgada material - É o impedimento de ser a lide novamente discutida em outro processo, ou no mesmo, por estar a questão definitivamente julgada.
+
+Comarca - Território ou circunscrição territorial abrangido por um juízo, compreendendo um ou mais municípios, e onde atuam um ou mais juízes.
+
+Competência - Delimitação da jurisdição e da área de atuação de cada juiz. Extensão do poder de jurisdição do juiz, ou seja, a medida da jurisdição. É a possibilidade concreta de algum juiz julgar certa causa.
+
+Competência originária dos tribunais - Em regra o processo inicia no 1º grau de jurisdição, porém existem casos em que a lei estabelece que o processo deve ter inicio perante os órgãos jurisdicionais superiores, em razão de determinadas circunstâncias, como a qualidade e função das pessoas, a natureza do processo.
+
+Competência recursal - É a competência para admitir o recurso, no 1º grau, do juiz prolator da decisão, e, no 2º grau, do órgão julgador coletivo ou colegiado para conhecer, ou não, da matéria posta sub examine.
+
+Comutar - Permutar uma pena mais grave por outra mais branda (não se confunde com os institutos do perdão, do indulto e da graça, nos quais se libera toda a pena).
+
+Conclusão - Ocorre quando os serventuários encaminham os autos do processo ao juiz para que ele despache ou profira sentença.
+
+Condições da ação - São requisitos necessários à propositura da ação, indicadores da viabilidade da mesma. São as seguintes as condições da ação: legitimidade para a causa, interesse de agir e possibilidade jurídica do pedido.
+
+Conexão - Relação que existe entre duas ou mais ações quanto ao objeto ou a causa de pedir, acarretando a reunião de processos para que um mesmo órgão profira decisão.
+
+Confissão - Admissão de um fato.
+
+Conflito de competência ou conflito de jurisdição - Quando diversos juízes se dão por competentes para um mesmo processo ou todos se recusam a funcionar no feito, dando origem a um conflito. O Código de Processo Civil soluciona-o através de um incidente chamado conflito de competência. Na legislação processual civil já revogada, o atual conflito de competência denominava-se conflito de jurisdição.
+
+Conselho da Magistratura - É o órgão maior de inspeção e disciplina na 1ª instância e de planejamento da organização e da administração judiciárias em 1ª e 2ª instâncias. Compõe-se pelo Presidente, 1º e 2º Vice-Presidentes do TJ, pelo Corregedor Geral da Justiça e por dois desembargadores eleitos. No Tribunal de Justiça do Rio Grande do Sul, reúne-se uma vez por semana.Constituição Federal, visando a tutela de interesses coletivos ou difusos.
+
+Contestação - Resposta do réu com a exposição das razões de fato e de direito com que se defende da pretensão do autor. A contestação tem de ser especificada, abrangendo todos os fatos alegados pelo autor, com referência a cada um deles (art. 302 do CPC).
+
+Continência - Relação que existe entre duas ações como identidade de partes e de causa de pedir, de modo que o objeto de uma abranja o da outra, por ser mais amplo (art. 104 do CPC).
+
+Contradita de testemunha - É a impugnação de uma testemunha, pretendendo que seja ela impedida de depor, por ser amigo íntimo, parente, inimigo figadal, ou ter qualquer outro interesse na decisão. Impugnação de testemunha.
+
+Contrafé - Cópia da inicial, entregue ao réu pelo oficial de justiça, por ocasião da citação (art. 226, do CPC). Cópia autêntica do mandado.
+
+Contrariedade - Peça escrita, ou oral reduzida a termo, em que a parte se contrapõe a algum ato ou a alguma prova.
+
+Contravenção penal - É a infração penal a que a lei, isoladamente, pune com a pena de prisão simples ou de multa, ou ambas, alternativa ou cumuladamente. É um "crime menor", enquadrado dentro das normas legais que regem as Contravenções Penais.
+
+Contumácia - Omissão da parte no processo; recusa da parte para comparecer em juízo.
+
+Corpo de delito - Conjunto de elementos materiais ou de vestígios que indicam a existência de um crime. Ex.: vítima, armas, pegadas.
+
+Corregedor-Geral da Justiça - Título do desembargador a quem incumbe a correção permanente dos serviços judiciários de primeira instância e o zelo pelo bom funcionamento e aperfeiçoamento da Justiça. Nessa atividade é auxiliado por Juízes-Corregedores.
+
+Corregedoria-Geral da Justiça - Órgão de fiscalização, disciplina e orientação administrativa, com jurisdição em todo o Estado. Exercida por um desembargador com o título de Corregedor-Geral.
+
+Correição - Função administrativa exercida pelo Corregedor-Geral da Justiça ou Juízes-Corregedores, que tem por finalidade emendar e corrigir os erros e abusos de autoridades judiciárias e dos serventuários da Justiça e auxiliares.
+
+Correição geral ou ordinária - Aquela que o Corregedor faz habitualmente em toda a sua jurisdição, sem motivo especial e em decorrência de suas obrigações funcionais.
+
+Correição parcial - Fiscalização levada a efeito pelo juiz corregedor ao tomar conhecimento de erro ou abuso de servidor público.
+
+Cota - Manifestação dos advogados das partes ou do Ministério Público, nos próprios autos, no correr de um processo, acerca de um documento ou de qualquer incidente processual.
+
+Crime - Definido legalmente como a infração penal a que a lei comina pena de reclusão ou de detenção, quer isoladamente, quer alternativa ou cumulativamente com a pena de multa.
+
+Culpa - Violação ou inobservância de uma regra de conduta que produz lesão do direito alheio. Elemento subjetivo da infração cometida, compreendida pela negligência, imprudência ou imperícia que pode existir em maior ou menor proporção (da culpa levíssima à culpa grave), e obrigando sempre o infrator à reparação do dano.
+
+Curador - O que é nomeado para defender certos interesses, ou para assistir, representar ou defender certas pessoas.
+
+Curador especial - O que é nomeado para assistir a certas pessoas não de um modo geral, mas apenas dentro de um determinado processo.
+
+Custas - São taxas cobradas pelo Poder Público em decorrência dos serviços prestados para a realização dos atos processuais. Tais custas são, em regra, pagas pela parte vencida, em face do princípio da sucumbência.
+
+Dativo - Tutor ou curador nomeado pelo juiz ou pelo testador para administrar bens ou interesses alheios. Também pode ser o defensor nomeado pelo juiz para defender os interesses do acusado.
+
+De cujus - Abreviatura da expressão latina de cujus agitur hereditatis, ou seja, o defunto em nome de quem agem os herdeiros; cujus sucessione agitur (de cuja sucessão se trata); assim o de cujus é sempre o falecido que deixou a herança, ou em nome de quem age o espólio durante o inventário.
+
+De jure - De direito, com razão.
+
+De ofício - Ato realizado por iniciativa do próprio funcionário, em razão do seu ofício, independentemente de requerimento do interessado; por dever de ofício. De reincidência.
+
+Decadência - Caducidade de um direito cujo titular deixa de exercê-lo dentro do prazo legalmente fixado para tal.
+
+Decisão - Denominação genérica dos atos do juízo, provocada por petições das partes ou do julgamento do pedido. Em sentido estrito, pronunciamento do juiz que resolve questão incidente.
+Decisão de saneamento - Despacho no qual o juiz declara o processo em ordem e apto para prosseguir, decidindo também sobre a realização das provas, a designação de audiência de instrução e julgamento, bem como sobre eventuais preliminares levantadas pelas partes.
+
+Decisão interlocutória - É o ato pelo qual o juiz, no curso do processo, decide questão incidente.
+
+Decisão monocrática - Decisão proferida por um único juiz.
+
+Declinar da competência - Quando há o entendimento de que não há competência do órgão para decidir sobre o discutido no processo.
+
+Defensor - Advogado que promove a defesa do acusado. Expressão típica do processo penal.
+
+Defensor dativo - O advogado nomeado pelo juiz para promover a defesa do acusado ausente, foragido ou sem meios para constituir e pagar advogado próprio.
+
+Defensoria Pública - Instituição essencial à função jurisdicional do Estado, incumbida da orientação jurídica e da defesa em todos os graus, dos necessitados ou desprovidos de recursos. É de responsabilidade do Poder Executivo.
+
+Delegar - Ato típico de quem tem algum poder e o transfere a outrem para que o exercite em seu nome.
+
+Denegação - É o indeferimento, a negação de uma pretensão formulada em juízo.
+
+Denúncia - Peça técnica elaborada pelo promotor de justiça formulando a acusação de prática de um crime, pedindo que seja instaurada a ação penal e o réu condenado e apenado.
+
+Denunciação da lide - Ocorre através do autor ou do réu ao chamar a juízo terceira pessoa, para garantir seu direito, a fim de resguarda-lo no caso de ser vencido na demanda.
+
+Depoimento pessoal - Inquirição da parte, pelo juiz, sobre os fatos da causa. Se o réu não comparecer em juízo ou se recusar a depor, serão presumidos como verdadeiros os fatos alegados contra ele.
+
+Depositário - É a pessoa física ou jurídica que recebe alguma coisa em contrato de depósito, ou como encargo legal (depositário legal ou judicial); o depositário tem o dever de restituir a coisa, sempre que esta lhe for pedida pelo depositante, sob pena de ver decretada sua prisão como depositário infiel.
+
+Derrogar - Revogar parcialmente uma lei, decreto, regulamento; a revogação pode ser total - "ab-rogação", ou parcial - "derrogação".
+
+Desaforamento - É o deslocamento de um processo de competência do Tribunal do Júri, já iniciado, de um foro para outro, transferindo-se para este a competência para dele conhecer e julgá-lo.
+
+Descaminho - Importação de mercadoria estrangeira sem passar pela alfândega, e, portanto, sem pagar o imposto de importação; trata-se de crime contra a ordem tributária e não deve ser confundido com o contrabando, que há a importação de mercadoria estrangeira, cujo ingresso é proibido no país.
+
+Desembargador - Título tradicional dos membros dos Tribunais de Justiça dos Estados. No Tribunal de Justiça do Rio Grande do Sul atuam 125 desembargadores.
+
+Deserção - Perecimento ou não seguimento de um recurso, por falta de preparo, ou seja, por falta de pagamento das custas; abandono do recurso (art. 519 do CPC).
+
+Despacho - Na definição legal, são todos os atos do juiz que não sejam sentença nem decisões interlocutórias, praticados no processo, de ofício ou a requerimento da parte. Atos de impulso processual.
+
+Despacho interlocutório - Decisão do juiz que define uma questão, no meio do processo, determinando diligências e esclarecendo controvérsias.
+
+Despacho saneador - É o despacho em que o juiz saneia eventuais irregularidades do processo, organizando-o para prosseguimento.
+
+Despachos - Atos do juiz, praticados no processo, a fim de dar-lhe andamento, Se o despacho envolver alguma decisão sobre questão incidente, terá o caráter de decisão interlocutória, cabendo, então, agravo. Mas, se o despacho for de mero expediente, ou seja, tiver apenas a finalidade de ordenar o processo, sem possibilidade de prejuízo para a parte, não caberá recurso algum (art. 504; art. 162, §§ 20 e 30, do CPC).
+
+Destituição de tutela - Ato pelo qual o juiz afasta o tutor da função, quando negligente, prevaricador ou incurso em incapacidade.
+
+Detenção - Pena privativa de liberdade, que deve ser cumprida em regime semi-aberto ou aberto. É menos rigorosa que a reclusão e mais severa que a prisão simples, esta última reservada às contravenções.
+
+Devolutivo - Ver "Efeito devolutivo".
+
+Diário da Justiça - Jornal onde são publicados os atos oficiais do Poder Judiciário, para que tenham efeitos legais.
+
+Difamação - É a imputação a alguém de fato ofensivo à sua reputação. Fato que, diversamente do que se dá na calúnia, não há de ser definido como crime e nem tampouco falso. A reputação do ofendido é o alvo do difamador que, com a conduta, vulnera a honra objetiva daquele (art. 139 do CPC).
+
+Dilação - Na linguagem forense é expressão usada para se pleitear a prorrogação de prazos processuais.
+
+Dilação probatória - Prazo concedido igualmente ao autor e ao réu para a produção de provas ou a execução de diligências necessárias para comprovação dos fatos alegados.
+
+Direito adquirido - É o que já se incorporou definitivamente ao patrimônio e à personalidade do seu titular, de modo que nem a lei nem um fato posterior pode alterar tal situação jurídica, pois há direito concreto, ou seja, subjetivo, e não direito potencial ou abstrato. Consiste, portanto, na possibilidade de se extrair efeitos de um ato contrário ao previsto pela lei vigente, ou seja, é aquele que continua a gozar dos efeitos de uma norma pretérita mesmo depois de já ter sido ela revogada.
+
+Direito líquido e certo - Locução empregada pela Constituição para qualificar o direito amparável por mandado de segurança, que se apresenta ao julgador pela documentação oferecida independente de prova produzida em audiência.
+
+Distribuição - Ato administrativo pelo qual se registram e repartem entre os juízes processos apresentados em cada juízo ou tribunal, obedecendo aos princípios de publicidade, alternatividade e sorteio.
+
+Dolo - 1. (Direito Civil) Vício de consentimento caracterizado na intenção de prejudicar ou fraudar outrem. 2. (Direito Penal) Intenção de praticar o mal que é capitulado como crime, seja por ação ou por omissão.
+
+Domicílio - Sede jurídica da pessoa, onde se presume que ela exerce ou pratica, habitualmente, seus atos e negócios jurídicos.
+
+Duplo grau de jurisdição - Preceito que estabelece a existência de duas instâncias, determinando que as causas decididas no juízo a quo (primeira instância) venham a ser reapreciadas no juízo ad quem (segunda instância), em grau de recurso.
+
+Dura lex, sed lex - A lei é dura, mas é lei.
+
+Efeito devolutivo - Refere-se à devolução, ou seja, a transferência da matéria recorrida à instância superior, sem suspensão do andamento do processo. Efeito próprio de um recurso. Recebida a apelação só no efeito devolutivo, o apelado poderá promover desde logo a execução provisória da sentença (art. 521 do CPC).
+
+Efeito suspensivo - Efeito normal de todo recurso, exceto se por disposição legal for dado unicamente efeito devolutivo, e cuja conseqüência é tornar a sentença inexecutável, até o julgamento do recurso, ficando suspensos seus efeitos.
+
+Embargos - O termo tem várias conotações, mas, em síntese, significa autorização legal para suspender um ato; defesa de um direito, como embargos do executado ou do devedor, ou, ainda como recurso (embargos de declaração ou embargos infringentes).
+
+Embargos à execução - Meio pelo qual o devedor se opõe à execução seja ela fundada em título judicial (sentença) ou em título extrajudicial (duplicata, cheque, contrato), com a finalidade de controvertê-lo.
+
+Embargos de declaração - Recurso contra decisão que contém obscuridade, omissão ou contradição, tendo como finalidade esclarecer, tornar clara a decisão. Em qualquer caso, a substância do julgado, em princípio, será mantida, visto que os embargos de declaração não visam a modificar o conteúdo da decisão, embora precedentes autorizem efeito infringencial e modificação da questão de mérito quando flagrante equívoco.
+
+Embargos de divergência - Recurso cabível quando ocorre divergência de turmas ou seções no STF, STJ e TRF.
+
+Embargos de terceiro - Ação que visa à liberação de bens indevidamente apreendidos, em procedimento judicial, pertencentes ou na posse de terceiros.
+
+Embargos do devedor - Ação que visa à desconstituição do título executivo e ao trancamento da execução (art. 736 do CPC). Embora ação incidente, tem caráter de defesa; o mesmo que embargos à execução.
+
+Embargos infringentes - Recurso que cabe quando não for unânime o julgado proferido pelo tribunal, em apelação ou ação rescisória (art. 530 do CPC); recurso cabível nas execuções fiscais (Lei 6.830180).
+
+Ementa - Sinopse ou resumo de uma decisão judicial, principalmente dos acórdãos dos tribunais.
+
+Emolumentos - Ingressos eventuais de dinheiro, em benefício do servidor da Justiça, quando recebe remuneração, fixada em lei, diretamente da parte.
+
+Entrância - Hierarquia das comarcas de acordo com o movimento forense, densidade demográfica, receitas públicas, meios de transporte, situação geográfica e fatores socioeconômicos de relevância. No Estado do Rio Grande do Sul, denominam-se: entrância inicial - comarcas de pequeno porte; entrância intermediária - comarcas de médio porte; entrância final - Comarca da Capital.
+
+Esbulhar - Praticar o esbulho, isto é, através de ato violento, desapossar uma pessoa daquilo que lhe pertence ou de que tem a posse justa.
+
+Escrivão - Auxiliar do juízo de 1º grau, titular do cartório ou oficio a quem cabe: organizar os autos, guardá-los e conservá-los, assim como todos os papéis e documentos relativos aos feitos em geral; auxiliar nas audiências e praticar os atos determinados em lei ou pelo juiz; manter contato com o Ministério Público e com os procuradores das partes.
+
+Estuprar - Constranger mulher a conjunção carnal, mediante violência ou grave ameaça (art. 213 do CP).
+
+Ex nunc - De agora em diante; indicação de que o ato vigora da celebração em diante, sem efeito retroativo.
+
+Ex officio - Por ofício do juiz, de forma oficial.
+
+Ex tunc - Desde então; indicação de que o ato abrange também o passado, atingindo situação anterior.
+
+Exceção da verdade - Defesa indireta de que se vale a pessoa acusada, no sentido de, sem negar o que contra ela se argúi, oferecer fato verdadeiro capaz, por si, de neutralizar a acusação.
+
+Excutir - Executar judicialmente os bens de (um devedor).
+
+Execução - A fase do processo judicial na qual se promove a efetivação das sanções, civis ou criminais, constantes de sentenças condenatórias. Diz-se execução da sentença.
+
+Expropriar - Desapossar alguém de sua propriedade, mediante processo movido pelo Estado.
+
+Extinção de punibilidade - Consiste no surgimento de causas que obstem a aplicação das sanções penais pela renúncia do Estado em punir o autor do delito. As causas de extinção mais comuns são a prescrição e a morte do agente.
+
+Extra petita - Diz-se da decisão do juiz fora do pedido formulado na petição inicial, o que resulta em nulidade do julgamento.
+
+Extradição - Ato de entrega que um Estado faz a outro de um indivíduo para fins de processo e julgamento.
+
+Família substituta - Substituição do pátrio poder dos pais por outra família, nos casos determinados pela Justiça, na formas de guarda, tutela ou adoção.
+
+Feito - Designação genérica, de vários significados, como processo, procedimento, causa, demanda, lide.
+
+Fiança - É o ato ou contrato pelo qual um terceiro, chamado fiador, assume ou assegura, no todo ou em parte, o cumprimento de obrigação do devedor, quando este não a cumpra ou não a possa cumprir, salvo quando a obrigação seja estritamente pessoal, isto é, somente o devedor pessoalmente a possa cumprir.
+
+Foro - O mesmo que subseção ou comarca; local para autenticação de atos jurídicos ou para a condução de processos.
+
+Foro Judicial - Local público e oficialmente destinado a ouvir e atender as petições, as postulações, as provas dos fatos alegados e decidir o direito aplicável à relação litigiosa. Pode ser usado para designar o edifício público no qual funcionam os órgãos do Poder Judiciário, como também o juízo, poder jurisdicional ou o órgão do Poder Judiciário, compreendendo os Juizados, respectivos cartórios e todo o aparelhamento necessário ao seu funcionamento.
+
+Fórum - Edifício-sede do juízo.
+
+Fraude - Subterfúgio para alcançar um fim ilícito, ou ainda, o engano dolosamente provocado, o malicioso induzimento em erro ou aproveitamento de preexistente erro alheio, para o fim de injusta locupletação.
+
+Fraude à execução - Alienação ou oneração de bens, por parte do devedor, quando contra ele já corria demanda capaz de reduzi-lo à insolvência (arts. 592, V, e 593 do CPC).
+
+Fraude contra credores - Ocorre quando o devedor insolvente, ou na iminência de o ser, desfalca seu patrimônio, onerando ou alienando bens (arts. 106 a 113 do CC).
+Fumus boni Iuris. - Fumaça do bom direito.
+
+Fungibilidade dos recursos - Critério pelo qual a interposição de um recurso por outro não impede seu conhecimento, desde que não haja erro grosseiro e que esteja no prazo certo.
+
+Grau de jurisdição - É a ordem de hierarquia judiciária, que se divide em inferior e superior. A inferior decide em primeira ou anterior instância; a superior, nos tribunais, através de recurso, decide a causa já julgada na inferior.
+
+Gravar - Impor gravame, onerar, sujeitar a encargos, hipotecar.
+
+Grupo - O Tribunal de Justiça do Rio Grande do Sul possui quatro Grupos Criminais e dez Cíveis. Cada Grupo é formado por duas Câmaras, com exceção do 1º Grupo Cível. Exige-se a presença de, no mínimo, sete desembargadores, incluindo o presidente para o funcionamento dos Grupos. Aos Grupos cabe uniformizar a jurisprudência na área de sua competência.
+
+Guarda de crianças e adolescentes - É deferida pelo juiz à pessoa notoriamente idônea da família, em caso e separação judicial ou divórcio em que forem culpados ambos os cônjuges, ou de suspensão ou extinção do pátrio poder do pai e da mãe do menor de 21anos.
+
+Habeas corpus - Medida judicial de caráter urgente, que pode ser impetrada por qualquer pessoa, ainda que não advogado, em seu favor ou de outrem, bem como pelo Ministério Público, sempre que alguém sofrer ou se achar na iminência de sofrer violência ou coação ilegal na sua liberdade de ir-e-vir. Pode ser preventivo - quando não consuma da a violência ou coação, porém exista receio de que venha a ocorrer - ou remediativo, quando visa fazer cessar a violência ou coação exercida contra a pessoa em favor de quem é impetrado (paciente).
+
+Habeas data - Direito assegurado pela Constituição brasileira ao cidadão interessado em conhecer informações relativas à sua pessoa, contidas nos arquivos e registros públicos de qualquer repartição federal, estadual e municipal, bem como retificá-las ou acrescentar anotações que julgar verdadeiras e justificáveis.
+
+Habilitação Incidente - É a substituição de qualquer das partes no processo por motivo de falecimento, pelos seus sucessores ou interessados na sucessão.
+
+Hasta pública - Expressão genérica que abrange tanto a praça (para bens imóveis) como o leilão (para bens móveis). Para alguns, significa licitação com lance nunca inferior ao da avaliação.
+
+Homologar - Ratificar, confirmar ou aprovar determinado ato, por decisão de autoridade judicial ou administrativa, para que este se invista de força executória e tenha validade legal.
+
+Honra objetiva - O conceito em que cada pessoa é tida (reputação). A difamação e a calúnia atingem a honra objetiva.
+
+Honra subjetiva - O sentimento pessoal de auto-estima, decorrente do juízo que cada um tem acerca de seus próprios dotes. A injúria atinge a honra subjetiva, ofendendo a dignidade e o decoro da pessoa.
+
+Impedimento - Circunstância que impossibilita o juiz de exercer, legalmente, jurisdição em determinado momento, ou em relação a determinada causa.
+
+Impetrado - 1. É a designação do réu no mandado de segurança. 2. Parte adversa do recurso (vulgo).
+
+Impetrante - 1. É a designação do autor no mandado de segurança. 2. Que ou quem recorre (vulgo).
+
+Impetrar - 1. Ajuizar algum remédio processual, em geral o mandado de segurança ou o habeas corpus. 2. Diz-se do ato de ajuizar mandado de segurança.
+
+Imputação - Acusação a alguém, por meio de queixa-crime ou denúncia do órgão público, pela prática de um delito.
+
+Imputável - Suscetível de imputação, ou seja, que pode receber acusação por meio de queixa-crime ou denúncia do órgão público, pela prática de um delito, a partir de 18 anos de idade.
+
+In verbis - Textualmente, com as mesmas palavras, o que se vai escrever ou ler a seguir.
+
+Inaudita altera pars - Sem ouvir a outra parte; característica de certos atos judiciais em que não se ouve a outra parte, como nas liminares em geral ou nos embargos de declaração.
+
+Incidente de falsidade - Ação incidental em que se argúi a falsidade de documento apresentado no processo principal (art. 390 do CPC). O incidente corre nos próprios autos principais quando proposto antes de encerrada a instrução (art. 391 do CPC). Se proposto depois de encerrada a instrução, corre em separado, mas em apenso aos autos principais (art. 393 do CPC).
+
+Inconstitucionalidade - Inadequação ou ofensa da lei, do ato normativo ou do ato jurídico à Constituição.
+
+Indiciar - Proceder a imputação criminal contra alguém, submetendo-o a inquérito policial, do qual o Ministério Público se louvará para oferecer a denúncia.
+
+Indulto - Perdão que libera o condenado do cumprimento parcial ou total da pena que lhe foi imposta. É uma medida de caráter coletivo, embora, na sua sucessão possam vir nomeados os beneficiários. Só o Presidente da República pode conceder o indulto, sempre após parecer do Conselho Penitenciário, embora não fique vinculado a esse parecer.
+
+Inicial inepta - Aquela que não reúne os requisitos essenciais ou seja incompreensível (art. 295, parágrafo único, do CPC).
+
+Inimputável - Que não é suscetível de imputação, que não pode ser responsabilizado por delitos cometidos. No Brasil, são inimputáveis, por exemplo, os menores de 18 anos.
+
+Injúria - Ato ofensivo à dignidade ou o decoro de alguém. Injuriar é exprimir um juízo de valor, um juízo depreciativo, que envolve o mencionar de vícios, de defeitos, de qualidades negativas. É a manifestação de desrespeito pessoal, de menosprezo.
+
+Inquérito civil - Procedimento administrativo, instaurado e presidido pelo Ministério Público, tendo por objeto a apuração de danos causados ao meio ambiente, ao consumidor ou a outros interesses coletivos ou difusos, com vistas a eventual e posterior ação civil pública (art. 8º, § 1º, da L. 7.347, de 24.7.85).
+
+Instância - Grau de jurisdição na hierarquia judiciária.
+
+Instância única - É o juízo exclusivo de julgamento de uma causa, não podendo ser interposto recurso ordinário de sua decisão para outra instância gradativa.
+
+Instrução - Fase processual em que se produzem as provas.
+
+Instrução criminal - Fase do processo penal destinada a apurar a existência, espécie e circunstâncias do crime, e sua autoria.
+
+Interdição de direito - Ato pelo qual se priva uma pessoa de praticar certos atos ou gozar de certos direitos civis ou políticos, ou, ainda, de os adquirir.
+
+Interesse de agir - Demonstração, em linhas gerais, de que a providência jurisdicional é necessária, não podendo o autor, sem a mesma, obter o bem jurídico desejado (art. 3.o do CPC).
+
+Interesse individual particular ou privado - É o interesse que não ultrapassa a esfera de cada pessoa.
+
+Interesse público - Interesse geral. Tudo o que diz respeito ao bem comum. É de toda a sociedade.
+
+Interesses coletivos - Interesses de grupos, de uma coletividade, que dizem respeito a anseios ou mesmo necessidades da coletividade ou grupo de pessoas, relativamente à qualidade de vida, como, por exemplo, o direito à saúde, à qualidade dos alimentos, à informação correta e atual, à preservação do meio ambiente etc.
+
+Intervenção de terceiro - Ingresso de terceiro no processo, para auxiliar ou excluir as partes; são formas de intervenção de terceiros a oposição, a nomeação à autoria, a denunciação da lide, o chamamento ao processo e a assistência.
+
+Intimação - Ato pelo qual é dada ciência aos procuradores das partes, a elas próprias ou a terceiros, para que seja feita ou deixe de ser feita alguma coisa dentro ou fora do processo.
+
+Iura movit curia. - O juiz entende do Direito
+
+Juiz - É a pessoa investida de autoridade pública para administrar a justiça.
+
+Juiz classista - Denominação do juiz leigo, não togado, isto é, não necessariamente formado em Direito, que é escolhido pelos sindicatos de trabalhadores e de empregadores para um mandato temporário na Justiça do Trabalho.
+
+Juiz de Direito - É o magistrado, isto é, o juiz togado; aquele que integra a magistratura, por haver ingressado na respectiva carreira segundo os preceitos da lei, constitucional e ordinária, por atender aos respectivos requisitos de habilitação, proferindo as decisões nas demandas nos respectivos graus de jurisdição.
+
+Juiz de Paz - Tem a competência de presidir o ato do casamento civil. Atua em cartórios de registro civil.
+
+Juiz leigo - Pessoa escolhida, de preferência entre advogados com mais de cinco anos de prática, para auxiliar o juiz togado no juizado Especial Cível.
+
+Juizado - Mais propriamente empregado para indicar a sede do juízo, isto é, a repartição em que está instalado o juízo e onde o juiz dá seus despachos e suas audiências. Designa também o cargo ou ofício do juiz.
+
+Juizados Especiais Cíveis e Criminais (JECs) - Órgãos da Justiça ordinária instituídos pela Lei nº 9.099, de 26/9/1995, de criação obrigatória pela União, no Distrito Federal e nos Territórios, e pelos Estados, no âmbito da sua jurisdição, para conciliação, processo, julgamento e execução, nas causas de sua competência. Têm como motivação fundamental abreviar a solução dos litígios, desafogando a justiça ordinária. Orientam-se pelos critérios da oralidade, simplicidade, informalidade, economia processual e celeridade, buscando sempre que possível a conciliação das partes. Restringem-se a causas de reduzido valor econômico, que não excedam a 40 salários mínimos. Causas de até 20 salários mínimos não necessitam de advogado. Somente as pessoas físicas capazes podem propor ações. Pessoas jurídicas, o insolvente civil, o incapaz e o preso não podem demandar no Juizado Especial. Os Juizados Especiais Criminais julgam os delitos considerados de baixa lesividade.
+
+Juizados Especiais Federais - rito a ser aplicado na Justiça Federal, instituído pela Lei nº 10.259/2001, destinado a causas cíveis com valores não superiores a sessenta salários mínimos, bem como criminais quando as penas máximas aplicáveis não excederem a dois anos. Não se aplica aos seguintes processos: ações de mandado de segurança, de desapropriação, de divisão e demarcação, populares, execuções fiscais e por improbidade administrativa e as demandas sobre direitos ou interesses difusos, coletivos ou indivduais homogêneos; causas sobre bens imóveis da União, autarquias e fundações públicas federais; para anulação ou cancelamento de ato administrativo federal, salvo o de natureza previdenciária e o de lançamento fiscal; que tenham como objeto a impuganção da pena de demissão imposta a servidores públicos civis ou de sanções disciplinares aplicadas a militares."
+
+Juiz-Corregedor - Juiz que auxilia o Corregedor-Geral da Justiça na correção dos serviços judiciários de primeira instância e no zelo pelo bom funcionamento e aperfeiçoamento da Justiça.
+
+Juízo coletivo ou colegiado - É todo aquele em que a função judicante é exercida conjuntamente por três ou mais membros.
+
+Juízo de retratabilidade - É a possibilidade, nos casos previstos em lei, de o magistrado reconsiderar a sua decisão.
+
+Juízo monocrático ou singular - É aquele de um só juiz. Opõe-se a juízo coletivo.
+
+Julgamento antecipado da lide - Forma de julgamento conforme o estado do processo, em que o juiz dispensa o prosseguimento e julga desde logo a questão de mérito, por ser ela unicamente de direito, ou, sendo de direito e de fato, não houver necessidade de produzir prova em audiência (art. 330 do CPC).
+
+Julgamento conforme o estado do processo - Fase processual, após as providências preliminares, em que o juiz deve tomar um desses três caminhos: a) extinguir o processo com ou sem julgamento de mérito; b) julgar antecipadamente a lide; c) designar audiência preliminar de conciliação.
+
+Jurado - O mesmo que juiz de fato. Juiz não togado, escolhido entre cidadãos de notória idoneidade, entre 21 e 60 anos de idade, para compor o conselho de sentença nos julgamentos do Tribunal do Júri.
+
+Júri - Ver Tribunal do Júri.
+
+Jurisdição - É uma das funções do Estado, mediante a qual terceiro imparcial resolve os conflitos entre os titulares de interesses tutelados pelo Direito.
+
+Jurisdição contenciosa - É aquela em que há conflito caracterizado pela disputa entre duas ou mais partes, que pleiteiam providências opostas do juiz.
+
+Jurisdição voluntária ou graciosa - Quando não há disputa entre as partes, mas a intervenção do juiz é necessária, exercendo-se a jurisdição no sentido de simples administração. O exemplo mais comum ocorre em caso de separação consensual. Nela não há lide a ser proposta por sentença. Ao juiz cabe apenas homologar o pedido, fiscalizando a regularidade do ajuste de vontades operado entre os consortes.
+
+Justiça do Estado - Poder Judiciário de cada um dos Estados-Membros da federação composto por juízes e desembargadores.
+
+Justiça do Trabalho - Conjunto de órgãos do Poder Judiciário, composto pelo Tribunal. Superior do Trabalho, Tribunais Regionais do Trabalho e Juntas de Conciliação e Julgamento, com a atribuição de dirimir os dissídios oriundos das relações entre empregadores e empregados regidos pela legislação social.
+
+Justiça Eleitoral - Ramo do Poder Judiciário competente para entender dos assuntos relacionados com o alistamento eleitoral, as eleições, os partidos políticos e os delitos de natureza eleitoral.
+
+Justiça Federal - Poder Judiciário formado por juízes federais integrantes das Seções Judiciárias, uma em cada Estado e no Distrito Federal, e pelos Tribunais Regionais Federais.
+
+Justiça Militar - Ramo do Poder Judiciário competente para processar e julgar os crimes militares definidos em lei.
+
+Lançamento - Escrito em que se declara algo; na linguagem fiscal é o ato da autoridade que constitui o crédito tributário.
+
+Legítima defesa - Consiste no uso moderado dos meios necessários para repelir agressão injusta, atual ou iminente, a direito seu ou de outrem, portanto não configura antijuricidade nem é passível de responsabilidade civil ou penal.
+
+Legitimação extraordinária - Autorização excepcional, dada pela lei, para que alguém pleiteie em nome próprio direito alheio; substituto processual.
+
+Legitimidade para a causa (legitimatio ad causam) - No que se refere ao autor, a legitimidade para a causa traduz-se no seu direito aparente de pedir o que pede (legitimidade ativa). Quanto ao réu, é a aparente obrigação de fazer ou prestar o que é pedido na inicial (legitimidade passiva).
+
+Lei complementar - Aquela que complementa matéria veiculada na Constituição e possui campo próprio de incidência, exigindo maioria absoluta para sua aprovação.
+Lei delegada - Aquela elaborada e editada pelo Presidente da República (delegação externa corporis) ou por Comissão do Congresso Nacional, ou das Casas do Congresso Nacional (delegação interna corporis), mediante delegação.
+
+Lei ordinária - É a lei comum emanada do Poder Legislativo.
+
+Leilão judicial - Venda pública de bens móveis levada a efeito por leiloeiro oficial, como auxiliar do juízo onde tem curso o feito, para efeito de execução por quantia certa.
+
+Liberdade assistida - Regime de liberdade aplicada aos adolescentes autores de infração penal ou que apresentam desvio de conduta, em virtude de grave inadaptação familiar ou comunitária, para o fim de vigiar, auxiliar, tratar e orientar.
+
+Liberdade condicional - Benefício concedido aos condenados, mediante determinados requisitos, antecipando o seu retomo ao convívio em sociedade.
+
+Liberdade provisória - É aquela concedida em caráter temporário ao acusado a fim de se defender em liberdade.
+
+Licitação - Procedimento adotado pela Administração Pública para contratar obras e serviços, ou para adquirir bens e mercadorias, tornando pública a contratação mediante edital e permitindo que todos os interessados concorram, visando obter o melhor preço e a melhor qualidade.
+
+Lide - Sinônimo de litígio, processo, pleito judicial. Conflito de interesses suscitado em juízo.
+
+Liminar - Ordem destinada à proteção cautelar de um direito em face da razoável procedência dos fundamentos alegados e da possibilidade de dano irreparável em razão da demora.
+
+Limitação de fim de semana - Pena restritiva de direitos limitada aos fins de semana.
+
+Liquidação de sentença - Procedimento complementar do processo de conhecimento, embora formalmente separado, para preparar execução de sentença ilíquida, que não determinou o valor ou não individualizou o objeto da condenação (art. 603 do CPC). A liquidação pode ser: a) por arbitramento, quando se faz necessário exame pericial para apuração do valor da condenação; b) por artigos, quando houver necessidade de se alegar e provar fato novo.
+
+Litigante - Aquele que propõe ou contesta demanda em juízo, ou seja, quem é parte de um processo judicial.
+
+Litisconsórcio - Situação em que, no processo, figuram vários autores ou vários réus, vinculados pelo direito material questionado.
+
+Litisconsorte - Participante de um litisconsórcio; ativo - quando for autor; passivo - quando réu.
+
+Litispendência - Pendência de um litígio; situação em que há ação anterior idêntica a ajuizada; fato que impede a propositura de ação igual a outra já em andamento; a ação nova deve ser extinta sem julgamento do mérito, aguardando-se o desfecho daquela que já estava em andamento (arts. 267, V, e 301, § 1º do CPC).
+
+Magistrado - Juiz togado; membro da magistratura.
+
+Magistratura - É o corpo de juízes que constitui o Poder Judiciário.
+
+Mandado - Documento que consubstancia ordem escrita do juiz para cumprimento de uma diligência. Ex.: mandado de citação, de penhora, de busca e apreensão, de arresto .
+
+Mandado de citação - Ato mediante o qual se chama a juízo, por meio de oficial de justiça, o réu ou o interessado, a fim de se defender.
+
+Mandado de injunção - Decisão da Justiça que interpreta, com força de lei para as partes, um direito constitucional ainda não regulamentado por lei ordinária.
+
+Mandado de segurança - Ação de flagrada por pessoa física ou jurídica a fim de que se lhe assegure, em juízo, um direito líquido e certo, demonstrado, violado ou ameaçado por ato de autoridade, manifestamente ilegal ou inconstitucional. Esse direito não deve ser protegido por habeas corpus ou habeas data.
+
+Mandado de segurança coletivo - Pode ser impetrado por partido político, com representação no Congresso Nacional, organização sindical, entidade de classe, regulado pelo art. 5º LXX, da Constituição Federal, visando a tutela de interesses coletivos ou difusos.
+
+Mandato - Contrato pelo qual alguém (mandatário ou procurador) recebe de outrem (mandante) poderes para, em seu nome, praticar atos ou administrar interesses. O instrumento do mandato é a procuração.
+
+Mandato ad judicia - Documento em que se constitui um procurador (advogado regularmente inscrito na Ordem dos Advogados do Brasil) para ser representado em juízo; o outorgante pode especificar os poderes e a finalidade dessa representação.
+
+Mandato ad negotia - Contrato pelo qual o mandante confere poderes a um mandatário para praticar, em seu nome, certos atos ou negócios. Denomina-se tal contrato de mandato extrajudicial porque a ação do mandatário ocorrerá fora do âmbito judicial.
+
+Manifestação - Em Direito Administrativo, parecer, opinião sobre determinado assunto. Em Direito Processual, opinião da parte em atos do processo. Em Direito Político, expressão de agrado ou desagrado em reuniões populares de natureza política.
+
+Medida cautelar - Medida acessória que visa a garantir um direito que se discute ou irá discutir num processo de conhecimento ou de execução. Em regra, deve ser requerida em processo próprio, de natureza cautelar, e a medida será concedida se presentes os requisitos do fumus boni juris e do periculum in mora.
+
+Medida de segurança - Medida de defesa social aplicada a quem praticou um crime, tentou praticá-lo ou se prepara para praticá-lo, desde que revelada periculosidade social e probabilidade de reincidência.
+
+Medida liminar - Decisão judicial provisória proferida nos 1º e 2º graus de jurisdição, que determina uma providência a ser tomada antes da discussão do feito, com a finalidade de resguardar direitos. Geralmente concedida em ação cautelar, tutela antecipada e mandado de segurança.
+
+Mérito - Questão ou questões fundamentais, de fato ou de direito, que constituem o principal objeto da lide.
+
+Ministério Público - Instituição permanente a que a Constituição incumbiu de zelar pela defesa da ordem jurídica, do regime democrático e dos interesses sociais e individuais indisponíveis.
+
+Minuta do agravo - Petição do agravo de instrumento expondo as razões pelas quais se interpõe o recurso de agravo, pedindo reforma da decisão que causou o gravame. Deverá ser instruída, obrigatoriamente, com cópias da decisão agravada, da certidão da respectiva intimação e das procurações outorgadas aos advogados do agravante e do agravado, e, facultativamente, com outras peças que o agravante entender úteis.
+
+Mutatis mutandis - Locução latina que significa mudando-se o que deve ser mudado; fazendo-se as alterações necessárias.
+
+Mútuo - Contrato de empréstimo pelo qual cada um dos contratantes transfere a propriedade de bem fungível ao outro, que se obriga a restituir-lhe coisa do mesmo gênero, qualidade e quantidade.
+
+Não conhecer - Não admitir; não receber. Aplica-se em relação aos recursos interpostos ou a quaisquer outros pedidos sobre medidas processuais que se recusem ou não se admitam por improcedentes ou não cabíveis.
+
+Nepotismo - Nomeação para cargos públicos ou distribuição de favores ou empregos a parentes facilitando-lhes a ascensão social.
+
+Nexo causal ou nexo de causalidade - Relação existente entre a ação e o dano dela decorrente necessária para que se configure a responsabilidade penal ou civil.
+
+Nomeação à autoria - Indicação daquele que deveria realmente ser o réu (art. 62 do CPC).
+
+Notário ou tabelião - Agente delegado que lavra, nos seus livros de notas, os instrumentos dos atos jurídicos que lhe são solicitados pelas pessoas interessadas, fazendo-o com observância das normas jurídicas incidentes, inclusive as de Direito Tributário. Os notários têm fé pública e estão sujeitos à fiscalização do Poder Judiciário, pelas suas Corregedorias de Justiça, que lhes podem impor penalidades.
+
+Notificação - Medida cautelar nominada com a qual é dada ciência ao requerido para que pratique ou deixe de praticar determinado ato, sob pena de poder sofrer ônus previstos em lei.
+
+Oficial de justiça - É o auxiliar da Justiça encarregado de proceder as diligências que se fizerem necessárias ao andamento do julgamento da causa e ordenadas pela autoridade judiciária.
+
+Ônus da prova - Obrigação daquele que alega os fatos em provar as suas alegações. Logo, o ônus da prova incumbe ao autor, quanto ao fato constitutivo do seu direito; ao acusador, quanto ao crime; e ao réu, quanto à existência do fato impeditivo, modificativo ou extintivo do direito do autor, demonstrando que das afirmações do autor não decorrem os efeitos por ele pretendidos.
+
+Oposição - Intervenção de terceiro no processo, para excluir o autor e o réu, ou um deles.
+
+Órgão especial (Órgão Especial do Tribunal Pleno) - É constituído pelos vinte e cinco desembargadores mais antigos, respeitada a representação do quinto constitucional. Suas sessões serão presididas pelo Presidente do Tribunal, e no seu impedimento, sucessivamente, pelos Vice-Presidentes ou pelo desembargador mais antigo.integrantes.
+
+Paciente - Pode ser tanto a vítima do ilícito penal como aquele que sofre constrangimento ilegal em sua liberdade de ir-e-vir, favorecido pela impetração do habeas corpus.
+
+Parecer - 1. Opinião manifestada por jurisconsulto em torno de questão jurídica sobre dúvida de quem formula a consulta e que poderá, ou não, ser aceita pelo consulente. 2. Opinião expressa por assessor jurídico, em orientação administrativa. 0 parecer não obriga o consulente a seguir a opinião nele contida, salvo, na esfera administrativa, se o respectivo regulamento assim determinar, caso em que passa a ter caráter normativo. 3. Manifestação do Ministério Público no processo. Jamais pode ser tomado como sinônimo de decisão do juiz.
+
+Partes - São as pessoas que litigam numa demanda na condição de autor ou réu; ou que figuram num contrato, na condição de contratante ou contratado.
+
+Participação - 1. Ato ou efeito de participar, tomar parte, integrar. Pode ser direta ou indireta. 2. Aviso que se dá a alguém.
+
+Partilha - É a divisão dos bens da herança entre os sucessores do falecido.
+
+Patrimônio cultural - Conjunto de bens e direitos de valor artístico, estético, turístico e paisagístico.
+
+Pátrio poder - É o complexo de direitos que a lei confere aos pais, sobre a pessoa e os bens do filho.
+
+Pauta - Relação dos processos a serem julgados em órgão de 1º e 2º graus, afixada no átrio da sede do juízo, para ciência dos interessados.
+
+Peculato - Ocorre quando funcionário público, valendo-se de seu ofício, se apropria de dinheiro ou bens móveis, de forma indevida, confiados à sua guarda e posse, em proveito próprio ou de terceiro, ou que se vale de sua influência para desviá-los.
+
+Pena alternativa - Procuram minorar o problema da reincidência criminal e o desafogamento do sistema prisional, através de penas restritivas de direitos como a prestação de serviços à comunidade, a interdição temporária de direitos e a limitação de fim de semana. Aplicam-se para delitos leves, com penas não superiores a 4 anos.
+
+Penhora - Apreensão dos bens do devedor suficientes para garantir a execução.
+
+Penhora no rosto dos autos - Registro feito na capa dos autos (rosto dos autos).
+
+Perempção - Perda do direito de ação, por abandono do processo, dando causa por três vezes à sua extinção do processo.
+
+Personalidade civil - Aptidão legal de exercitar direitos e contrair obrigações e decorre do nascimento com vida, mas os direitos do nascituro, são resguardados desde a concepção.
+
+Personalidade jurídica - Decorre do registro na repartição competente dos atos constitutivos de empresas e instituições e porque reconhecidas juridicamente, passam a ter direitos e deveres próprios, não se confundindo com as pessoas naturais que nelas atuam.
+
+Petição - Pedido escrito, dirigido a uma autoridade, contendo exposição de fatos, fundamentos jurídicos e um pedido final.
+
+Petição inicial - Qualidade da petição com que se instaura o processo.
+
+Praça - Forma de licitação pública para imóveis.
+
+Precatória - Ver carta precatória.
+
+Precatório - Especialmente empregado para indicar a carta expedida ao Presidente do Tribunal pelos juízes da execução de sentenças, em que a Fazenda Pública foi condenada a certo pagamento a fim de que, por seu intermédio, se autorizem e se expeçam as necessárias ordens de pagamento às respectivas repartições pagadoras.
+
+Preclusão - Perda do direito de manifestar-se no processo, por não tê-lo feito na forma devida ou na oportunidade devida.
+
+Preliminar - Toda questão que impede o julgamento do mérito; defesa indireta que deve ser alegada antes da defesa de mérito.
+
+Preparo - Pagamento das custas judiciais devidas e necessárias para o recebimento e processamento de um recurso.
+
+Prescrição - Perda do prazo para o exercício do direito de ação.
+
+Pressupostos processuais - Requisitos exigidos para a constituição e o desenvolvimento válido e regular do processo, como a capacidade civil das partes e a sua representação por advogado.
+
+Prestação jurisdicional - Ocorre quando o juiz decide a causa aplicando o direito ao caso concreto.
+Pretor - Magistrado com competência limitada. Desde a Constituição Federal de 1988, passam a compor quadro em extinção, à medida que os cargos vagarem.
+
+Prevenção - Critério para manter a competência de um magistrado em relação a urna determinada causa pelo fato dele ter conhecido essa causa em primeiro lugar.
+
+Primeira instância - É a instância onde têm início os processos; equivale à jurisdição de 1º grau.
+
+Princípio da publicidade - Assegura que todos os atos judiciais devem ser praticados publicamente, com a participação de todos os interessados.
+
+Princípio do contraditório - Garante oportunidades iguais para as partes se manifestarem, contradizendo o que foi dito sobre elas.
+
+Prisão - 1. Ato ou efeito de prender ou encarcerar. 2. Estabelecimento para segregação de delinqüentes.
+
+Procedimento - Modo ou o rito de andamento do processo.
+
+Procedimento com um ordinário - É o aplicável a todas as demandas, salvo as de rito especial ou de rito comum sumário.
+
+Procedimento comum sumário - Rito aplicável às causas cujo valor não exceder a vinte vezes o valor do maior salário mínimo vigente no País e outras enumeradas no artigo 275 do CPC.
+
+Processo administrativo - Seqüência de providências orientadas por autoridade administrativa, em regra por sua iniciativa e que são formalizadas por escrito, para o fim de investigar algum fato ou apurar alguma denúncia sobre ocorrência ou conduta de alguém, gravosa ao serviço público.
+
+Procuração - Instrumento pelo qual se outorga um mandato a alguém, dando poderes para ele agir em nome do outorgante.
+
+Procurador de Justiça - Agente do Ministério Público que atua no 2º grau de jurisdição.
+
+Procurador do Estado - Bacharel em Direito devidamente inscrito na Ordem dos Advogados e concursado que representa o Estado em juízo.
+
+Procuradoria-Geral da Justiça - Ministério Público estadual.
+
+Procuradoria-Geral do Estado - É o órgão que defende os interesses do Estado.
+
+Prolator - Juiz que prolata ou profere uma sentença.
+
+Promotor de Justiça ou Promotor Público - Bacharel em Direito, concursado pelo Ministério Público, que promove os atos judiciais no interesse da sociedade, segundo os ditames constitucionais.
+
+Pronunciar - É o ato pelo qual o juiz proclama a autoria do delito para encaminhar o réu ao Tribunal do júri.
+
+Proponente - Pessoa que oferece a outrem um negócio.
+
+Prova - Todo elemento que leva ao conhecimento do juiz os fatos pertinentes à causa.
+
+Prova emprestada - Prova produzida num processo e trasladada para outro, mediante certidão ou traslado de peças.
+
+Providências preliminares - São determinações do juiz, feitas após a resposta do réu, para a regularização de qualquer falha no processo, se necessário (v. art. 323, CPC).
+
+Provimento - Ato emanado de tribunais veiculando normas de caráter administrativo.
+
+Queixa - 1. Exposição do fato criminoso feita pelo próprio ofendido, ou por quem tiver legitimidade para representá-lo.
+
+2. Petição inicial nos crimes de ação privada ou crimes de ação pública em que a lei admite a ação privada.
+
+Queixa-crime - Petição inicial mediante a qual o ofendido dá início à ação penal de caráter privado.
+
+Querelado - Aquele contra quem se move ação penal privada.
+
+Querelante - Autor da ação penal privada.
+
+Querelar - Ajuizar ação penal privada contra alguém.
+
+Quesito - É a questão que deve ser resolvida ou respondida.
+
+Questão prejudicial - Aquela que deve ser resolvida, necessariamente, antes da decisão de mérito.
+
+Quinto constitucional - Disposição constitucional que prevê a integração de membros do Ministério Público e da Advocacia na composição de alguns tribunais. São juízes togados.
+
+Razões de recurso - Peça escrita na qual se pleiteia a reforma de uma sentença ou acórdão.
+
+Recebimento do recurso - É a aceitação do recurso para o seu regular processamento.
+
+Reclamação - Medida de natureza correicional, normalmente prevista nas leis de organização judiciária, mediante a qual a parte que sofreu gravame por ato ou omissão judicial, de que não caiba recurso, reclama ao órgão superior competente.
+
+Reclusão - Pena de privação de liberdade mais severa que a detenção, por aplicar-se a atos puníveis mais graves, e que é cumprida em regime fechado, semi-aberto ou aberto.
+
+Reconhecimento do pedido - Admissão, pelo réu, da procedência de fato e de direito do pedido. Não se confunde com a confissão, pois esta é um meio de prova e refere-se apenas aos fatos.
+
+Reconvenção - É uma ação inversa, incidente à ação principal, que o réu pode mover contra o autor, no mesmo prazo da contestação da primeira ação; é um pedido do réu contra o autor; deve haver conexão com a ação principal ou com o fundamento da defesa.
+
+Recurso - Meio, dentro da mesma relação processual, de que pode servir-se a parte vencida ou quem se julgue prejudicado, para obter a anulação ou reforma, total ou parcial, de uma decisão.
+
+Recurso adesivo -Aquele adere a um recurso principal (apelação, embargos infringentes, recurso extraordinário ou recurso especial), no caso de sucumbência recíproca (vencidos autor e réu); é um recurso subordinado, uma vez que ao recurso interposto por qualquer deles, poderá aderir a outra parte (é adesão à oportunidade recursal).
+
+Recurso de ofício - Ocorre quando o próprio juiz que prolatou a sentença submete-a à instância superior para reapreciação, existindo ou não recurso das partes.
+
+Recurso especial - Recurso de competência do Superior Tribunal de Justiça, instituído pela Constituição de 1988. É cabível nas causas decididas em única ou última instância pelos Tribunais Regionais Federais ou pelos Tribunais dos Estados, do Distrito Federal e Territórios, quando a decisão recorrida: a) contrariar tratado ou lei federal, ou negar-lhes vigência; b) julgar válida lei ou ato de governo local contestado em face de lei federal; c) der à lei federal interpretação divergente da que lhe tenha atribuído outro tribunal.
+
+Recurso extraordinário - Recurso de competência do Supremo Tribunal Federal, de cabimento restrito às causas decididas em única ou última instância, quando a decisão recorrida: a) contrariar dispositivo da Constituição Federal; b) declarar a inconstitucionalidade de tratado ou lei federal; c) julgar válida lei ou ato de governo local contestado em face da Constituição.
+
+Recurso ordinário - Recurso interposto perante o Supremo Tribunal Federal das decisões dos Tribunais Superiores em certas matérias e no crime político (CF, art. 102, II,); ou para o Superior Tribunal de justiça em certas matérias decididas por tribunais de segunda instância (CF, art. 105, II, e CPC art. 539).
+
+Redução a termo - Tornar escrito manifestação oral, constituindo-se um ato processual.
+
+Referendo - Confirmação de um ato por um órgão ou instância superior. No âmbito constitucional, é uma consulta popular sobre medida adotada pelo Governo; difere do plebiscito, pois neste o povo é consultado antes da decisão ou ato governamental.
+
+Regime aberto - Execução da pena em casa de albergado ou estabelecimento adequado.
+
+Regime fechado - Execução da pena em estabelecimento de segurança máxima ou média.
+
+Regime semi-aberto - Execução da pena em colônia agrícola, industrial ou estabelecimento similar.
+
+Regimento - Conjunto de normas que regulamenta as atividades internas dos tribunais ou de uma instituição.
+
+Relator - Membro de um tribunal a quem foi distribuído um feito, cabendo-lhe estudar o caso em suas minúcias e explaná-lo em relatório, na sessão de sua câmara, turma ou outro órgão colegiado do tribunal ao qual pertença, em cuja pauta tiver sido incluído, e proferir decisões isoladas no processo, quando a lei o autorize.
+
+Relatório - Exposição sintética daquilo que se viu, observou ou concluiu, em torno de determinado assunto.
+
+Renúncia - ocorre quando o titular de um direito (ou de um bem) desiste voluntariamente dele.
+
+Repristinação - Ato de tornar eficaz uma lei revogada, por ter a lei revogadora perdido o efeito; deve ser expressa.
+
+Res nullius - Coisa nula.
+
+Resposta - Manifestação escrita do réu num processo, dirigida ao juiz, dentro de determinado prazo. Pode consistir em: contestação, exceção ou reconvenção (art. 297 do CPC).
+
+Restauração de autos - Processo incidente instaurado por qualquer das partes a fim de reconstituir um processo, cujos autos foram extraviados ou destruídos, uma vez constatado tal fato.
+
+Retroatividade da lei - Fenômeno que permite à lei atingir fatos pretéritos, ocorridos antes de sua vigência. Em regra, a lei não retroage por respeito ao direito adquirido, ao ato jurídico perfeito e à coisa julgada. No âmbito do direito penal, a lei nova não retroagirá, salvo para beneficiar o réu.
+
+Revel - Réu que não comparece em juízo para defender-se.
+
+Revelia - Ocorre quando o réu não comparece em juízo para defender-se.
+
+Revisão criminal - Meio processual que permite ao apenado demonstrar, a todo tempo, a injustiça da sentença que o condenou.
+
+Revisor - Magistrado, membro de tribunal, incumbido de rever e corrigir o relatório de um processo a ser julgado em grau de recurso.
+
+Revogar - Tornar uma norma sem efeito, retirando-lhe a capacidade de gerar efeitos.
+
+Rito - Procedimento legal pelo qual se exteriorizam os atos processuais.
+
+Rogatória - Carta em que a autoridade judicial brasileira pede à autoridade judicial estrangeira, a execução ou prática de certos atos judiciais. No Brasil, recebida a carta rogatória, esta deve, primeiramente, receber o exequatur do Supremo Tribunal Federal autorizando o seu cumprimento.
+
+Rol dos culpados - Relação daqueles que foram condenados criminalmente, transmitida aos órgãos competentes para registro dos antecedentes na folha penal.
+
+Rosto dos autos - Capa do processo com os dados identificadores da causa e o órgão no qual ele tramita.
+
+Salvo-conduto - Documento que possibilita o livre trânsito, em zona de beligerência, sem risco de prisão de seu portador; documento assinado pelo juiz, ordenando habeas corpus em favor de uma pessoa para frustrar ameaça de violência ou coação ilegal.
+
+Saneador - Decisão pela qual o juiz regulariza o processo, ordenando, se necessário, diligência ou nova oitiva do réu ou testemunha para sanar nulidade ou suprir falta que prejudique o esclarecimento da verdade.
+
+Segredo de justiça - Característica de certos atos processuais desprovidos de publicidade, por exigência do decoro ou interesse social. Nesses casos o direito de consultar os autos e de pedir certidão fica restrito às partes e seus advogados. É decretada apenas em casos excepcionais, para resguardar o interesse público e para não constranger os interessados em processos relativos a casamento, filiação, separação dos cônjuges, quebra de sigilo bancário etc.
+
+Segunda instância - Designação do conjunto de órgãos judiciários que julgam recursos. Tribunal
+Semoventes - Diz-se da coisa animada que, movendo-se por si, é suscetível de se afastar de determinado lugar.
+
+Sentença - 1. Ato do juiz pelo qual põe termo ao processo, decidindo, ou não, o mérito da causa. 2. Ato do juiz pelo qual, pondo fim ao processo, decide pela condenação ou absolvição do acusado.
+
+Seqüestro - É uma das medidas destinadas a conservar os direitos dos litigantes. Constitui-se na apreensão e no depósito de bens móveis, semoventes ou imóveis, ou de frutos e rendimentos destes.
+
+Sessão - Período em que os membros de um parlamento, tribunal, associação ou qualquer outro corpo colegiado reúnem-se para deliberar ou simplesmente ouvir uma explanação.
+
+Sindicância - Procedimento sumário instaurado no âmbito de órgão público a fim de apurar irregularidade funcional, e que dá base ao eventual processo administrativo, que visará à punição do culpado.
+
+Sociedade de economia mista - É uma empresa de capital público e particular, com direção estatal e personalidade jurídica de direito privado. Deve ter a forma de sociedade anônima, com maioria de ações votantes nas mãos do poder público. Exemplo: Banco do Brasil S.A., PETROBRAS.
+
+Sonegar - Ocultar dolosamente; desviar; encobrir; deixar de relacionar algo exigido por lei, com intuito fraudulento.
+
+Status quo - Locução latina que significa no estado, na situação em que encontra.
+
+Sub iudice - Expressão qualificativa de uma controvérsia em juízo.
+
+Substabelecer - Transferir para terceiro, total ou parcialmente, os poderes outorgados no mandato, para que substitua o mandatário.
+
+Sucumbência - Ônus que recai sobre a parte vencida numa ação de pagar os honorários de advogado da parte vencedora e as custas ou despesas processuais.
+
+Sui juris - Locução latina que indica quem tem capacidade jurídica para praticar, por si, os atos da vida civil.
+
+Súmula - Resumo da orientação jurisprudencial de um tribunal para casos análogos.
+
+Súmula vinculante - enunciado que resume orientação jurisprudencial reiterada e consolidada em um Tribunal, sendo de observação obrigatória pelas instâncias jurisdicionais inferiores e pela Administração Pública. Não existe no Direito brasileiro. Tramita no Congresso Nacional proposta de Emenda à Constituição visando institui-la.
+
+Superior Tribunal de Justiça - Órgão do Poder Judiciário com jurisdição em todo o território nacional, composto de, no mínimo, 33 ministros, com atribuição básica de conhecer, originariamente, os conflitos de competência entre quaisquer tribunais, em recurso especial, as causas decididas em única e última instância pelos Tribunais Regionais Federais ou pelos Tribunais dos Estados, do Distrito Federal e Territórios.
+
+Supremo Tribunal - O órgão judiciário mais elevado de uma nação, hierarquicamente acima dos Tribunais Superiores e Juízes de qualquer grau. No Brasil, o Supremo Tribunal Federal tem por função precípua a guarda da Constituição.
+
+Sursis - Ver suspensão condicional da pena.
+
+Suspeição - Fato de se duvidar da imparcialidade de um juiz, promotor, testemunha, perito, assistente técnico, serventuário da justiça e intérprete.
+
+Suspensão condicional da pena (sursis) - Direito do sentenciado que preencha os requisitos indispensáveis à concessão de ter a aplicação de sua pena suspensa. Crédito de confiança dado ao criminoso, estimulando-o a que não volte a delinqüir.
+
+Suspensão do pátrio poder - Medida judicial, reclamada pela segurança da criança e do adolescente e de seus haveres, em que incorre o pai ou a mãe por abuso de poder, falta aos deveres paternos, dissipação dos bens do filho, com condenação por sentença irrecorrível.
+
+Suum cuique tribuere - Expressão latina que significa dar a cada um o que é seu.
+
+Tabelião - O mesmo que notário.
+
+Taxa - Tributo instituído pela União, pelos Estados, pelo Distrito Federal e pelos Municípios e cobrado em razão da utilização de serviço público específico prestado ao contribuinte ou colocado à sua disposição.
+
+Termo - Marco divisório que inicia ou encerra a eficácia do negócio jurídico; prazo para cumprimento de ordens judiciais.
+
+Testemunha - Quem presencia um fato.
+
+Tipicidade - Qualidade de um fato real que após definido, serve como modelo; conduta típica.
+
+Togado - Que usa toga; pertencente à magistratura.
+
+Trânsito em julgado - Situação da sentença que se tornou indiscutível, por não mais sujeita a recurso, originando a coisa julgada.
+
+Tribunal de Justiça - Órgão de segundo grau, de criação obrigatória, em todos os Estados, com competência para, normalmente, julgar recursos das decisões dos juízes de primeiro grau.
+
+Tribunal do Júri - Tribunal popular competente para o julgamento dos crimes contra a vida, consumados ou tentados, e constituído por um juiz de direito e sete cidadãos (jurados).
+
+Tribunal Militar - Órgão da Justiça Militar.
+
+Tribunal Pleno - É constituído pela totalidade dos desembargadores, sendo presidido pelo Presidente do Tribunal de Justiça, e, nos seus impedimentos, sucessivamente, pelos Vice-Presidentes ou pelo desembargador mais antigo, competindo-lhe eleger o Presidente, os Vice-Presidentes e o Corregedor-Geral da Justiça e seu Vice, em votação secreta, dentre os integrantes da terça parte mais antiga do Colegiado.
+
+Tribunal Regional Eleitoral - Tribunal de âmbito estadual formado por juízes indicados pela OAB, juízes de direito e desembargadores, indicados pelo Tribunal de Justiça, e membros do Ministério Público Federal, nomeados pelo Presidente da República para atender à jurisdição eleitoral.
+
+Tribunal Regional Federal - É o Tribunal que se constitui na 2ª instância dos processos que correm perante a Justiça Federal. Porto Alegre sedia o Tribunal Regional Federal da 4ª Região, composta pelos Estados do RS, SC e PR.
+
+Turma - Divisão de um tribunal ou de qualquer órgão colegiado. No TJRS foram extintas com a unificação dos Tribunais de Justiça e de Alçada.
+
+Última instância - Aquela que põe termo final ao processo e de cuja decisão não cabe mais recurso, salvo o extraordinário, na forma da lei.
+
+Ultra petita - Expressão empregada para qualificar a decisão judicial que ultrapassa o interesse manifestado pelas partes na ação.
+
+Única instância - O juízo exclusivo de julgamento de uma causa, não podendo ser interposto recurso ordinário de sua decisão para outra instância gradativa.
+
+Usque ad finem - Expressão latina que significa "até o fim".
+
+Vacância - Declaração de que o cargo público está vago.
+
+Vade Mecum - Livro com noções indispensáveis e essenciais consultado tão amiúde que o consulente o leva sempre junto.
+
+Valor da causa - Valor que o autor dá à causa. É menção obrigatória em todos os feitos civis.
+
+Vara - Cada uma das divisões de jurisdição de uma comarca, confiada a um Juiz de Direito. Ex.: Vara Cível, Criminal, da Fazenda Pública.
+
+Veto - Recusa do Chefe do Poder Executivo a projeto de lei aprovado pelo Poder Legislativo fundado em razões de inconstitucionalidade ou interesse público.
+
+Vexata Quaestio - Locução latina que significa questão controvertida, que acaba gerando longas discussões.
+
+Viger - Ter vigência.
+
+Vista - Ato pelo qual alguém recebe os autos de um processo como direito de tomar conhecimento de tudo o que nele se contém. Ex: pedir vista, dar vista.
+
+Vitaliciedade - Garantia conferida ao magistrado pela Constituição Federal que o torna vitalício no cargo, do qual só pode ser afastado através de sentença judicial transitada em julgado.
+
+Vogal - Juiz classista, representante paritário dos empregadores ou empregados, nas Juntas de Conciliação e Julgamento.
+
+Writ - Termo inglês que significa mandado, ordem escrita. Quando utilizado na terminologia jurídica brasileira, refere-se sempre ao mandado de segurança e ao habeas corpus.
+
+Zona de fronteira - Faixa de terra fronteiriça com países vizinhos, considerada essencial à segurança do Estado e por isso mesmo sujeita a limitações de uso.
+
+Zona eleitoral - Divisão geográfica que abrange todos os eleitores de uma determinada região ou território.

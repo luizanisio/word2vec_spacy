@@ -1,0 +1,3703 @@
+ATUALIZADO E ADAPTADO AO NOVO SISTEMA ORTOGRÁFICO
+ESTADO DO RIO GRANDE DO SUL
+TRIBUNAL DE JUSTIÇA
+PODER JUDICIÁRIO
+6ª EDIÇÃO
+PORTO ALEGRE
+JANEIRO | 2012
+MANUAL DE
+Porto Alegre – julho de 2012
+Catalogação na fonte elaborada pelo Departamento de Biblioteca e de Jurisprudência do TJRS
+
+
+
+ Rio Grande do Sul. Tribunal de Justiça. Departamento de Taquigrafia e
+ Estenotipia.
+ Manual de linguagem jurídico-judiciária / Departamento de Taquigrafia
+ e Estenotipia. – 6. ed. – Porto Alegre : Tribunal de Justiça do Estado do Rio
+ Grande do Sul, Departamento de Artes Gráficas, 2012.
+ 198 p.
+ Atualizado e adaptado ao novo sistema ortográfico.
+ Este Manual pode ser encontrado em: http://www.tjrs.gov.br/docs/manuais/manuais.html
+ ou http://www.tjrs.gov.br/setores/taquigrafia/index.html
+
+ 1. Linguagem jurídica – Abreviaturas. 2. Linguagem jurídica –
+ Estrangeirismos. 3. Linguagem jurídica – Expressões – Padronização.
+ 4. Linguagem jurídica – Reduções. 5. Linguagem jurídica – Termos
+ técnicos – Padronização. 6. Linguagem jurídica – Siglas. I. Título.
+ CDU 340.113(035)
+Supervisão Administrativa:
+Desembargadora Liselena Schifi no Robles Ribeiro,
+ 3ª Vice-Presidente do Tribunal de Justiça do Estado.
+Supervisão Técnica:
+ Prof. Adalberto J. Kaspary
+Elaboração:
+ Serviço de Revisão do Departamento de Taquigrafi a e Estenotipia
+Editoração:
+Departamento de Artes Gráfi cas
+Capa:
+ Mário Salgado – Unidade de Imprensa
+Impressão:
+ Departamento de Artes Gráfi cas
+Este Manual pode ser encontrado em http://www.tjrs.gov.br/docs/manuais/manuais.html
+ou http://www.tjrs.gov.br/setores/taquigrafi a/index.html
+Envie suas sugestões e/ou dúvidas para tira-duvida@tj.rs.gov.br 
+Administração do Tribunal de Justiça do RS
+Gestão 2010-2011
+PRESIDENTE
+Desembargador LEO LIMA
+1º VICE-PRESIDENTE
+Desembargador JOSÉ AQUINO FLÔRES DE CAMARGO
+2º VICE-PRESIDENTE
+Desembargador VOLTAIRE DE LIMA MORAES
+3ª VICE-PRESIDENTE
+Desembargadora LISELENA SCHIFINO ROBLES RIBEIRO
+CORREGEDOR-GERAL DA JUSTIÇA
+Desembargador RICARDO RAUPP RUSCHEL
+Administração do Tribunal de Justiça do RS
+Gestão 2012-2013
+PRESIDENTE
+Desembargador MARCELO BANDEIRA PEREIRA
+1º VICE-PRESIDENTE
+Desembargador GUINTHER SPODE
+2º VICE-PRESIDENTE
+Desembargador CLÁUDIO BALDINO MACIEL
+3º VICE-PRESIDENTE
+Desembargador ANDRÉ LUIZ PLANELLA VILLARINHO
+CORREGEDOR-GERAL DA JUSTIÇA, EM EXERCÍCIO
+Desembargador VOLTAIRE DE LIMA MORAES
+
+SUMÁRIO
+Apresentação .................................................................................... 7
+Reduções usadas neste Manual ....................................................... 9
+Padronizações ................................................................................... 13
+Estrangeirismos ................................................................................. 95
+Abreviaturas, Siglas e Símbolos ...................................................... 147
+Abreviaturas e Siglas na Nomenclatura dos Feitos ......................... 193
+Obras Consultadas ............................................................................ 197 
+
+APRESENTAÇÃO
+O Português é a ferramenta essencial de profi ssionais e estudantes
+do Direito.
+O presente MANUAL DE LINGUAGEM JURÍDICO-JUDICIÁRIA, em
+sua 6ª edição, vem adequado ao Novo Acordo Ortográfi co, buscando enriquecer
+a cultura do operador do Direito, tornando-se ferramenta imprescindível
+àqueles que desejam aprimorar o domínio da linguagem com a exposição
+de conceitos e convertê-la em instrumento de trabalho com o esclarecimento
+da terminologia legal e convencional que se cristalizou na evolução
+da história.
+Trata-se de contribuição valiosa para todos aqueles que atuam com
+desenvoltura no mundo jurídico.
+Desembargadora Liselena Schifi no Robles Ribeiro
+3ª Vice-Presidente do Tribunal de Justiça do Estado
+Gestão 2010-2011
+Desembargador André Luiz Planella Villarinho
+3º Vice-Presidente do Tribunal de Justiça do Estado
+Gestão 2012-2013
+
+REDUÇÕES USADAS
+NESTE MANUAL
+ABL – Associação Brasileira de Letras
+ABNT – Associação Brasileira de
+Normas Técnicas
+adj. – adjetivo
+adv. – advérbio
+al. – alemão
+AOLP (1990) – Acordo Ortográfi co
+da Língua Portuguesa (1990)
+arc. – arcaico
+cf. – confi ra, confronte com, verifi que
+cfr. – confi ra, confronte
+esp. – espanhol
+estrang. – estrangeirismo
+ex. – exemplo(s)
+fi g. – fi gurado
+fr. – francês
+g. – gênero
+ingl. – inglês
+ital. – italiano
+lat. – latim
+lit. – literatura
+loc. – locução
+loc. conj. – locução conjuntiva
+n. – número
+obs. – observação
+o. d. – objeto direto
+o. i. – objeto indireto
+p. ex. – por exemplo
+p. ext. – por extensão
+pl. – plural
+port. – português
+sing. – singular
+subst. – substantivo
+subst. fem. – substantivo feminino
+subst. masc. – substantivo masculino
+v. – verbo
+var. – variação
+v. def. – verbo defectivo
+VOLP09 – Vocabulário Ortográfi co da
+Língua Portuguesa, 2009.
+v. t. d. – verbo transitivo direto
+v. t. i. – verbo transitivo indireto
+10 – Manual de Linguagem Jurídico-Judiciária
+Manual de Linguagem Jurídico-Judiciária – 11
+PADRONIZAÇÕES
+
+Manual de Linguagem Jurídico-Judiciária – 13
+à baila, à balha – acerto
+A
+– à baila, à balha – trazer à baila (citar a propósito); vir à baila (vir a propósito;
+ser mencionado)
+– ab- – O prefi xo ab- exige hífen quando seguido de vocábulo iniciado com a
+letra b, h ou r (ex.: ab-rogar, ab-rupto – ou abrupto, forma variante).
+– abaixo-assinado – o documento (pl.: abaixo-assinados)
+– abaixo assinado – a pessoa
+– á-bê-cê – abecedário
+– abril (abr.) – (mês – inicial minúscula)
+– ab-rogar – revogar totalmente
+– Ação Direta de Inconstitucionalidade – ADI; partes: proponente /
+requerido(a) – reqdo.(a.)
+– ação monitória – ação para, de forma sumária, sem oposição de embargos,
+obter mandado para pagamento de soma em dinheiro, entrega de coisa
+fungível, etc.
+– ação rescisória – partes: autor(a) – A. / réu – R. / interessado(a)
+– a cerca de – distância aproximada, tempo aproximado (faltando mais ou
+menos...); (ver há cerca de)
+– acerca de – sobre, a respeito de (ver há cerca de)
+– acerto – ato de acertar; resposta correta em prova; ajuste (ver asserto)
+14 – Manual de Linguagem Jurídico-Judiciária
+– acidentes geográfi cos – com inicial minúscula, mesmo que seguidos do
+respectivo nome próprio, exceto quando a designação do acidente fi zer parte
+de substantivo próprio (ex.: rio Guaíba, lagoa Mirim, ilha de Fernando de
+Noronha; mas Ilhas Cayman)
+– acórdão – decisão colegiada
+– acostar algo a – juntar, anexar algo a
+– à custa de
+– ad- – O prefi xo ad- exige hífen quando seguido de vocábulo iniciado com a
+letra d, h ou r (ex.: ad-rogar, ad-digital).
+– adequar – O verbo adequar fl exiona-se integralmente, segundo o Dicionário
+escolar da língua portuguesa da Academia Brasileira de Letras (adequo,
+adequa, adequamos, adequam; adeque, adequemos, adequem; etc.).
+– a destempo – fora de prazo (NUNCA usar desatempadamente); (ver
+atempar)
+– Administração Direta e Indireta – quando se refere às instituições
+– administração direta e indireta – quando se tratar de formas de administração
+– Administração Pública – ente
+– administrador público
+– a domicílio – com verbo de movimento (ex.: levar a domicílio, ir a domicílio);
+(ver em domicílio)
+– adredemente – (NUNCA usar)
+– ad-rogar – adotar ou tomar por adoção (pessoa de maior idade)
+– advocacia-geral
+– advogado-geral
+– aero- – O prefi xo aero- exige hífen quando seguido de vocábulo iniciado
+com a letra o ou h (ex.: aero-hidropatia – ou aeroidropatia, forma variante).
+– à evidência – (ver a toda a evidência)
+acidentes geográfi cos – à evidência
+Manual de Linguagem Jurídico-Judiciária – 15
+– a expensas de
+– afi cionado – (NÃO existe afi ccionado)
+– a fi m de – para
+– afi m – parente por afi nidade, parecido, semelhante
+– a fi nal – no término, no fi nal, ao termo
+– afi nal – por fi m, fi nalmente, em resumo, em conclusão
+– afrontar (v. t. d.)
+– agosto (ago.) – (mês – inicial minúscula)
+– agravo – partes: agravante – agte. / agravado(a) – agdo.(a.) / agravante-
+-agravado(a) / corréu / corré / interessado(a) / vítima
+– agravo de instrumento
+– agravo do agravo
+– agravo em execução
+– agravo regimental
+– agravo retido
+– Agravos são interpostos.
+– agro- – O prefi xo agro- exige hífen quando seguido de vocábulo iniciado
+com a letra o ou h.
+– à guisa de – à maneira de, ao modo de
+– a instâncias de – por insistência de
+– al – abreviação de aliud (outra coisa, coisa diversa); (ex.: Se por al não
+estiver preso...)
+– Álbum Imobiliário – (preferir a denominação técnica: Livro de Registro de
+Imóveis)
+– além-fronteiras
+a expensas de – além-fronteiras
+16 – Manual de Linguagem Jurídico-Judiciária
+– além-mar
+– aluguel, aluguer – ambas as formas estão corretas (pl.: aluguéis, alugueres)
+– a lume (subst. masc.) – nas expressões trazer a lume (tornar patente;
+mostrar); vir a lume (ser publicado); dar a lume (publicar)
+– à luz de – segundo o modo de ver (a opinião, o ponto de vista, o critério,
+os princípios) de; com a iluminação de (ex.: à luz de vela)
+– à mão armada
+– ambi- – O prefi xo ambi- exige hífen quando seguido de vocábulo iniciado
+com a letra i ou h.
+– ambos os, ambas as – seguidos de substantivo, sempre acompanhados
+de artigo
+ – à medida que – à proporção que, conforme (ver na medida em que; NÃO
+existe à medida em que)
+– à mercê de – ao sabor (capricho) de (ver mercê de)
+– amor-próprio – pl.: amores-próprios
+– anatocismo – juros sobre juros
+– anfi - – O prefi xo anfi - exige hífen quando seguido de vocábulo iniciado
+com a letra i ou h.
+– a nível de – (NÃO existe em português; ver em nível de)
+– ano-base – pl.: anos-base(s)
+– Ano-Novo – (ver datas comemorativas)
+– ano 2000 – (sem ponto no milhar)
+– ante- – O prefi xo ante- exige hífen quando seguido de vocábulo iniciado
+com a letra e ou h.
+– ante o exposto – e não ante ao exposto
+– anti- – O prefi xo anti- exige hífen quando seguido de vocábulo iniciado
+com a letra i ou h (ex.: anti-infl amatório).
+além-mar – anti-
+Manual de Linguagem Jurídico-Judiciária – 17
+– antiguidade – O u pode ser pronunciado ou mudo.
+– antiMaluf, antimalufi sta
+– ao encontro de – a favor de, em benefício de, para junto de (ver de encontro
+a)
+– ao invés de – ideia de oposição, contrariedade (ver em vez de)
+– aonde – ex.: Aonde vais?; (ver donde; onde)
+– ao par – referente a taxas de câmbio e mercado de ações
+– ao ponto de – ex.: Chega-se ao ponto de equilíbrio...
+– ao revés – ao invés
+– a par – ciente, informado
+– apart-hotel; apart-hotéis
+– a partir de – deve ser empregado preferencialmente no sentido temporal
+– apelação – partes: apelante – apte. / apelado(a) – apdo.(a.) /
+interessado(a) / apelante-apelado(a) / apelante-recorrido(a) adesivo(a) /
+apresentante / recorrente adesivo(a)-apelado(a) / curador(a) ao vínculo /
+curador(a) à lide / apelante-recorrente adesivo(a) / apelado(a)-recorrido(a)
+adesivo(a) / apelante-recorrido(a) adesivo(a)-apelado(a) / apelante-recorrente
+adesivo(a) / apelado(a)-recorrido(a) adesivo(a) / recorrente – recte.
+adesivo(a) / recorrido(a) – recdo.(a.) adesivo(a) / curador(a) especial
+– apelação cível
+– apelação-crime – pl.: apelações-crime(s)
+– apelação em reexame necessário ou reexame necessário
+– apelo acusatório – (NUNCA usar; substituir por apelo de acusação)
+– apelo ministerial – (NUNCA usar; substituir por apelo do MP)
+– apenar, apenação, apenamento – (ver penalizar)
+– aperceber-se – preparar(-se), aprontar(-se), aparelhar(-se), prover(-se)
+(acepções preferíveis)
+antiguidade – aperceber-se 
+18 – Manual de Linguagem Jurídico-Judiciária
+– apócrifo – não autêntico (Não pode ser usado para não assinado.)
+– a ponto de – na iminência de, prestes a
+– apóstrofe – fi gura literária, chamamento
+– apóstrofo – sinal gráfi co ( ’ )
+– a princípio – no início (sentido cronológico) (ver em princípio)
+– ar-condicionado; ares-condicionados – o(s) aparelho(s)
+– ar condicionado – o ar
+– a respeito de – O emprego de a respeito sem complemento no lugar de a
+respeito de não é recomendável, uma vez que se trata de anglicismo. Ex.: Na
+última reunião, não se falou a respeito desse assunto. E não: Na última reunião,
+não se falou a respeito.
+– aresto – decisão judicial não suscetível de reforma, decisão proferida por
+tribunal superior
+– arqui- – O prefi xo arqui- exige hífen quando seguido de vocábulo iniciado
+com a letra i ou h (ex.: arqui-inimigo).
+– arresto – apreensão judicial preventiva de bens do devedor
+– arte-fi nal – pl.: artes-fi nais
+– arte-fi nalista – pl.: arte-fi nalistas
+– artigos – São indicados por numerais ordinais do primeiro ao nono (1º, 2º,
+3º, etc.) e por numerais cardinais do décimo em diante (10, 11, 12, etc.).
+– à(s), da(s), na(s) folha(s) / página(s) – ex.: Conforme se apreende das
+fl s. 05 e 06 dos autos. (folha determinada); ex.: Leu o relatório de folhas. (folha
+indeterminada – uso não recomendado)
+– a seu talante – a sua vontade
+– Assembleia Geral – órgão da entidade
+– assembleia geral – forma de reunião
+– assente – decidido, resolvido; acordado, estabelecido de comum acordo
+apócrifo – assente
+Manual de Linguagem Jurídico-Judiciária – 19
+– asserto – assertiva (ver acerto)
+– assisado – ajuizado, prudente
+– assistir (v. t. d.) – auxiliar (preferencialmente)
+– assistir a (v. t. i.) – presenciar, ver
+– até / até a – ex.: Até as / às 18 horas, ele chegará.
+– atempar – marcar prazo
+– atenciosamente – atte.
+– atividade-fi m – pl.: atividades-fi m, atividades-fi ns
+– atividade-meio – pl.: atividades-meio(s)
+– à toa – sem destino; irrefl etido, inútil, vil. Após o AOLP, sempre sem hífen.
+– a toda a evidência – (ver à evidência)
+– a todo o galope
+– a todo o vapor
+– através de – transpassar (traspassar, trespassar) de lado a lado; no
+decorrer de (NUNCA usar no sentido de meio ou instrumento; substituir
+por por intermédio de ou por, para pessoas, ou por por meio de, mediante,
+por)
+– atributivo
+– audiodigital
+– autarquia-ré – pl.: autarquias-rés
+– auto- – O prefi xo auto- exige hífen quando seguido de vocábulo iniciado
+com a letra o ou h.
+– (a) autópsia ou (a) autopsia
+– autor-apelante – pl.: autores-apelantes
+– autor-reconvinte; autor-reconvindo – pl.: autores-reconvintes; autores-
+-reconvindos
+asserto – autor-reconvinte; autor-reconvindo
+20 – Manual de Linguagem Jurídico-Judiciária
+– auxiliar de ensino
+– auxílio-cesta-alimentação – pl.: auxílios-cesta-alimentação
+– auxílio-creche – pl.: auxílios-creche
+– avaro – avarento, sovina
+– a venda, à venda – ambas as formas são corretas
+– aviso-prévio – comunicação de rescisão de contrato de trabalho (pl.: avisos-prévios)
+– a vista, à vista – ambas as formas são corretas
+– à vontade (adv. e subst.)
+auxiliar de ensino – à vontade
+Manual de Linguagem Jurídico-Judiciária – 21
+B
+– bacharel (b.el / bel.), bacharéis (b.éis / béis.), bacharela (bel.a / bela.), bacharelas
+(bel.as / belas.)
+– Bagé
+– bageense, bajeense (VOLP09)
+– bairro – Escreve-se com minúscula mesmo quando seguido do nome próprio
+(ex.: bairro Menino Deus).
+– balança de Têmis – Têmis, deusa da justiça, era representada com uma
+balança na mão.
+– bate-boca – discussão, contenda (pl.: bate-bocas)
+– bê-á-bá, beabá – forma fi gurada de designar os rudimentos de uma ciência
+ou arte; alfabeto, abecedário
+– bel-prazer – vontade própria, talante, arbítrio (na expressão a seu bel-prazer)
+– Beltrano de Tal – com iniciais maiúsculas em substituição a um nome específi
+co; com inicial minúscula quando se tratar dos pronomes indefi nidos fulano,
+beltrano e sicrano (ver Fulano de Tal)
+– bem- – Exige hífen quando, seguido de vocábulo iniciado com vogal ou
+h, forma uma nova unidade morfológica e semântica. (ex.: bem-aventurado,
+bem-educado, bem-humorado). Também requer hífen quando o elemento
+que o segue inicia por consoante: bem-criado, bem-ditoso, bem-falante.
+– bem-meio – pl.: bens-meio (melhor forma) ou bens-meios
+bacharel (b.el / bel.), bacharéis (b.éis / béis.), bacharela (bel.a
+/ bela.) – bem-meio
+22 – Manual de Linguagem Jurídico-Judiciária
+– bi- – O prefi xo bi- exige hífen quando seguido de vocábulo iniciado com a
+letra i ou h.
+– bíduo – o espaço de dois dias
+– bimensal – duas vezes ao mês
+– bimestral – de dois em dois meses
+– bio- – O prefi xo bio- exige hífen quando seguido de vocábulo iniciado com
+a letra o ou h.
+– biopsia, biópsia
+– biotipo, biótipo
+– boa-fé – sinceridade, lisura; ausência de intenção dolosa
+– boa vontade
+– boas-festas
+– boas-vindas
+– Boletim de Ocorrência – BO
+– bolsa-família – pl.: bolsas-família
+– (o) bom-senso
+– braile – o sistema
+– Braille – o educador
+bi- – Braille
+Manual de Linguagem Jurídico-Judiciária – 23
+C
+– caixa-d’água – pl.: caixas-d’água
+– caixa de Pandora
+– caixa dois – pl.: caixas dois
+– caixa-forte – pl.: caixas-fortes
+– caixa-preta – pl.: caixas-pretas
+– Câmara de Férias Cível
+– Câmara de Férias Criminal
+– Câmara em Regime de Exceção
+– canoa policial – saída de dois ou mais agentes da polícia, sob as ordens
+de um delegado, para efetuar diligências em lugar preestabelecido
+– Capital – uso determinado
+– capital – uso genérico
+– capítulo I, II... (cap. I, II)
+– cardio- – Exige hífen quando seguido de vocábulo iniciado com a letra o
+ou h.
+– cargo ou função do serviço público – iniciais maiúsculas, para realçar o
+cargo ou a função (ex.: Escrivão, Ofi cial de Justiça, Ofi cial Superior Judiciário,
+Juiz de Direito, etc.)
+caixa-d'água – cargo ou função do serviço público
+24 – Manual de Linguagem Jurídico-Judiciária
+– Cartório – órgão determinado
+– cartório – uso genérico
+– Casa – inicial maiúscula quando em substituição ao nome da entidade
+– casa – sentido genérico
+– cediço – sabido de todos, antigo, velho
+– CEP 90040-000 – (sem ponto no milhar)
+– cerca de – aproximadamente (ver há cerca de, acerca de, a cerca de)
+– cesta-base – pl.: cestas-base(s)
+– chamar a atenção (com artigo)
+– chassi – [ver chassis (estrang.)]
+– Chefe do Executivo
+– chegar a – e não chegar em
+– chove não molha (subst. 2g. 2n.) – coisa ou situação que não vai para
+diante nem para trás
+– ciber- – O prefi xo ciber- exige hífen quando seguido de vocábulo iniciado
+com a letra h ou r.
+– Cidade – uso determinado (ex.: nesta Cidade)
+– cientifi car – cientifi car alguém de algo
+– circum- – O prefi xo circum- exige hífen quando seguido de vocábulo iniciado
+com a letra h, m, n ou vogal (ex.: circum-adjacente, circum-hospitalar,
+circum-navegação).
+– Claúsula Segunda, Cláusula 2ª, etc. – (Escreve-se, nos documentos ofi -
+ciais, com inicial maiúscula a palavra cláusula, quando numerada.)
+– co- – O prefi xo co- vem sempre ligado à palavra a que se refere. Se a palavra
+seguinte inicia com h, este desaparece (ex.: coobrigar, coerdar, coerdeiro).
+– Código Brasileiro de Aeronáutica – CBA
+Cartório – Código Brasileiro de Aeronáutica – CBA
+Manual de Linguagem Jurídico-Judiciária – 25
+– Código Civil – CC
+– Código Comercial – C. Com.
+– Código Consumerista – Código do Consumidor
+– Código de Defesa do Consumidor – CDC
+– Código de Hammurabi – conjunto de 282 leis da Babilônia
+– Código de Organização Judiciária do Estado – COJE
+– Código de Processo Civil – CPC
+– Código de Processo Penal – CPP
+– Código de Trânsito Brasileiro – CTB
+– Código do João Sem-Terra
+– Código Penal – CP
+– códigos – Seus títulos só vêm abreviados quando precedidos de referências
+articuladas (ex.: art. 22 do CPC); desacompanhados de artigos, escrever
+por extenso.
+– Código Tributário Nacional – CTN
+– coerdar; coerdeiro
+– Colegiado – inicial maiúscula quando se referir a um órgão específi co
+– Colenda Câmara
+– colocar – (NUNCA usar no sentido de argumentar, explanar, explicar, expor,
+etc.)
+– comandante-geral
+– Comarca – uso determinado
+– comarca – uso genérico
+– comarca-polo
+– cometer algo a – confi ar; encarregar algo a alguém
+Código Civil - CC – cometer algo a 
+26 – Manual de Linguagem Jurídico-Judiciária
+– comezinho – corriqueiro, elementar, simples, trivial
+– Comissão Técnica Nacional de Biossegurança – CTNBio
+– complementari(e)dade
+– (a) compra e venda, (as) compras e vendas
+– comprobabilidade ou comprovabilidade
+– com todo o respeito – (USAR sempre o artigo)
+– comunicar – algo a alguém (regência correta)
+– concluído – particípio de concluir
+– concluso (adj.; part. irreg.) – na expressão autos conclusos: autos prontos
+para julgamento
+– confessado – particípio de confessar
+– confesso (adj.) – aquele que confessou
+– conhecer de – apreciar, acolher, julgar, é transitivo indireto (NUNCA usar
+o recurso foi conhecido)
+– (o / a) cônjuge – É redundante o emprego de cônjuge varão e cônjuge mulher
+(cônjuge virago), uma vez que o substantivo cônjuge é comum de dois.
+– Conselho da Magistratura
+– Conselho de Sentença – Tribunal do Júri
+– Conselho Nacional de Justiça – CNJ
+– Conselho Permanente de Justiça
+– Consolidação das Leis do Trabalho – CLT
+– cônsono (adj.) – em harmonia, harmonioso (NÃO existe cônsone)
+– constar – consta da(s) ou consta na(s); (NUNCA usar consta à / às)
+– Constituição da República Federativa do Brasil
+– Constituição do Estado do Rio Grande do Sul
+comezinho – Constituição do Estado do Rio Grande do Sul
+Manual de Linguagem Jurídico-Judiciária – 27
+– Constituição Estadual
+– Constituição Federal (denominação usual)
+– cônsul
+– consultor(ia)-geral
+– consumerista – referente às relações de consumo. Lei Consumerista, etc.
+– conta conjunta
+– conta-corrente (c/c) – pl.: contas-correntes
+– contador-geral
+– contadoria-geral
+– contar (v. t. d.) – ter ou somar (de idade ou tempo de serviço)
+– conteste – concordante (ver inconteste)
+– contra- – O prefi xo contra- exige hífen quando seguido de vocábulo iniciado
+com a letra a ou h (ex.: contra-almirante, contra-ataque, contra-harmônico).
+– contrato-padrão – pl.: contratos-padrão
+– contributivo; contributividade
+– coordenador-geral
+– Coordenadoria das Promotorias Criminais
+– coordenadoria-geral
+– coquetel-molotov
+– Corpo de Jurados
+– corré e corréu
+– correcional – e não correicional
+– Corregedoria-Geral da Justiça
+– corroborar (v. t. d.) – roborar, reforçar, comprovar
+Constituição Estadual – corroborar (v. t. d.)
+28 – Manual de Linguagem Jurídico-Judiciária
+– cortocontuso
+– cota-parte, quota-parte – pl.: cotas-partes, quotas-partes
+– crani(o)encefálico
+– credor-arrematante
+– Criciumal
+– crime-fi m – pl.: crimes-fi m, crimes-fi ns
+– crime-meio – pl.: crimes-meio(s)
+– cristãmente
+– croqui (port.) – esboço de desenho [ver croquis (estrang.)]
+– culminar – chegar ao ponto mais alto (NUNCA usar no sentido de terminar)
+cortocontuso – culminar
+Manual de Linguagem Jurídico-Judiciária – 29
+D
+– dada a vênia – concedida a vênia (NUNCA usar dada a vênia de; substituir
+por com a vênia de Fulano de Tal); [ver data venia (estrang.)]
+– daí por que
+– dar à luz – parir, publicar (sentido fi gurado: dar à luz uma obra)
+– datas – separação por hifens e complementação com zeros (exceto em
+atos normativos), para preencher espaços; apenas o primeiro dia do mês
+pode ser escrito com numeral ordinal (ex.: 1º-07-01; 01-07-01. Hoje é dia 1º
+de julho.) Grafi a de período – ex: out.-dez., 2009; biênio 2009-2010
+– datas comemorativas – Natal, Ano-Novo, Páscoa, Dia das Mães (com iniciais
+maiúsculas)
+– decêndio – período de dez dias
+– décimo terceiro salário – nome ofi cial: Gratifi cação de Natal – Lei n. 4.090,
+de 13-7-1962 – Ementa)
+– decisão – pode ser singular ou colegiada
+– decreto legislativo (indeterminado)
+– Decreto Legislativo n. (determinado)
+– decreto-lei – pl.: decretos-leis (indeterminado)
+– Decreto-Lei n. (determinado)
+– decujo – falecido; inventariado; que é objeto de inventário; aquele cujos
+bens são dados a inventário [ver de cujus (estrang.)]
+dada a vênia – decujo
+30 – Manual de Linguagem Jurídico-Judiciária
+– de encontro a – contra (ver ao encontro de)
+– Defensoria Pública
+– deferimento – concessão, outorga
+– deferir – conceder, outorgar (ver diferir)
+– defeso – vedado, proibido (ex.: É defeso ao réu, neste tipo de crime, recorrer
+em liberdade. Este tipo de conduta é defeso por lei.)
+– défi cit, défi ce [ver defi cit (estrang.)]
+– Delegacia de Polícia
+– Delegacia Regional de Ensino
+– delito-tipo – pl.: delitos-tipo(s)
+– dentre – do grupo de. Usado com verbos como: destacar, eleger, extrair
+(ver entre)
+– denunciação da lide a alguém, denunciar a lide a alguém – dar a conhecer,
+comunicar a alguém a lide (NUNCA usar: o proprietário do imóvel
+foi denunciado à lide; substituir por: a lide foi denunciada ao proprietário do
+imóvel)
+– denunciar algo – declarar fi ndo (contrato, etc.)
+– de per si (arc.) – por si [ver per se (estrang.)]
+– derrogar – revogar parcialmente
+– desaforamento – partes: requerente – reqte. / requerido(a) – reqdo.(a.) /
+réu / ré / corréu / corré / vítima / assistente de acusação
+– desapercebido – não apercebido, desprovido, desprevenido, despreparado,
+desguarnecido (acepções preferenciais)
+– desaprisionar – retirar da prisão, desencarcerar
+– descriminar – inocentar, tirar a culpa, excluir a responsabilidade criminal,
+descriminalizar (ex.: Há grupos feministas que lutam por descriminar o
+aborto.)
+de encontro a – descriminar
+Manual de Linguagem Jurídico-Judiciária – 31
+– Desembargadora (Des.a
+, Desa.), Desembargadoras (Des.as, Desas.)
+– Desembargador instrutor; Desembargador plantonista; Desembargador-Presidente;
+Desembargador-Relator; Desembargador-Revisor; Desembargador-Vogal
+– Evitar as formas abreviadas.
+– despacho ordinatório – despacho que ordena
+– despejo do prédio – desocupação de um imóvel por decisão judicial
+(NUNCA usar despejo do locatário)
+– despender – gastar, consumir (dispêndio e dispendioso; NÃO existe dispender)
+– despercebido – não percebido, não notado, ignorado
+– despronúncia – reforma da sentença de pronúncia
+– desprovimento ou não provimento – termos preferenciais (ver improvimento)
+– dessarte, destarte
+– deus-dará – (ao deus-dará: à toa, a esmo, ao acaso)
+– deus nos acuda (subst.) – (um deus nos acuda: desordem, confusão, tumulto,
+balbúrdia)
+– de vez que – (NÃO usar com sentido causal; substituir por uma vez que,
+visto que, já que, etc.); (ver vez que, eis que)
+– dezembro (dez.) – (USAR inicial minúscula)
+– (o) dia a dia – dia após dia ou rotina diária
+– dia-multa – pl.: dias-multa(s)
+– Diário da Justiça
+– Diário Ofi cial da União – DOU
+– Diário Ofi cial do Estado – DOE
+– diferimento – adiamento
+– diferir – divergir, ser diferente; adiar (ver deferir)
+Desembargadora – diferir
+32 – Manual de Linguagem Jurídico-Judiciária
+– Digníssimo, Digníssima – DD.
+– diploma legal
+– Direito – sistema de leis ou a disciplina (ex.: Direito Comparado, Direito de
+Família, Direito Romano, etc.)
+– direito – faculdade legal de praticar um ato; prerrogativa
+– direito adjetivo – direito processual (termo preferencial): conjunto de
+normas processuais (ex.: Direito Processual Civil, Direito Processual Penal)
+– direito alternativo
+– Direito brasileiro
+– Direito Comum
+– Direito Familial
+– direito formal
+– direito material
+– direito processual
+– Direito Público Não Especifi cado
+– direito substantivo – direito material (termo preferencial): conjunto de
+normas materiais (ex.: Direito Civil, Direito Comercial)
+– diretor-empregado – pl.: diretores-empregados
+– diretor-geral
+– diretor-proprietário – pl.: diretores-proprietários
+– discriminar – distinguir, diferenciar, separar
+– dispêndio – despesa, gasto
+– dispendioso – custoso, caro
+– Disque Judiciário – (extinto em 2006)
+– disse que disse, diz que diz, diz que diz que (subst. masc. 2n.)
+Digníssimo, Digníssima – DD. – disse que disse, diz que diz, diz que diz que
+Manual de Linguagem Jurídico-Judiciária – 33
+– dissintonia
+– distributivo; distributividade
+– dito-cujo – pl.: ditos-cujos
+– diuturno – de longa duração, constante (NUNCA usar no sentido de todo
+o dia, noite e dia)
+– docimasia – prova, exame
+– domicílio – lugar onde alguém reside com ânimo permanente; residência
+de direito em oposição à de fato; lugar da administração da pessoa jurídica
+(ver residência)
+– dom-joão (pl.: dom-joões) – dom-juanesco(s); dom-juanismo(s)
+– dom-quixote(s) – dom-quixotismo(s)
+– dona de casa – pessoa de lides domésticas, proprietária de casa (pl.: donas
+de casa)
+– donde (ou de onde) – ex.: Donde ou de onde vens?; (ver aonde; onde)
+– drogadição, drogadito – (mas adicto)
+– dúvida de competência – partes: suscitante / suscitado(a) / interessado(a)
+dissintonia – dúvida de competência
+34 – Manual de Linguagem Jurídico-Judiciária
+E
+– edil
+– Egrégio
+– eis por que – (ver daí por que)
+– eis que – (NUNCA usar com sentido causal; substituir por visto que, uma
+vez que, já que); (ver de vez que, vez que)
+– eivar – contaminar, enfraquecer, infectar, produzir mancha (ex.: O processo
+está eivado de nulidades.)
+– ele(c)tro- – O prefi xo ele(c)tro- exige hífen quando seguido de vocábulo
+iniciado com a letra o ou h.
+– eletrocussão – execução mediante procedimentos específi cos (aplicação
+de eletrodos à fronte e à perna direita do condenado), em cadeira elétrica
+– eletroplessão – resultado da ação da corrente elétrica ou da eletricidade
+industrial sobre os seres vivos
+– elidir – afastar, suprimir, anular (ex.: O fato de ter prestado socorro à vítima
+não elidiu a culpa do réu.)
+– elucubração – e não elocubração
+– embaçar, embaciar
+– embaixo
+– embargos – Embargos são opostos.
+edil – embargos
+Manual de Linguagem Jurídico-Judiciária – 35
+– embargos – partes: embargante – embte. / embargado(a) – embdo.(a.) /
+interessado(a) / embargante-assistente da acusação / embargado(a)-assistente
+da acusação / corréu / corré
+– embargos de declaração
+– embargos de nulidade
+– embargos de terceiro
+– embargos infringentes
+– em cima
+– em domicílio – quando não há ideia de movimento (ex.: entregar o material
+em domicílio); (ver a domicílio)
+– emenda constitucional (indeterminada)
+– Emenda Constitucional n. (determinada)
+– ementa-padrão – pl.: ementas-padrão
+– em face de, face a – (ambas as formas são corretas e dicionarizadas)
+– em nível de – em grau de (ver a nível de)
+– empecilho – impedimento, obstáculo
+– empresa-vítima – pl.: empresas-vítimas
+– em princípio – em tese (ver a princípio)
+– em que pese [ê] a – ex.: Em que pese aos bacharéis...
+– em que pese(m) [é] o(s) – ex.: Em que pesem os argumentos em contrário,
+ouso divergir do Relator.
+– em tela – objeto de discussão, em análise (NÃO usar, neste sentido, o adjetivo
+telado); (ex.: crimes telados)
+– em vez de – sentido de substituição (ver ao invés de)
+– e não – mas não (antecedido de vírgula); (ex.: O percentual devido é de
+5% sobre o valor do bem, e não o que foi exigido pelo credor.)
+embargos – e não
+36 – Manual de Linguagem Jurídico-Judiciária
+– endereço – Rua Anita Garibáldi, n. 140, ap. 202. Rua Anita Garibáldi, 140,
+ap. 202.
+– enfartado, infartado (forma preferencial); enfarto, infarte, infarto (forma
+preferencial)
+– ensanchas – ensejo, oportunidade; [ex.: dar ensanchas a: dar-lhe
+demasiada(s) confi ança ou liberdade(s)]
+– ensino a distância
+– entidade-ré – pl.: entidades-rés
+– entre- – O prefi xo entre- exige hífen quando seguido de vocábulo iniciado
+com a letra e ou h (ex.: entre-hostil).
+– entre – no grupo de (indica inclusão); (ver dentre)
+– entre mim e ti
+– entretanto (conj. adv.) – todavia, no entanto, contudo
+– equacionar – dispor dados de um problema ou uma questão, a fi m de dar-
+-lhe uma solução (NÃO usar no sentido de solucionar, resolver); (ex.: Equacionados
+os indícios e as provas, o crime poderá ser elucidado.)
+– Erário – Fazenda Pública, Fisco, Tesouro (NUNCA usar Erário Público)
+– Erexim – (forma ofi cial)
+– erexinense (VOLP09)
+– erro crasso
+– erros vitandos – erros que devem ser evitados
+– escanear
+– escâner – (ver scanner)
+– Escola Superior da Magistratura – ESM
+– e sim – mas (antecedido de vírgula); (ex.: A acusação contra o réu não
+tem por suporte o consumo, e sim a posse da droga.)
+endereço – e sim
+Manual de Linguagem Jurídico-Judiciária – 37
+– especioso – que só tem a aparência da verdade e da justiça (ex.: argumento
+especioso). (NÃO usar como sinônimo de especial.)
+– esperto – inteligente, sagaz, ativo (ver experto)
+– esposar – adotar, perfi lhar ideias, posições, doutrinas. (NÃO usar no sentido
+de expor.)
+– estações do ano – escrevem-se com inicial minúscula
+– estada – permanência provisória de uma pessoa em determinado local
+– estadia – permanência de qualquer meio de transporte em lugar próprio;
+permanência paga
+– Estado – a entidade, a unidade federativa
+– estado de direito social
+– estado democrático de direito (todavia, iniciais maiúsculas com intuito
+de realce – CRFB, art. 1º )
+– Estado-Empregador
+– Estado(s)-Membro(s)
+– Estado(s)-Parte(s)
+– Estatuto da Brigada Militar
+– Estatuto da Cidade (Lei n. 10.257, de 10-7-2001)
+– Estatuto da Criança e do Adolescente – ECA (Lei n. 8.069, de 13-7-1990)
+– Estatuto da Ordem dos Advogados do Brasil – EOAB (Lei n. 8.906, de
+4-7-1994)
+– Estatuto da Terra (Lei n. 4.504, de 30-11-1964)
+– Estatuto do Índio (Lei n. 6.001, de 19-12-1973)
+– estreme de dúvidas – isento de dúvidas
+– estudo-piloto – pl.: estudos-piloto(s)
+especioso – estudo-piloto
+38 – Manual de Linguagem Jurídico-Judiciária
+– eurema, heurema – ato de prevenir ou acautelar a validade e efi cácia de
+um ato jurídico
+– ex- – O prefi xo ex- exige hífen quando indicar cessamento ou estado anterior
+(ex.: ex-presidiário, ex-professor, ex-marido).
+– exame de sanidade mental – (mas incidente de insanidade mental)
+– exceção da verdade – partes: excipiente – exte. / excepto(a) – exto.(a.) /
+réu / ré / corréu / corré / vítima / assistente de acusação / interessado(a)
+– exceção de suspeição
+– exceção de suspeição, impedimento e incompetência
+– excussão
+– execução – partes: exequente – exeqte. / executado(a) – execdo.(a.)
+– expender – expor minuciosamente
+– experto – perito, especialista (ver esperto)
+– extemporâneo – fora do tempo
+– Exterior
+– extra- – O prefi xo extra- exige hífen quando seguido de vocábulo iniciado
+com a letra a ou h.
+– extraMercosul
+eurema, heurema – extraMercosul
+Manual de Linguagem Jurídico-Judiciária – 39
+F
+– face a, em face de – (Ambas as formas são dicionarizadas.); (NUNCA
+usar face algo)
+– fac-símile(s) – fax(es)
+– factótum – aquele que faz tudo [ver fac totum (estrang.)]
+– família-mosaico – pl.: famílias-mosaico(s)
+– fato-fundamento – pl.: fatos-fundamento(s)
+– femoral – relativo a fêmur
+– fêmur – osso único da coxa
+– Fênix – pássaro fabuloso que vivia vários séculos e, queimado em seu ninho
+pelos raios do sol do deserto, renascia de suas próprias cinzas
+– fé pública
+– fevereiro (fev.) – (mês – inicial minúscula)
+– fi cto – que se presume verdadeiro
+– fi deicomisso – (fi deicomissário, fi deicomissório, fi deicomitente, fi deicomitido)
+– fi dejussória – (fi dejussão, fi dejussor, fi dejussório)
+– fi m de semana – término da semana; período da semana destinado ao
+lazer e ao descanso (em inglês, weekend)
+face a, em face de – fi m de semana
+40 – Manual de Linguagem Jurídico-Judiciária
+– fi ngido – particípio de fi ngir
+– Fisco – instituição fi scalizadora de tributos
+– fôlder(es)
+– folha (fl .), folhas (fl s.) – [ver à(s), da(s), na(s) folha(s) / página(s)]
+– folha-corrida; folhas-corridas
+– Força Policial Militar
+– Forças Armadas
+– foro[ô] – lugar onde funcionam os órgãos do Poder Judiciário; conjunto de
+órgãos jurisdicionais; jurisdição, juízo (foro civil, foro criminal); julgamento,
+juízo (foro íntimo), etc.
+– fórum – lugar onde funcionam os órgãos do Poder Judiciário; prédio público;
+o estabelecimento judiciário
+– fratricida – assassino de irmão ou irmã
+– fratricídio – assassinato de irmão ou irmã
+– fugar, fugir – a primeira forma pertence, no sentido de fugir, à gíria policial;
+no sentido jurídico, preferir a segunda
+– Fulano de Tal – com iniciais maiúsculas em substituição a um nome específi
+co; com inicial minúscula quando se tratar dos pronomes indefi nidos fulano,
+beltrano e sicrano (ver Beltrano de Tal)
+– fulguração – ação da eletricidade cósmica, representada, especialmente,
+pelos raios (ver eletrocussão)
+fi ngido – fulguração
+Manual de Linguagem Jurídico-Judiciária – 41
+G
+– garagem – abrigo para veículos
+– gizar – descrever sucintamente
+– Governador – uso determinado
+– governador – uso genérico
+– Governo – a instituição
+– governo – uso genérico
+– (o) grama (g) – unidade métrica
+– Grande Porto Alegre – (ex.: Grande São Paulo, Grande Rio)
+– Grau – com maiúscula, na expressão Justiça de 1º Grau
+– grau – com minúscula, quando referente à jurisdição ou ao nível de escolaridade
+– Grupos – (1º Grupo Cível, 1º Grupo Criminal)
+garagem – Grupos
+42 – Manual de Linguagem Jurídico-Judiciária
+hábeas-córpus, hábeas – hexaH
+– hábeas-córpus, hábeas – medida judicial voltada para a proteção da liberdade
+de ir e vir; partes: impetrante / impetrante-paciente / paciente /
+coator(a) / interessado(a); [ver habeas corpus (estrang.)]
+– habilitação – partes: habilitante / interessado(a)
+– hábitat
+– (o) habite-se
+– há cerca de – tempo passado; existe(m) perto de... (ver a cerca de, cerca
+de, acerca de)
+– haja(m) vista – prova disso (NÃO tem valor causal); (NÃO existe a expressão
+haja visto; existe, no entanto, a forma verbal: Espero que você haja/
+tenha visto o fi lme)
+– há que + verbo no infi nitivo – é necessário (ex.: Há que levar em conta
+as condições psicossociais dos apenados.)
+– hasta pública – a praça (para bens imóveis); leilão (para bens móveis)
+– hemi- – O prefi xo hemi- exige hífen quando seguido de vocábulo iniciado
+com a letra i ou h.
+– hepatite C
+– hepta- – O prefi xo hepta- exige hífen quando seguido de vocábulo iniciado
+com a letra a ou h.
+– hexa- – O prefi xo hexa- exige hífen quando seguido de vocábulo iniciado
+com a letra a ou h.
+Manual de Linguagem Jurídico-Judiciária – 43
+– hidr(o)- – O prefi xo hidr(o)- exige hífen quando seguido de vocábulo iniciado
+com a letra o ou h.
+– hífen – pl.: hifens
+– hiper- – O prefi xo hiper- exige hífen quando seguido de vocábulo iniciado
+com a letra h ou r (ex.: hiper-rancoroso, hiper-humano).
+– hipo- – O prefi xo hipo- exige hífen quando seguido de vocábulo iniciado
+com a letra o ou h.
+– hológrafo, ológrafo – escrito por inteiro, sem abreviações
+– homoafetividade – relação afetiva íntima entre duas pessoas do mesmo
+sexo (adj. derivado: homoafetivo – ex.: relações homoafetivas)
+– hora-aula – pl.: horas-aula(s)
+– hora extra – pl.: horas extras
+– hortifrútis – hortifrutigranjeiros
+hidr(o)- – hortifrútis
+44 – Manual de Linguagem Jurídico-Judiciária
+I
+– ilidir – rebater, refutar, contestar (ex.: O réu ilidiu todas as acusações feitas
+pelas testemunhas.); (ver elidir)
+– Ilustríssimo – Ilmo. ou Il.mo (NUNCA usar Ilm.o
+)
+– impetrante-paciente
+– implicar (v. t. d.) – acarretar
+– impresso – particípio irregular de imprimir no sentido de estampar, gravar
+– imprimido – particípio regular de imprimir, no sentido de estampar, gravar,
+infundir, fi xar, imprimir movimento
+– ímprobo (adj.) – que não tem probidade, desonesto, perverso
+– impronúncia – sentença de improcedência da denúncia
+– improvimento – (preferir os termos desprovimento e não provimento)
+– inadimplência
+– incerto – duvidoso, não certo
+– incidente de inconstitucionalidade – partes: proponente / interessado(a)
+– incidente de insanidade mental (mas exame de sanidade mental)
+– incipiente – principiante
+– inconteste – discordante (NUNCA usar no sentido de incontestado, incontestável);
+(ver conteste)
+ilidir – inconteste
+Manual de Linguagem Jurídico-Judiciária – 45
+– incontinente – imoderado, que não se contém
+– incontinenti – imediatamente
+– incorrido – particípio regular de incorrer
+– incurso – adjetivo participial de incorrer (ex.: A prova contida nos autos
+autoriza a manutenção da condenação do réu como incurso nas sanções do
+artigo 33, caput, da Lei n. 11.343/06)
+– inelutável – invencível
+– infl igir – impor pena, castigo ou repreensão
+– infringir – transgredir, violar, desrespeitar
+– iniludível – que não admite dúvidas
+– inobstante, não obstante, nada obstante (formas sinônimas dicionarizadas)
+– inquérito policial – partes: indiciado(a) / envolvido(a) / vítima / representante
+/ assistente de acusação
+– inserido – particípio de inserir
+– inserto (adj.) – incluído, algo que está inserido
+– insipiente – ignorante
+– inter- – O prefi xo inter- exige hífen quando seguido de vocábulo iniciado
+com a letra h ou r (ex.: inter-racial, inter-humano).
+– interditado – particípio de interditar
+– (o) interdito – aquele que sofre a interdição (ex.: O interdito recorreu da
+decisão.)
+– interferon peguilado
+– Interior
+– interjeições – Ãh? (pergunta); Ã-hã! (assentimento, concordância); A-ha!
+(voz de quem acerta ou daquele a quem principia a acontecer alguma coisa
+como desejava); Ahn!, Ah! (admiração, compreensão, refl exão); Argh! (asco);
+Bah! (barbaridade); Chit! Xô! (afugentamento); Ã-ãh! (negação, discordância);
+incontinente – interjeições 
+46 – Manual de Linguagem Jurídico-Judiciária
+Hein?! (admiração, surpresa, questionamento); Hum? (dúvida); Hum-hum!
+(negação); Ó! (apelo, pedido, chamamento); Oh! (pena, dor, arrependimento,
+lástima, admiração, surpresa, desejo; dependendo do tom de voz com que é
+proferida a interjeição); Oi! Olá! (saudação); Tchê! (interjeição regional); Ué!
+(desapontamento); Ufa! (alívio); Uhn-hum! (afi rmação); Xi! Ih! (lástima, arrependimento,
+admiração, surpresa)
+– internet – rede mundial de computadores e de redes
+– interseção ou intersecção
+– intervindo – (particípio e gerúndio de intervir); (NÃO existe intervido)
+– intimação por edital – (NUNCA usar intimação editalícia)
+– intra- – O prefi xo intra- exige hífen quando seguido de vocábulo iniciado
+com a letra a ou h (ex.: intra-amniótico, intra-hepático).
+– intraMercosul
+– intranet
+– intratorácico
+– intro- – O prefi xo intro- exige hífen quando seguido de vocábulo iniciado
+com a letra o ou h.
+– (o) ir e vir – ex.: O ir e vir de pessoas atrapalhou a concentração dos estudantes.
+– irmãmente
+– írrito – sem efeito, nulo, vão
+– isentado – particípio regular de isentar
+– isento (adj.) – adjetivo participial de isentar, usado para qualifi car aquele que
+foi isentado, eximido, dispensado (ex.: Ela foi considerada isenta de culpa.)
+– isso posto, isto posto – formas sinônimas
+– isto é – i. é (ver i. e.)
+– itemizar – pôr em (sob forma de) itens
+interjeições – itemizar
+Manual de Linguagem Jurídico-Judiciária – 47
+J
+– janeiro (jan.) – (mês – inicial minúscula)
+– jogo do bicho – espécie de loteria clandestina
+– Judiciário – (sempre com letra maiúscula)
+– Judiciário Criminal
+– Juiz adjunto, Juiz-Assessor, Juiz-Auditor, Juiz classista, Juiz conciliador,
+Juiz-Corregedor, Juiz decisor, Juiz de menores, Juiz Eleitoral, Juiz
+instrutor, Juiz leigo, Juiz Militar, Juiz não togado, Juiz plantonista, Juiz-
+-Presidente, Juiz prolator, Juiz-Relator, Juiz-Revisor, Juiz singular, Juiz
+Substituto, Juiz temporário, Juiz titular, Juiz togado, Juiz vitalício, Juiz-
+-Vogal.
+– Juízo – órgão determinado (ex.: Juízo das Execuções Penais, Juízo de
+1º Grau, Juízo da 6ª Vara Cível)
+– juízo – uso genérico
+– Julgados do Tribunal de Alçada do Estado do Rio Grande do Sul –
+Julgados do TARGS
+– Julgar improcedente o pedido, e não a ação, porque a ação é sempre
+procedente; o pedido que ela traz é que pode ser, ou não, procedente.
+– julho (jul.) – (mês – inicial minúscula)
+– junho (jun.) – (mês – inicial minúscula)
+– Júri – instituição (ex.: O Júri decidiu, por quatro a três, absolver o réu.)
+janeiro – Júri
+48 – Manual de Linguagem Jurídico-Judiciária
+– júri – forma de julgamento
+– Júri Popular
+– juridicização (e não jurisdicização) – submissão ao Direito
+– jusfi lósofo
+– justa causa
+– Justiça Castrense
+– Justiça Comum Estadual
+– Justiça de 1º Grau
+– Justiça do Trabalho, Justiça Trabalhista
+– Justiça Eleitoral
+– Justiça Especial – (NUNCA usar Justiça Especializada)
+– Justiça Estadual
+– Justiça Federal
+– justiça gratuita
+– Justiça Militar
+– Justiça Pública – Ministério Público (instituição); (ex.: Proveram o apelo
+da Justiça Pública.)
+ júri – Justiça Pública
+Manual de Linguagem Jurídico-Judiciária – 49
+K
+– kafkiano
+– kantiano
+– kleperiano
+– Ku Klux Klan
+kafkiano – Ku Klux Klan
+50 – Manual de Linguagem Jurídico-Judiciária
+L
+– lacerocontuso
+– lancheria
+– latente – oculto, subjacente, escondido (ver patente)
+– lateroposterior
+– latino-americano – pl.: latino-americanos
+– latrocida – aquele que comete o latrocínio
+– lava a jato
+– legiferante – legislador; aquele que estabelece leis
+– legislação antitruste – complexo de leis relativas a crimes peculiares ao
+domínio dos mercados nacionais
+– Lei Afonso Arinos – lei que proíbe qualquer manifestação de discriminação
+racial em território brasileiro
+– Lei Antitóxicos (n. 6.368)
+– Lei Áurea – ato que aboliu a escravatura no Brasil
+– leiautar – fazer leiaute de
+– lei castrense
+– lei complementar
+– Lei Complementar n.
+lacerocontuso – Lei Complementar n.
+Manual de Linguagem Jurídico-Judiciária – 51
+– Lei da Assistência Judiciária (n. 1.060)
+– Lei da Correção Monetária (n. 6.899)
+– Lei das Contravenções Penais (n. 3.688)
+– Lei das Desapropriações (n. 3.365)
+– Lei das Sete Partidas (Ley de las Siete Partidas) – coleção de leis editada
+por Afonso X, o Sábio, Rei de Castela, na metade do século XIII
+– Lei das Sociedades Anônimas – Lei das SAs (Lei n. 6.404, de 15-12-1976)
+– Lei de Alimentos (n. 5.478)
+– Lei de Execução Penal (n. 7.210)
+– Lei de Falências e Recuperação de Empresas (Lei n. 11.101, de 9-2-2005)
+– Lei de Gérson – expressão popular que indica o desejo de levar vantagem
+sempre
+– Lei de Imprensa
+– Lei de Introdução às Normas do Direito Brasileiro (redação dada pela
+Lei n. 12.376, de 30-12-2010 – ex-Lei de Introdução ao Código Civil)
+– Lei de Luvas
+– Lei de Murphy – poder de a pessoa, subliminarmente, provocar um resultado
+negativo
+– Lei de Parceria Público Privada – Lei de PPP (Lei n. 11.079, de 30-12-2004)
+– Lei de Quebras
+– lei de talião – legislação que autorizava o chamado direito vindicativo do
+“olho por olho; dente por dente”
+– Lei de Tóxicos (n. 6.368)
+– Lei de Usura
+– Lei do Colarinho Branco (denominação popular da Lei n. 7.492, de
+16-6-1986, por tratar de delito peculiar a pessoas de elevado padrão social)
+Lei da Assistência Judiciária (n. 1.060) – Lei do Colarinho Branco
+52 – Manual de Linguagem Jurídico-Judiciária
+– Lei do Divórcio (n. 6.515)
+– Lei do Inquilinato (n. 8.245)
+– Lei do Mandado de Segurança (n. 12.016)
+– Lei do Orçamento (do Município, do Estado, da União)
+– Lei do Rito
+– Lei dos Direitos Autorais
+– Lei dos Registros Públicos (n. 6.015)
+– Lei Estadual / Municipal / Federal Nacional n.
+– Lei Locatícia
+– Lei Magna
+– Lei Maior
+– lei nova
+– Lei Orgânica da Magistratura Nacional – LOMAN
+– lei penal
+– Lei Penal Adjetiva – Código de Processo Penal (denominação preferencial)
+– Lei Penal n.
+– Lei Penal Substantiva – Código Penal (denominação preferencial)
+– ler à / em
+– lesa-pátria – pl.: lesas-pátrias
+– leva-tudo – bolsa ou carteira masculina (pl.: leva-tudo)
+– Lex Jurisprudência do Superior Tribunal de Justiça e Tribunais Regionais
+Federais (Revista)
+– Lex Jurisprudência do Supremo Tribunal Federal (Revista)
+– libelo – A Lei n.11.689, de 9-6-2008, extinguiu o libelo. De qualquer forma,
+no termo “libelo acusatório”, que constava no art. 416 do CPP, já era redundante.
+Lei do Divórcio – libelo
+Manual de Linguagem Jurídico-Judiciária – 53
+– litisdenunciado – pessoa à qual foi a lide denunciada
+– livre-arbítrio – pl.: livres-arbítrios
+– livre-docente – pl.: livres-docentes
+– livro-caixa – pl.: livros-caixa(s)
+– livro de tombo ou livro-tombo – livro ofi cial de registros
+– livro-diário – pl.: livros-diário(s)
+– livro-razão – pl.: livros-razão, livros-razões
+– locuções verbais (dois verbos com o mesmo sujeito) – o infi nitivo fi ca
+sempre invariável, mesmo que o auxiliar esteja no gerúndio (ex.: Devendo /
+Podendo os réus comparecer.)
+– lócus – posição de um gene num cromossomo
+– lugar-comum – pl.: lugares-comuns
+litisdenunciado – lugar-comum
+54 – Manual de Linguagem Jurídico-Judiciária
+M
+– Madre Pelletier – denominação do presídio feminino de Porto Alegre
+– má-educação – educação que destoa dos princípios do bom-senso, da
+boa conduta
+– má-fé – intenção dolosa (pl.: más-fés)
+– magistrado – Juiz de Direito
+– Magistrado-Presidente
+– Magistratura
+– maio (mai.) – (mês – inicial minúscula; preferir a forma por extenso)
+– mais que fazer – (NÃO usar mais o que fazer)
+– mal- – O prefi xo mal- exige hífen quando, seguido de vocábulo iniciado
+com vogal ou h, forma uma nova unidade morfológica e semântica (ex.: mal-
+-aventurado, mal-estar, mal-humorado, mal-educado).
+– malbaratado, malbaratamento
+– malmequer
+– mal súbito
+– malversação
+– mandado – ordem escrita de juiz ou membro de tribunal para praticar ou
+deixar de praticar algum ato; partes: impetrante / impetrado(a) / coator(a) /
+interessado(a); [ver mandamus (estrang.)]
+Madre Pelletier – mandado
+Manual de Linguagem Jurídico-Judiciária – 55
+– mandado de injunção
+– mandado de segurança – [ver writ (estrang.)]
+– mandato – autorização que alguém confere a outrem para praticar em seu
+nome certos atos (delegação)
+– mantença – sustento necessário para a sobrevivência de uma pessoa;
+alimentos, suprimento de víveres. É indevido o emprego do termo em expressões
+como: mantença da decisão de 1º grau e assemelhadas.
+– mão de obra
+– marcha a ré
+– março (mar.) – (mês – inicial minúscula)
+– maricídio, mariticídio – homicídio do marido por sua própria mulher
+– mas (pronuncia-se más)
+– mas porém – (NUNCA usar)
+– Massa Falida – uso determinado
+– massa falida – uso genérico
+– mas, sim, – ex.: Ele não deveria ter levado aquele livro, mas, sim, este.
+– máster
+– matado – particípio regular de matar, USAR com o verbo haver (ex.: O PM
+havia matado o trafi cante.)
+– maus-tratos
+– má vontade
+– maxidesvalorização – desvalorização drástica de uma moeda
+– máxime – principalmente, especialmente
+– mediar – intermediar, intervir como mediador
+– médico-legal – pl.: médico-legais
+mandado de injunção – médico-legal
+56 – Manual de Linguagem Jurídico-Judiciária
+– médico-legista – pl.: médicos-legistas
+– médico-residente – pl.: médicos-residentes
+– medida cautelar
+– meia (adj.) – metade (ex.: O depoimento da ofendida durou apenas meia hora.)
+– meio (adv.) – um tanto [ex.: A testemunha sentiu-se meio (um tanto, e não
+a metade) constrangida na presença do réu.]
+– meio ambiente
+– meio de campo – pl.: meios de campo
+– meio-dia – horário que divide o dia ao meio
+– meio-fi o (da calçada) – pl.: meios-fi os
+– meio-termo – pl.: meios-termos
+– menos (adv.) – invariável (ex.: Na próxima audiência, haverá menos testemunhas
+do que na de hoje.)
+– mercê de – graças a, em virtude de, em razão de (ver à mercê de)
+– meritório – louvável (ex.: A sua atitude foi meritória naquele episódio.);
+(ver sentença de mérito)
+– mesmo – (NUNCA usar como sinônimo de ele, este, esse); (ex.: Depois
+de o réu amarrar a vítima, o mesmo fugiu. Substituir por – Depois de amarrar
+a vítima, o réu fugiu.)
+– Metade Sul
+– micro- – O prefi xo micro- exige hífen quando seguido de vocábulo iniciado
+com a letra o ou h (ex.: micro-ondas, micro-ônibus).
+– microestrutura
+– microrregião
+– microssistema
+– mídia – o conjunto dos meios de comunicação de massa [do ingl.: (mass)
+media]
+médico-legista – mídia
+Manual de Linguagem Jurídico-Judiciária – 57
+– mini- – O prefi xo mini- exige hífen quando seguido de vocábulo iniciado
+com a letra i ou h.
+– Ministério Público – (USAR membro, agente ou órgão do Ministério Público.
+NÃO usar representante do Ministério Público para Promotor ou
+Procurador de Justiça, visto que são o próprio órgão); (ver representante do
+Ministério Público)
+– Ministro-Relator, Min.-Rel.
+– mixa – gazua, chave falsa (NÃO usar chave mixa por ser redundância)
+– MM. Juízo
+– moeda corrente
+– moeda forte – aquela que apresenta facilidade de circulação e de conversibilidade
+nas transações internacionais
+– moeda-ouro – pl.: moedas-ouro e moedas-ouros
+– moeda-papel – pl. moedas-papel e moedas-papéis
+– moeda podre – denominação dada aos títulos da dívida pública aceitos
+pelo seu valor de face nos leilões de privatização
+– moedas brasileiras – Até 1942 – Real; 1942 – Cruzeiro (Cr$); 1967 – Cruzeiro
+Novo (NCr$); 1970 – Cruzeiro (Cr$); 1986 – Cruzado (Cz$); 1989 – Cruzado Novo
+(NCz$); 1990 – Cruzeiro (Cr$); 1993 – Cruzeiro Real (CR$); 1994 – Real (R$).
+– mola-mestra – pl.: molas-mestras
+– monitória
+– monte-mor
+– moratória – dilação do prazo concedido pelo credor a seu devedor para
+pagamento de uma dívida
+– morrido – particípio regular de morrer, USAR com os verbos ter e haver
+(ex.: Não tinha certeza de quantos haviam morrido no acidente.)
+– morto – particípio irregular de morrer, USAR com o verbo estar (ex.: Já
+estava morto quando chegou o socorro.)
+mini- – morto
+58 – Manual de Linguagem Jurídico-Judiciária
+– morto – particípio irregular de matar, USAR com o verbo ser (ex.: O trafi -
+cante foi morto pelo PM.)
+– moto-contínuo – pl.: motos-contínuos
+– moto-perpétuo – pl.: motos-perpétuos
+– moto-próprio (subst. masc.) – ato que decorre da iniciativa do próprio autor;
+documento papal publicado por iniciativa pessoal e espontânea dele próprio
+[ver motu proprio (estrang.)] (pl.: motos-próprios)
+– multi- – O prefi xo multi- exige hífen quando seguido de vocábulo iniciado
+com a letra i ou h.
+– múlti(s) (subst.) – abreviação de multinacional
+– municipário – funcionário do Município
+– Município
+morto – Município
+Manual de Linguagem Jurídico-Judiciária – 59
+N
+– na medida em que – pelo fato de que, uma vez que (ver à medida que;
+não existe na medida que)
+– não – Nas expressões em que antecede substantivo ou adjetivo, não há
+mais hífen (ex.: não provimento, não perecível, não conhecimento).
+– não há + verbo no infi nitivo – não é possível, não cabe (NUNCA usar
+não há que)
+– Não-me-Toque (o Município)
+– (a) necropsia, (a) necrópsia
+– nem um – nem um único
+– nenhum – pronome indefi nido
+– neo- – O prefi xo neo- exige hífen quando seguido de vocábulo iniciado
+com a letra o ou h.
+– neoliberal
+– nobel – (tonicidade na sílaba bel)
+– no entanto, entretanto – (NÃO usar no entretanto como equivalente a essas
+conjunções)
+– no entretanto – no entretempo
+– nó górdio – problema intrincado, de difícil solução
+– nome – n.
+na medida em que – nome
+60 – Manual de Linguagem Jurídico-Judiciária
+– no mérito – (não usar meritoriamente no sentido processual)
+– no que pertine a – no que se refere a
+– norma permissiva – norma que não contém um comando de fazer ou não
+fazer, mas que consente na prática de certos atos cuja execução encontra
+nela uma tutela legal
+– notifi cação judicial – partes: notifi cante / notifi cado(a) / envolvido(a) / corréu
+/ corré / vítima
+– no tocante a – (NUNCA usar tocante algo)
+– novembro (nov.) – (mês – inicial minúscula)
+– Novo Código Civil – Preferir atual Código Civil ou Código Civil de 2002.
+– Novo Mundo – o continente americano; as Américas
+– n problemas, n questões
+– nua propriedade – propriedade limitada por ônus reais
+– número(s) – n. (sing. e pl.); n.º, n.os, no, nos – Escreve-se com ponto ou
+com traço, de acordo com o tipo ou fonte de impressão.
+– números clausos – números fechados
+– nuper- – O prefi xo nuper- exige hífen quando seguido de vocábulo iniciado
+com a letra h ou r.
+– nu-proprietário – proprietário de um bem que o cede em usufruto a outrem
+(pl.: nus-proprietários)
+no mérito – nu-proprietário
+Manual de Linguagem Jurídico-Judiciária – 61
+O
+– ob- – O prefi xo ob- exige hífen quando seguido de vocábulo iniciado com a
+letra b, h ou r (ex.: ob-repção).
+– obedecer – como verbo transitivo indireto, tem a seguinte regência: obedecer
+a algo ou a alguém
+– óbolo – esmola
+– obra(s) – ob.
+– observação, observações – obs.
+– obsolescência – fato ou processo de tornar-se obsoleto
+– obsolescência programada (ou planejada) – obsolescência que decorre
+de ação deliberada do produtor
+– octódio – prazo de oito dias
+– octogenário
+– Ofi ciala de Justiça – (forma opcional para o feminino)
+– Ofi cial de Dia – ofi cial encarregado de fi scalizar e dirigir o serviço normal
+da unidade, pelo qual é responsável nas ausências do comando
+– Ofi cial Escrevente
+– ofi ciar – no sentido de encaminhar ofício, tem a seguinte regência: ofi ciar
+a alguém
+– ofício – of.
+ob- – ofício
+62 – Manual de Linguagem Jurídico-Judiciária
+– ofício-circular – pl.: ofícios-circulares
+– omissão em citação – [ver omissis (estrang.)]
+– onde – ex.: Onde moras? (ver aonde, donde)
+– opoente – opte.
+– óptico – relativo à visão
+– Ordenações do Reino – compilação de leis portuguesas (Ordenações
+Afonsinas, Manuelinas e Filipinas)
+– Órgão do Ministério Público – e não Órgão Ministerial
+– Órgão Especial
+– órgão fracionário
+– órgão jurisdicional
+– orizícola – referente à cultura de arroz
+– ótica – maneira de ver, julgar, sentir
+– ótico – relativo à audição
+– outros feitos – partes: requerente – reqte. / requerido(a) – reqdo.(a.)
+– outros incidentes – partes: requerente – reqte. / requerido(a) – reqdo.(a.)
+– outubro (out.) – (mês – inicial minúscula)
+ofício-circular – outubro (out.)
+Manual de Linguagem Jurídico-Judiciária – 63
+P
+– página(s) – p. (singular – ABL; singular e plural – ABNT); pp. (plural – ABL)
+– País – uso determinado
+– país – uso genérico
+– pan- – O prefi xo pan- exige hífen quando seguido de vocábulo iniciado
+com vogal, h, m ou n (ex.: pan-americano, pan-helênico, pan-mágico, pan-
+-negro).
+– para- – O prefi xo para- exige hífen quando seguido de vocábulo iniciado
+com a letra a ou h.
+– parágrafo – indicado por § (signum sectionis), com exceção do parágrafo
+único, que é sempre escrito por extenso (parágrafo único); plural: §§
+Obs.: Na numeração de parágrafos, usam-se os ordinais até o nove e, daí
+por diante, os cardinais (ex.: § 9º; §§ 10 e 11)
+– para-quê, para-quês – objetivo(s)
+– parricida – agente do parricídio
+– parricídio – homicídio do pai (ou da mãe) pelo próprio fi lho
+– parte-autora – pl.: partes-autoras
+– parte-embargante – pl.: partes-embargantes
+– parte-ré – pl.: partes-rés
+– pasmado – particípio de pasmar (EVITAR o uso de pasmo)
+ página(s) – pasmado
+64 – Manual de Linguagem Jurídico-Judiciária
+– patente – evidente, claro (ver latente)
+– patricida – traidor, inimigo da pátria
+– pátrio poder
+– pedido de arquivamento – partes: requerente – reqte. / requerido(a) –
+reqdo.(a.) / representante
+– pegado – particípio regular de pegar (forma preferencial)
+– pena-base – pl.: penas-base(s)
+– penalizar – usar preferentemente no sentido de sentir pena (ver apenar)
+– pena restritiva de direitos
+– perfun(c)tório – superfi cial
+– perfurocortante
+– perigosidade – periculosidade
+– perimido, perempto – preferir o segundo
+– perinecroscopia
+– permissivo legal – expressão inadequada, pois permissivo não é substantivo,
+mas adjetivo (ver norma permissiva)
+– peroração – fi nal, conclusão, razões fi nais
+– pessoa humana – locução correta e de uso distintivo
+– placa de carro (grafi a) – ex.: Placa IKM0025
+– Plano Diretor
+– planos econômicos – Plano Cruzado (28-02-86); Plano Bresser; Plano
+Verão (16-01-89); Plano Collor (16-03-90); Plano Real (1º-08-93 e
+1º-07-94)
+– Plenário do Júri, da Câmara
+– pluri- – O prefi xo pluri- exige hífen quando seguido de vocábulo iniciado
+com a letra i ou h.
+patente – pluri-
+Manual de Linguagem Jurídico-Judiciária – 65
+– plúrimo – mais de um
+– Poder Executivo, Poder Judiciário, Poder Legislativo, Poder Público
+– Polícia – inicial maiúscula quando representa a instituição
+– polícia – sentido genérico
+– policial militar – substantivo
+– policial-militar – adjetivo (ex.: inquérito policial-militar), pl.: policial-militares
+– Polícia Militar
+– polo ativo
+– polo passivo
+– ponto abreviativo em fi nal de frase – Quando o período, oração ou frase
+terminar por abreviatura, a pontuação desta acumula a função de ponto-
+-fi nal. (ex.: Os ladrões levaram televisores, rádios, computadores, etc.)
+– ponto de exclamação
+– ponto de interrogação
+– ponto de venda
+– ponto de vista
+– ponto e vírgula – (plural preferível: ponto e vírgulas)
+– ponto-fi nal – pl.: pontos-fi nais
+– pontos cardeais – norte, sul, leste, oeste
+– pôr à calva – desnudar, mostrar
+– pôr cobro – pôr fi m
+– pôr do sol – pl.: pores do sol
+– pôr em xeque
+– por si só(s) – varia de acordo com a expressão a que se refere
+– por todo o exposto
+plúrimo – por todo o exposto
+66 – Manual de Linguagem Jurídico-Judiciária
+– porventura – por acaso
+– pós-datado, pós-datar
+– posto (que) (conjunção subordinativa concessiva) – embora, se bem que
+(EVITAR seu emprego com sentido causal; substituir por visto que, já que,
+uma vez que, etc.)
+– posto-chave – pl.: postos-chave(s)
+– praxe, práxis – ambas as formas são corretas
+– precitado – citado anteriormente
+– pré-fala
+– prefalado
+– prefi xar – pôr prefi xo em (uso preferencial)
+– pré-fi xar – fi xar antecipadamente (melhor forma, embora não conste no
+VOLP)
+– prejulgar, prejulgamento
+– prequestionar, prequestionado, prequestionamento
+– Presidente – uso determinado
+– presidente – uso genérico
+– Presidente, Presidenta – preferir o primeiro (ex.: Senhora Presidente)
+– presta-nome – pessoa interposta; testa de ferro (pl.: presta-nomes)
+– Pretório Excelso, Excelso Pretório
+– prevenido – particípio de prevenir
+– prevento (adj.) – antecipadamente competente
+– 1ª Vice-Presidência, 1ª Vara, 1º Sargento, 1ª instância, 1ª entrância
+– primeiro-mundista – pl.: primeiro-mundistas
+– Primeiro Mundo – conjunto dos países desenvolvidos
+porventura – Primeiro Mundo
+Manual de Linguagem Jurídico-Judiciária – 67
+– primeiro socorro – pl.: primeiros socorros
+– prisão-albergue – pl.: prisões-albergue(s)
+– prisma – por (ou através de) qualquer prisma; pelo prisma (NÃO usar sob
+o prisma)
+– proativo ou pró-ativo
+– proceder a (v. t. i.) – realizar
+– Processo Administrativo Disciplinar – PAD
+– processo-crime – partes: autor(a) / denunciado(a) / corréu / corré / vítima /
+representante / assistente de acusação; [pl.: processos-crime(s)]
+– processo criminal
+– processo de execução – partes: executante / executado – execdo.(a.) /
+corréu /corré
+– Procuradoria-Geral de Justiça
+– projeto de lei
+– Projeto Júri Agilizar
+– projeto-piloto – pl.: projetos-piloto(s)
+– Projeto Sentença-Zero
+– pró-labore
+– promessa de compra e venda
+– promitente-comprador – pl.: promitentes-compradores
+– promitente-vendedor – pl.: promitentes-vendedores
+– pronto-socorro – hospital de assistência pública para atendimento de casos
+de urgência (pl.: prontos-socorros)
+– pronto socorro – atendimento de urgência
+– proto- – O prefi xo proto- exige hífen quando seguido de vocábulo iniciado
+com a letra o ou h.
+primeiro socorro – proto-
+68 – Manual de Linguagem Jurídico-Judiciária
+– protocolar – registrar em protocolo (forma preferencial)
+– protocolizar – registrar em protocolo; submeter a um cerimonial (preferir o
+segundo sentido)
+– prover – segue a fl exão do verbo ver no presente do indicativo, presente
+do subjuntivo e imperativos; nos demais tempos, conjuga-se como vender
+– provir – segue a conjugação de vir
+– publicizar – usar no sentido de divulgar
+protocolar – publicizar
+Manual de Linguagem Jurídico-Judiciária – 69
+Q
+– quando mais não seja – Se não for para outra coisa, se não for por outra
+razão. (NUNCA usar quanto mais não seja)
+– quarto-mundista – pl.: quarto-mundistas
+– Quarto Mundo – conjunto dos países mais pobres
+– quase – quase crime; quase usufruto; quase contrato; quase posse
+– que / do que (em comparações) – [ex.: O depoimento de João foi mais
+favorável ao réu que (ou do que) o de Carlos.]
+– queixa-crime – partes: querelante / querelado(a) / corréu / corré /
+envolvido(a) / vítima (pl.: queixas-crimes)
+– que nem (forma popular) – como (ex.: Ela é que nem a mãe.)
+– querer (o. d.) – desejar
+– querer (o. i.) – estimar
+– questão despicienda – questão que deve ser desprezada, desconsiderada
+– que tais – da mesma natureza
+– quinquídio – espaço de cinco dias
+– Quinto Constitucional
+– quiproquó – uma coisa pela outra, situação cômica resultante de
+equívoco(s), mal-entendido
+quando mais não seja – quiproquó
+70 – Manual de Linguagem Jurídico-Judiciária
+– quitado – particípio de quitar
+– quite (adj.) – ex.: Eles estão quites com o Fisco.
+– quizila, quizília – pendência, briga, incômodo
+quitado – quizila, quizília
+Manual de Linguagem Jurídico-Judiciária – 71
+R
+– raios X
+– ratifi car – confi rmar o que se fez ou o que se prometeu
+– re- – O prefi xo re- vem sempre ligado à palavra a que se refere.
+– reabilitação – partes: requerente / requerido(a)
+– recém- – Os compostos com o prefi xo recém- exigem hífen sempre
+(ex.: recém-nascido, recém-casado).
+– recibo-arras – pl.: recibos-arras
+– recluído – particípio de recluir
+– recluso (adj. e subst. masc.) – que(m) está recluído
+– reconvir – propor, o réu (reconvinte), reconvenção contra o autor (reconvindo)
+da demanda; (particípio = reconvindo)
+– recorrer adesivamente – expressão não técnica; substituir por interpor recurso
+adesivo
+– recurso – partes: recorrente / recorrido(a) / recorrente-recorrido(a) / recorrente-assistente
+da acusação / recorrido(a)-assistente da acusação / recorrente-recorrido(a)-assistente
+da acusação / vítima / corréu / corré / recorrente
+adesivo(a) apelado(a)
+– recurso adesivo
+– recurso-crime – pl.: recursos-crimes
+raios X – recurso-crime
+72 – Manual de Linguagem Jurídico-Judiciária
+– recurso de ofício
+– recurso de revisão
+– recurso em sentido estrito
+– recurso especial
+– recurso extraordinário
+– recurso ordinário
+– Recursos são interpostos.
+– redibir – tornar sem efeito a compra e venda da coisa em que se descobre
+vício oculto
+– redimir – remir, compensar, ressarcir, reparar, resgatar
+– reexame necessário – partes: apresentante / impetrante / impetrado(a) /
+autor(a) / réu / ré / interessado(a) / embargante / embargado(a) / executante
+/ executado(a) / expropriante / expropriado(a) / curador(a) ao vínculo /
+curador(a) à lide / curador(a) especial
+– Região Metropolitana
+– Regime Jurídico Único
+– Regimento Interno
+– Registro de Imóveis, Registro Imobiliário
+– Registros Públicos
+– regra-mestra – pl.: regras-mestras
+– reipersecutório – relativo à perseguição da coisa
+– relações públicas
+– (o / a) relações-públicas
+– Relatório de Impacto do Meio Ambiente – RIMA
+– relegar – colocar em segundo plano, afastar com desprezo (NUNCA usar
+no sentido de adiar, diferir)
+recurso de ofício – relegar
+Manual de Linguagem Jurídico-Judiciária – 73
+– remição – pagamento, resgate [verbo re(di)mir] (ex.: A remição da nota
+promissória foi feita logo após o prazo acordado entre as partes.)
+– remir – (fl exionado SOMENTE quando houver o radical remi)
+– remissão – perdão, libertação graciosa da dívida (verbo remitir, particípio –
+remitido); (ex.: A remissão concedida a um dos devedores extingue a dívida
+na parte a ele correspondente.)
+– remissão – reenvio, envio a um determinado ponto (verbo remeter);
+(ex.: No voto, o Relator faz remissão a súmulas do Supremo Tribunal Federal.)
+– remisso (adj.) – negligente, relapso (ex.: O advogado foi remisso nas
+suas funções de defender os interesses de seu cliente.); (NUNCA usar como
+particípio do verbo remitir)
+– representação – partes: representante / representado(a)
+– representante do Ministério Público – (USAR órgão, membro ou agente
+do Ministério Público, ou simplesmente Ministério Público)
+– repristinar – adotar preceito que já não se encontra em vigor
+– reprovabilidade – (e não reprobabilidade)
+– re-ratifi cação, reti-ratifi cação – correção de algum erro ou omissão e a confi rmação
+do restante (Re, ou reti, aqui não é prefi xo, mas redução do termo ratifi cação.)
+– rerratifi cação – ato de ratifi car novamente
+– rescindendo – que é objeto de rescisão
+– rescindente – aquele que promove ou em cujo favor se opera a rescisão
+– rescisório – que rescinde ou serve para rescindir; que tem por fi m a rescisão
+ou dá lugar a ela (ação rescisória, juízo rescisório, etc.)
+– resgatar – remir, liberar, pagar, salvar (ex.: Resgatar uma promissória.);
+(EVITAR uso com o sentido de recuperar)
+– residência – morada eventual de uma pessoa, com ou sem ânimo de aí
+permanecer; sede de fato da habitação da pessoa (ver domicílio)
+– resilir – romper (um contrato), rescindir (NÃO tem as formas em que o i da
+terminação se transformaria em o ou a)
+remição – resilir
+74 – Manual de Linguagem Jurídico-Judiciária
+– restauração de autos – reconstituição ou substituição de autos extraviados
+ou destruídos; partes: requerente / requerido(a) / interessado(a)
+– retifi cação – correção de um erro ou omissão
+– retorção – ato ou efeito de retorcer
+– retorquir – verbo defectivo – não tem formas em que o i da terminação se
+transformaria em o ou a
+– retorsão – contraposição, revide, desforço
+– retributivo; retributividade
+– retro- – O prefi xo retro- exige hífen quando seguido de vocábulo iniciado
+com a letra o ou h (ex.: retro-operante).
+– retrocitado
+– retrodatar
+– retrorreferido
+– Revista AJURIS – (Associação dos Juízes do Rio Grande do Sul)
+– Revista Cidadania e Justiça – (Associação dos Magistrados Brasileiros)
+– Revista da AMAGIS – (Associação dos Magistrados Mineiros)
+– Revista da Associação dos Juízes Federais
+– Revista da Associação dos Magistrados do Paraná
+– Revista da Escola da Magistratura do Estado de Rondônia
+– Revista da Escola Paulista da Magistratura – (Associação Paulista de
+Magistrados)
+– Revista da Escola Superior da Magistratura do Distrito Federal
+– Revista da ESMAC – (Escola Superior da Magistratura do Estado do Acre)
+– Revista da ESMAPE – (Escola Superior da Magistratura do Estado de Pernambuco)
+– Revista da Magistratura: Caderno de Doutrina – (Associação Paulista
+de Magistrados)
+restauração de autos – Revista da Magistratura: Caderno de Doutrina
+Manual de Linguagem Jurídico-Judiciária – 75
+– Revista de Jurisprudência do Tribunal de Justiça do Estado do Rio
+Grande do Sul
+– Revista de Jurisprudência Trabalhista / Justiça do Trabalho (Jurisprudência
+do TRT da 4ª Região)
+– Revista dos Juizados Especiais: Doutrina – Jurisprudência (Tribunal
+de Justiça do Estado do Rio Grande do Sul)
+– Revista do Superior Tribunal de Justiça
+– Revista do Supremo Tribunal Federal
+– Revista dos Tribunais
+– Revista do Tribunal de Contas do Estado do Rio Grande do Sul
+– Revista do Tribunal Regional Federal – 4ª Região
+– Revista ESMAGIS – (Escola Superior da Magistratura do Estado do Mato
+Grosso do Sul)
+– Revista In Verbis – (Instituto dos Magistrados do Brasil)
+– Revista Justiça e Democracia – (Associação dos Juízes para a Democracia)
+– Revista THEMIS: Revista da ESMEC – (Escola Superior da Magistratura do Ceará)
+– Revista Tribuna da Magistratura – (Associação Paulista de Magistrados)
+– Revista Trimestral de Jurisprudência do Supremo Tribunal Federal
+– Rh – (fator sanguíneo)
+– rio-grandense – pl.: rio-grandenses
+– rio-grandense-do-sul
+– rotariano
+– Rotary Club
+– rubrica – (tonicidade na sílaba bri)
+– ruim – (tonicidade na sílaba im)
+Revista de Jurisprudência do TJRS – ruim
+76 – Manual de Linguagem Jurídico-Judiciária
+S
+– saisina – (ver saisine)
+– salário-base – pl.: salários-base(s)
+– salário-família – pl.: salários-família(s)
+– salário-hora – pl.: salários-hora(s)
+– salário-mínimo – menor salário permitido por lei pago a um trabalhador
+– salvo-conduto – pl.: salvo-condutos; salvos-condutos
+– salvo melhor juízo – s. m. j. ou S. M. J.
+– secção, seção – parte, divisão, corte, departamento, repartição (preferir o
+uso de seção)
+– secional ou seccional
+– secionar ou seccionar
+– Secretaria-Geral
+– secretário adjunto – pl.: secretários adjuntos
+– secretário executivo
+– século XX (séc. XX)
+– securitização – conversão de empréstimos bancários e outros ativos em
+títulos (securities) para venda
+– sedizente – autodenominado; somente se emprega em relação a pessoas
+(ex.: A sedizente vítima prestou depoimentos contraditórios.)
+saisina – sedizente
+Manual de Linguagem Jurídico-Judiciária – 77
+– segundo-mundista – pl.: segundo-mundistas
+– Segundo Mundo – reunião dos países do ex-bloco socialista
+– seguro-desemprego – pl.: seguros-desemprego(s)
+– seguro-saúde – pl.: seguros-saúde(s)
+– sem- – Os compostos com o prefi xo sem- exigem hífen sempre (ex.: sem-
+-teto, sem-vergonha, sem-mandato).
+– (o / os) sem-emprego
+– semi- – O prefi xo semi- exige hífen quando seguido de palavra iniciada
+com i ou h.
+– semiaberto
+– semianalfabeto
+– semicarbonizado
+– (um) sem-número – grande quantidade (ex.: Li este artigo um sem-número
+de vezes.)
+– (o / os) sem-terra
+– (o / os) sem-teto
+– se não – caso não (conjunção subordinativa condicional e advérbio de negação)
+– senão – mas, porém, etc. (conjunção adversativa); a não ser, exceto, salvo,
+etc. (preposição); defeito, mancha (subst.; pl.: senões)
+– sentar à mesa
+– sentença – decisão de 1º Grau
+– sentença de mérito – (NUNCA usar sentença meritória)
+– se por al – se por outro motivo
+– serôdio – tardio, após o tempo
+– Serviço de Informações Judiciárias – SIJ
+segundo-mundista – Serviço de Informações Judiciárias
+78 – Manual de Linguagem Jurídico-Judiciária
+– Serviço Notarial e Registral
+– sessão – espaço de tempo durante o qual se realiza uma reunião de um
+corpo deliberativo, consultivo, jurídico, etc.
+– setembro (set.) – (mês – inicial minúscula)
+– setor primário – reúne as atividades agropecuárias e extrativas
+– setor secundário – engloba a produção de bens físicos por meio da transformação
+de matérias-primas, realizada pelo trabalho humano, com o auxílio
+de máquinas e ferramentas
+– setor terciário – abrange os serviços em geral (comércio, transportes,
+saúde, educação, energia elétrica, água e esgoto, etc.)
+– shakespeariano
+– Sicrano de Tal – com iniciais maiúsculas em substituição a um nome específi
+co, com inicial minúscula quando se tratar dos pronomes indefi nidos fulano,
+beltrano e sicrano (ver Fulano de Tal)
+– Sistema Themis
+– sítio – forma aportuguesada de site (ver art. 4º da Lei n. 11.419, de 19-12-2006)
+– sito em, e não sito a (não indica movimento)
+– sob- – O prefi xo sob- exige hífen quando seguido de palavra iniciada com
+b, h ou r (ex.: sob-roda).
+– sob a égide – sob a proteção, sob o escudo, sob a sombra
+– sobre- – O prefi xo sobre- exige hífen quando seguido de palavra iniciada
+com e ou h. Ex.: sobre-humano, sobre-esforço.
+– sobrescritar – endereçar, sobrescrever
+– sobressair – sobressalente (formas variantes: sobressaliente e sobressalente),
+sobressalt(e)ar, sobressalto
+– sobrestar – não prosseguir, parar, suspender, sustar (conjugação do verbo
+estar); (sobresteve, e não sobrestou)
+– sociedade unipessoal
+Serviço Notarial e Registral – sociedade unipessoal
+Manual de Linguagem Jurídico-Judiciária – 79
+– socio- – O prefi xo socio-, redução de social, exige hífen quando seguido
+de palavra iniciada com o ou h.
+– socioafetivo
+– socioambiental
+– sociocultural
+– soci(o)econômico
+– socioeducativo
+– sócio-gerente – pl.: sócios-gerentes
+– sociopolítico
+– soer – costumar (SOMENTE se emprega na 3ª pessoa)
+– solecismo – erro de construção (de sintaxe)
+– sota- ou soto- – Os prefi xos sota- ou soto- exigem hífen sempre (ex.: sota-
+-piloto, soto-mestre).
+– sub- – O prefi xo sub- exige hífen quando seguido de vocábulo iniciado
+com a letra b, h ou r (ex.: sub-base, sub-bibliotecário, sub-habitação, sub-
+-hipoteca, sub-humano, sub-rogar, sub-raça).
+– subscritar – assinar embaixo de, subscrever
+– subsídio – (o s da segunda sílaba tem som de ss, e não de z)
+– Sucessão de – uso determinado
+– sucessão de – uso genérico
+– sucinto – resumido, conciso
+– sul-rio-grandense – com hífen, pois adjetivo gentílico (pl.: sul-rio-grandenses)
+– sumariíssimo (forma clássica) – superlativo de sumário (resumido, sintético)
+– super- – O prefi xo super- exige hífen quando seguido de palavra iniciada
+com h ou r (ex.: super-homem, super-resistente, super-requintado).
+socio- – super-
+80 – Manual de Linguagem Jurídico-Judiciária
+– súper (subst.) – redução de supermercado
+– superávit – [ver superavit (estrang.)]
+– Superintendência de Seguros Privados
+– Superintendência de Serviços Penitenciários
+– Superior Tribunal de Justiça
+– Superior Tribunal Eleitoral
+– Superior Tribunal Militar
+– supra- – O prefi xo supra- exige hífen quando seguido de palavra iniciada
+com a ou h.
+– supracitado
+– suprarreferido
+– suprassensível
+– Supremo Tribunal Federal
+– (homens) surdo-mudos (adj.)
+– (os) surdos-mudos (subst.)
+– suscitar – fazer aparecer, promover, provocar
+– suso (arc.) – acima, ao alto, anteriormente (ex.: A sentença suso referida
+foi confi rmada por seus fundamentos.)
+– suspeitado – particípio de suspeitar
+– suspeito – (USAR como substantivo ou adjetivo)
+– sustar – interromper, suspender
+– suster – sustentar, conter, restringir
+súper – suster
+Manual de Linguagem Jurídico-Judiciária – 81
+T
+– Tabela Price
+– tachar – avaliar, julgar negativamente, pôr defeito, censurar (ver taxar)
+– tampouco – também não, nem sequer
+– tanto... como – tanto... quanto – tal... como – não são separados por
+vírgulas na oração
+– tão pouco – (advérbio de intensidade)
+– tão só – (sem hífen)
+– tão somente – (sem hífen)
+– taxar – julgar positiva ou negativamente, avaliar, julgar, estabelecer taxa,
+fi xar (ver tachar)
+– tele- – O prefi xo tele- exige hífen quando seguido de vocábulo iniciado
+com a letra e ou h (ex.: tele-entrega).
+– telefone – (51) 3225-7908 (representação correta)
+– teleológico – fi nalístico
+– telesserviço
+– telessexo
+– tempestivo – dentro do tempo
+– teoria dualista
+Tabela Price – teoria dualista
+82 – Manual de Linguagem Jurídico-Judiciária
+– teoria monista
+– ter – É impróprio o uso do verbo ter no sentido de existir ou haver (impessoal).
+– terceiro-mundista – pl.: terceiro-mundistas
+– Terceiro Mundo – conjunto dos países subdesenvolvidos, ou em desenvolvimento
+(eufemismo)
+– ter de – indica sempre obrigação
+– ter que – indica faculdade (uso preferencial) ou obrigação
+– termo circunstanciado – partes: envolvido(a) / interessado(a)
+– testa de ferro
+– (a) testemunha – (ex.: A única testemunha, Raimundo da Silva, estava temerosa
+devido às ameaças do réu.)
+– testemunha acusatória – (NUNCA usar; substituir por testemunha de
+acusação ou arrolada pela acusação)
+– testemunha ministerial – (NUNCA usar; substituir por testemunha do MP)
+– testigo – termo arcaico, sinônimo de testemunha
+– tetraidrocanabinol – componente químico da Cannabis sativa
+– teuto-brasileiro – com hífen, pois adjetivo gentílico (pl.: teuto-brasileiros)
+– tíquete-refeição – pl.: tíquetes-refeição(ções)
+– todo – qualquer, no singular
+– todo(a) e qualquer – expressão intensifi cadora, plenamente válida
+– todo o – inteiro, no singular
+– todo o mundo – o mundo inteiro (linguagem informal)
+– tomo I, II, III...
+– tórax – mas torácico
+teoria monista – tórax
+Manual de Linguagem Jurídico-Judiciária – 83
+– transexual
+– transitado – particípio de transitar (adjetivamente, emprega-se também a
+expressão trânsito em julgado, a par de transitado em julgado)
+– transladar – uso preferencial no sentido de transportar de um lugar para
+outro (transladar as vítimas, por exemplo)
+– transubjetivo
+– trasladar – uso preferencial no sentido de copiar (trasladar uma escritura,
+por exemplo)
+– Tratado de Assunção – ofi cializou a criação do MERCOSUL, em 29-11-1991,
+em Assunção (Paraguai)
+– Três Poderes
+– tribuna – (letra minúscula)
+– Tribunal – uso determinado
+– tribunal – uso genérico
+– Tribunal Administrativo de Recursos Fiscais
+– Tribunal Constitucional – no Brasil, denomina-se Supremo Tribunal Federal;
+sua competência precípua consiste no controle da constitucionalidade das leis
+– Tribunal de Alçada do Estado do Rio Grande do Sul – TARGS (incorporado
+ao Tribunal de Justiça do Estado pela Emenda Constitucional n. 22, de
+11-12-97.)
+– Tribunal de Arbitragem
+– Tribunal de Contas da União – TCU
+– Tribunal de Contas do Estado – TCE
+– Tribunal de Justiça do Estado do Rio Grande do Sul
+– Tribunal do Júri
+– Tribunal Federal de Recursos – extinto; foi substituído pelo Tribunal Regional
+Federal
+transexual – Tribunal Federal de Recursos
+84 – Manual de Linguagem Jurídico-Judiciária
+– Tribunal Militar
+– tribunal popular – Tribunal do Júri
+– Tribunal Regional do Trabalho
+– Tribunal Regional Eleitoral
+– Tribunal Regional Federal
+– Tribunal Superior do Trabalho
+– tríduo – prazo de três dias
+– Turma – (ex.: 1ª e 2ª Turmas Cíveis)
+Tribunal Militar – Turma
+Manual de Linguagem Jurídico-Judiciária – 85
+U
+– ultra- – O prefi xo ultra- exige hífen quando seguido de palavra iniciada
+com a ou h.
+– um e meio milhão – a partir de dois, escreve-se: “dois milhões de...”
+– um e outro, um ou outro, nem um nem outro – O substantivo determinado
+por um e outro, um ou outro ou nem um nem outro fi ca no singular.
+– União – (NUNCA usar União Federal)
+– unirrecorribilidade
+– urv(e)ização – substantivo derivado da sigla URV
+– useiro e vezeiro – que usa fazer numerosas vezes a mesma coisa
+– (o / a) usucapião – (o novo Código Civil preferiu a forma feminina)
+– usucapido – adquirido por usucapião
+– usucapiendo – aquilo que se quer adquirir por usucapião
+– usucapiente – aquele que adquiriu o direito de propriedade por usucapião
+– usucapir (v. def.) – Não possui a primeira pessoa do singular do presente
+do indicativo.
+– usucapível – o que é suscetível de ser adquirido por usucapião
+– usucapto – adquirido por usucapião
+– usufruto
+ultra- – usufruto
+86 – Manual de Linguagem Jurídico-Judiciária
+– uxoricida – aquele que mata a esposa
+– uxoricídio – homicídio da mulher perpetrado pelo próprio marido
+– uxório – relativo à mulher casada: outorga uxória, consentimento uxório,
+direitos uxórios, etc.
+uxoricida – uxório
+Manual de Linguagem Jurídico-Judiciária – 87
+V
+– vaivém, vai e vem
+– vale-alimentação – pl.: vales-alimentação; vales-alimentações
+– vale-refeição – pl.: vales-refeição; vales-refeições
+– vale-transporte – pl.: vales-transporte(s)
+– Vara – Órgão Judiciário
+– Vara das Execuções Criminais
+– Vara dos Feitos da Fazenda Pública
+– Vara dos Registros Públicos
+– Velho Mundo – espaço conhecido pelos europeus antes das grandes navegações
+(Europa, parte da Ásia e o Norte da África)
+– vendável – que vende bem ou facilmente
+– vendível – que se pode vender, que pode ser vendido
+– Vereador
+– veredicto, veredito – (preferir a segunda)
+– vezeiro – que tem vezo, acostumado, habituado (ver useiro e vezeiro)
+– vezes – as mais das vezes, nas mais das vezes ou no mais das vezes
+– vezo – hábito, costume
+vaivém, vai e vem – vezo
+88 – Manual de Linguagem Jurídico-Judiciária
+– vez que – (ver eis que, de vez que)
+– via de regra – (NÃO usar, por ser deselegante)
+– vias de fato – luta corporal, violência física (NUNCA usar como fi nalização
+de algum fato)
+– vice- – O prefi xo vice- sempre exige hífen.
+– videocassete
+– videoteipe
+– videotexto
+– vidual – referente à viuvez ou à pessoa viúva
+– viger – O verbo viger conjuga-se como vender, admitindo-se apenas as
+formas em que o g vem seguido por e ou i.
+– violação à literal disposição da Lei n.
+– violação a literal disposição de lei
+– vir – O verbo vir e seus compostos têm o particípio igual ao gerúndio
+(ex.: vindo, intervindo).
+– vir a pelo – vir a propósito (trata-se de arcaísmo)
+– visar (v. t. i. – regência preferencial) – objetivar (ex.: O candidato visava a
+acertar todas as questões da prova.)
+– vislumbrar – entrever, conhecer imperfeitamente, conje(c)turar, ver indistintamente
+– vista – exame (No sentido processual, sempre no singular): ter / pedir / dar
+vista, etc.
+– (com) vista(s) a – com o objetivo de (preferir no singular)
+– vista-d’olhos
+– vistas – relativo a olhos
+– (a) vítima
+vez que – (a) vítima
+Manual de Linguagem Jurídico-Judiciária – 89
+– vitória de Pirro – vitória com sabor de derrota, em razão das muitas perdas
+– viva-voz – (telefone)
+– vizo- – O prefi xo vizo- (variante de vice-) sempre exige hífen (ex.: vizo-rei,
+vizo-reinado).
+– volume I, volume II... (v. I, v. II...)
+– voto de Minerva – voto de desempate; voto de qualidade
+– voto-mérito – pl.: votos-mérito(s)
+– voto-vista – pl.: votos-vista(s)
+– voto-vogal – pl.: votos-vogal; votos-vogais
+vitória de Pirro – voto-vogal
+90 – Manual de Linguagem Jurídico-Judiciária
+W
+– wagneriano
+wagneriano
+Manual de Linguagem Jurídico-Judiciária – 91
+X
+– Xangri-Lá
+– xerocar, xerocopiar, xerocópia, xerografar, xerografi a, xerográfi co
+(termos derivados) – Todos os termos são ofi ciais, relacionados à ideia de
+cópia a seco, independentemente da marca do aparelho.
+– xerox, xérox – (preferir xerox)
+– xiita
+– Xuí
+– xuiense
+Xangri-lá – xuiense
+92 – Manual de Linguagem Jurídico-Judiciária
+Z
+– zapear – mudar constantemente de canal de televisão mediante o controle
+remoto (do inglês zapping)
+– Zero Hora – ZH (jornal)
+– zero-quilômetro – carros zero-quilômetro
+– ziguezague
+– zipar – compactar arquivo para armazenamento ou transmissão de dados
+(do inglês zip)
+– zona gris – zona nebulosa, ideia de indefi nição, obscuridade
+– zunzum
+zapear – zunzum
+Manual de Linguagem Jurídico-Judiciária – 93
+ESTRANGEIRISMOS
+94 – Manual de Linguagem Jurídico-Judiciária
+Manual de Linguagem Jurídico-Judiciária – 95
+A
+– aberratio delicti (lat.) – delito desviado; falso juízo do criminoso em relação
+à pessoa da vítima
+– aberratio ictus (lat.) – desvio do golpe; erro de alvo
+– ab initio (lat.) – desde o início
+– ab intestato (lat.) – sem (deixar) testamento
+– abolitio criminis (lat.) – extinção do crime; extinção da punibilidade
+– ab origine (lat.) – desde a origem
+– ab ovo (lat.) – desde o início
+– absente reo (lat.) – estando ausente o réu; na ausência do réu
+– Absolvere nocentem satius est quam condemnare innocentem. (lat.) –
+Absolver o criminoso é preferível a condenar o inocente.
+– Abusus non tollit usum. (lat.) – O abuso não tira o uso.
+– accessio possessionis (lat.) – conjunção de posses
+– Accessorium sequitur principale. (lat.) – O acessório segue o principal.
+– accipiens (lat.) – aquele que recebe um pagamento; ou aquele a quem se
+transferiu a propriedade. Cfr. solvens.
+– a contrario sensu (lat.) – em sentido contrário
+– actio fi nium regundorum (lat.) – ação de demarcação de prédio rústico
+aberratio delicti – actio fi nium regundorum
+96 – Manual de Linguagem Jurídico-Judiciária
+– actio quanti minoris (lat.) – ação de redução do preço
+– ad abundantiorem cautelam (lat.) – por maior cautela
+– ad aeternum (lat.) – para sempre
+– ad argumentandum tantum (lat.) – apenas para argumentar
+– ad causam (lat.) – para a causa
+– ad cautelam (lat.) – por cautela
+– ad hoc (lat.) – a isto, para isto, para o caso, eventual
+– ad infi nitum (lat.) – até o infi nito
+– ad judicia (lat.) – para o juízo
+– ad libitum (lat.) – à escolha, à vontade
+– ad litem (lat.) – para a lide, relativo ao processo
+– ad litteram (lat.) – ao pé da letra
+– ad nauseam (lat.) – até enjoar, exaustivo
+– ad negotia (lat.) – para negócios; (mandato) para a administração geral de
+negócios
+– ad nutum (lat.) – pela só vontade ou arbítrio de uma das partes
+– ad perpetuam rei memoriam (lat.) – para a perpétua lembrança da coisa
+(do fato)
+– ad quem (lat.) – para o qual, para onde vai, (dia) fi nal
+– ad referendum (lat.) – pendente de aprovação de, de ratifi cação de
+– ad usucapionem (lat.) – para usucapião
+– ad valorem (lat.) – conforme o valor (da mercadoria)
+– affectio maritalis (lat.) – afeição conjugal; intenção presumida dos cônjuges
+de fazer perdurar o casamento
+– a fortiori (lat.) – com maior razão
+actio quanti minoris – a fortiori
+Manual de Linguagem Jurídico-Judiciária – 97
+– a fortiori (ratione) (lat.) – com tanto mais razão
+– a latere (lat.) – ao lado; o que se faz fora das obrigações normais
+– Alea jacta est. (lat.) – A sorte está lançada.
+– a limine (lat.) – desde o início
+– alter ego (lat.) – outro eu; amigo íntimo, no qual se pode confi ar tanto
+como em si mesmo
+– alterum non laedere (lat.) – não lesar o próximo
+– a matre (lat.) – (proveniente) da mãe
+– amicus curiae (lat.) – amigo da corte (do tribunal)
+– amplo sensu (lat.) – em sentido amplo
+– An debeatur. (lat.) – Se é devido.
+– animus laedendi (lat.) – intenção de ferir, de ofender, de atacar
+– animus necandi (lat.) – intenção de matar
+– animus pravus (lat.) – ânimo depravado, má intenção
+– a non domino (lat.) – por parte de alguém que não é o senhor, o dono; da
+parte do não proprietário
+– apartheid (ingl.) – sistema ofi cial de segregação racial praticada na África
+do Sul para proteger a minoria branca
+– a posteriori (lat.) – com base em fatos, concretamente, raciocínio subsequente
+à observação ou à prova experimental (ex.: O Juiz só poderá lançar
+sua sentença a posteriori.); (NUNCA usar com sentido temporal)
+– a priori (lat.) – independentemente dos fatos, abstratamente (ex.: A priori,
+qualquer pessoa tem direito de entrar em juízo.); (NUNCA usar com sentido
+temporal)
+– apud (lat.) – de acordo com, segundo; indica citação indireta
+– apud acta (lat.) – nos autos; junto aos autos
+– a quo (lat.) – do qual, de quem, de onde se origina; (dia) inicial
+a fortiori (ratione) – a quo
+98 – Manual de Linguagem Jurídico-Judiciária
+– arbitrium regulatum (lat.) – arbítrio regulado ou moderado
+– astreinte (fr.) – multa diária imposta pelo Juiz que deve ser paga até que a
+obrigação seja cumprida
+– Audiatur et altera pars. (lat.) – Que seja ouvida também a outra parte.
+(ver inaudita altera parte)
+– à vol d’oiseau (fr.) – a voo de pássaro, isto é, por alto, superfi cialmente
+arbitrium regulatum – à vol d’oiseau
+Manual de Linguagem Jurídico-Judiciária – 99
+B
+– baby-sitter (ingl.) – babá por período curto de tempo
+– background (ingl.) – conjunto de conhecimentos, experiência
+– banner (ingl.) – bandeira, estandarte, faixa
+– barman (sing.), barmen (pl.) (ingl.) – homem que serve bebidas em bar
+– bas-fond (fr.) – submundo
+– benchmarking (ingl.) – ponto de referência, unidade-padrão, melhor índice
+– best-seller (ingl.) – o livro que se vende melhor; obra que é grande êxito
+de livraria
+– bis in idem (lat.) – duas vezes pela mesma falta (pelo mesmo fato, pelo
+mesmo fato gerador; etc.); realização de dois atos a propósito da mesma
+causa, da mesma coisa
+– bona fi de (lat.) – de boa-fé
+– bonus pater familiae (ou familias) (lat.) – bom pai de família; bom chefe
+de família
+– bookmaker (ingl.) – pessoa que aceita apostas clandestinas em corrida de
+cavalos
+– box (ingl.) – divisão territorial em lojas, em garagens ou em banheiro
+– bullying (ingl.) – atitudes agressivas adotadas por um ou mais estudantes
+contra outro(s), sem nenhuma justifi cativa
+baby-sitter – bullying
+100 – Manual de Linguagem Jurídico-Judiciária
+C
+– camping (ingl.) – acampamento
+– campus (sing.), campi (pl.) (lat.) – terreno(s) e prédio(s) de uma universidade
+– Cannabis sativa (lat.) – nome científi co da maconha
+– capitis deminutio, capitis diminutio (lat.) – perda total ou parcial dos direitos
+subjetivos; em sentido fi gurado, signifi ca humilhação, diminuição
+– caput (lat.) – cabeça de um artigo de lei
+– Carpe diem. (lat.) – Aproveita (frutifi ca) o dia.
+– causa debendi (lat.) – causa (motivo) de uma obrigação
+– causa mortis (lat.) – razão da morte (ex.: Ainda não foi descoberta a causa
+mortis da vítima.); (ver mortis causa)
+– causa petendi (lat.) – a causa de pedir; os fundamentos do pedido; aquilo
+que dá motivo à ação
+– causa possessionis (lat.) – causa jurídica da posse
+– cautio pro expensis (lat.) – caução para as despesas judiciais
+– Caveat emptor. (lat.) – Acautele-se o comprador.
+– chassis (fr.) – chassi
+– check-in (ingl.) – checagem, conferência, acerto preliminar que o passageiro
+faz no balcão da companhia de aviação
+camping – check-in
+Manual de Linguagem Jurídico-Judiciária – 101
+– check-up (ingl.) – exame completo de saúde, seja para a verifi cação de
+algum sintoma, seja por profi laxia
+– chômage (fr.) – desemprego ou cessação geral do trabalho, em decorrência
+de crise fi nanceira.
+– citra petita (lat.) – decisão aquém do pedido, por não julgá-lo em sua totalidade
+– coertio (lat.) – coerção; força estatal que confere autoridade aos atos do
+juiz
+– cognitio (lat.) – cognição; poder do juiz de apreender a realidade, tanto
+quanto à demanda quanto aos fatos que a fundamentam
+– commodity (sing.), commodities (pl.) (ingl.) – mercadoria em estado bruto
+ou produto primário de importância comercial
+– commodum (lat.) – proveito, vantagem
+– common law (ingl.) – lei não escrita baseada em costumes e decisões
+dos tribunais ingleses, e não em leis do Parlamento
+– compensatio lucri cum damno (lat.) – compensação do lucro com o prejuízo
+– concessa venia (lat.) – com a devida licença
+– condicio juris (lat.) – condição, requisito ou formalidade necessária à validade
+de ato jurídico
+– condiciones sine quibus non (lat.; pl.) – condição sem a qual não, condição
+indispensável, imprescindível; condições sem as quais não, condições
+indispensáveis, imprescindíveis
+– condicio sine qua non (lat.; sing.) – condição imprescindível
+– Consensus tollit errorem. (lat.) – O consentimento suprime o erro.
+– consilium fraudis (lat.) – o conluio da má-fé (da fraude)
+– continuum (lat.) – contínuo espaço-tempo
+– contradictio in terminis (lat.) – contradição nos próprios termos
+check-up – contradictio in terminis
+102 – Manual de Linguagem Jurídico-Judiciária
+– contra legem (lat.) – contra a lei
+– croquis (fr.) – croqui (port.); esboço de desenho
+– Cui prodest? (lat.) – A quem interessa?
+– culpa in abstracto (lat.) – culpa em abstrato; culpa levíssima
+– culpa in concreto (lat.) – culpa objetiva
+– culpa in contrahendo (lat.) – culpa no contratar; culpa contratual, se a
+falta resulta da própria celebração do contrato, por ser impossível ou ilícito o
+seu objeto
+– culpa in eligendo (lat.) – culpa decorrente da má escolha
+– culpa in faciendo (lat.) – culpa decorrente da ação
+– culpa in omittendo (lat.) – culpa por omissão
+– culpa in vigilando (lat.) – culpa proveniente de falta de atenção, vigilância
+ou diligência
+– cum grano salis (lat.) – com um grão de sal (em sentido literal); com certa
+desconfi ança, reserva ou ressalva (sentido usual)
+– curriculum vitae (sing.), curricula vitae (pl.) (lat.) – currículo
+– custos legis (lat.) – guardião da lei (aplica-se ao agente do Ministério Público)
+contra legem – custos legis
+Manual de Linguagem Jurídico-Judiciária – 103
+Da mihi factum, dabo tibi jus. – de lege ferenda, de lege condenda
+D
+– Da mihi factum, dabo tibi jus. (lat.) – Dá-me o fato, dar-te-ei o direito.
+– data maxima venia (lat.) – concedida a máxima vênia. [Assim como a expressão
+data venia, NUNCA vem seguida da preposição de. Não usar a forma
+datissima (maxima) venia, inexistente (e impossível) em latim.]
+– datashow (ingl.) – projetor multimídia
+– datio in solutum (lat.) – dação em pagamento
+– de auditu (lat.) – por ouvir dizer
+– débâcle (fr.) – ruína
+– decisum (lat.) – sentença, decisão; tecnicamente, a parte fi nal da sentença,
+o dispositivo
+– de cujus (lat.) – inventariado (port.); que é objeto de inventário; aquele
+cujos bens são dados a inventário; decujo; falecido
+– de facto (lat.) – de fato
+– defendant (ingl.) – réu, acusado, arguído
+– defi cit (lat.) – défi cit, défi ce
+– déjà-vu (fr.) – já conhecido
+– de jure (lat.) – de direito
+– de lege ferenda, de lege condenda (lat.) – do direito a ser criado
+104 – Manual de Linguagem Jurídico-Judiciária
+– de lege lata (lat.) – da lei em vigor
+– delirium tremens (lat.) – episódio de delírio agudo desencadeado por excesso
+ou abstinência brusca da bebida em alcoólatras crônicos e em viciados em ópio.
+– de plano (lat.) – de plano, sem qualquer formalidade; imediatamente
+– Deutschemark (al.) – marco alemão (moeda alemã, substituída pelo Euro)
+– development risk (ingl.) – risco do desenvolvimento
+– de visu (lat.) – de ter visto
+– dies a quo (lat.) – termo inicial de um prazo
+– dies incertus (lat.) – dia incerto
+– Dies interpellat pro homine. (lat.) – O dia interpela pelo homem.
+– dies supremus (lat.) – o dia supremo
+– disregard doctrine (ingl.) – teoria da desconsideração da personalidade
+jurídica
+– disregard of legal entity (ingl.) – desconsideração de entidade legal
+– dolce far niente (ital.) – agradável ociosidade
+– dolus bonus (lat.) – ação delituosa ou artifício que não tem a intenção de
+prejudicar
+– dominus litis (lat.) – o senhor da lide
+– Dormientibus non succurrit jus. (lat.) – A Justiça não socorre os que dormem
+(isto é, a negligência, a apatia, o desinteresse do titular do direito em exercê-lo).
+– drive-in (ingl.) – cinema ao ar livre (p. ext.)
+– due process of law (ingl.) – devido processo legal
+– Dura lex, sed lex. (lat.) – A lei é dura, mas é lei.
+de lege lata – Dura lex, sed lex.
+Manual de Linguagem Jurídico-Judiciária – 105
+E
+– eadem res (lat.) – a mesma coisa
+– effectus damni (lat.) – efeito do dano
+– emendatio libelli (lat.) – emenda do libelo
+– en passant (fr.) – de passagem; incidentemente
+– erga omnes (lat.) – contra todos, relativamente a todos
+– error in judicando (lat.) – erro em julgar; erro de julgamento
+– error in procedendo (lat.) – erro em proceder
+– esprit de corps (fr.) – espírito de equipe; de grupo
+– establishment (ingl.) – estrutura de poder existente na sociedade
+– et alii, et al. (lat.) – e outros
+– et caterva (lat.) – e seu bando (pejorativo)
+– et cetera (lat.) – etc. (ofi cialmente, precedido de vírgula)
+– eventus damni (lat.) – resultado do dano
+– ex abrupto (lat.) – repentinamente, bruscamente
+– ex adverso (lat.) – pelo contrário; oposto, contrário. Diz-se em relação ao
+advogado da parte oposta na causa.
+– ex aequo (lat.) – por equidade; com igualdade
+eadem res – ex aequo
+106 – Manual de Linguagem Jurídico-Judiciária
+– ex cathedra (lat.) – do alto da cátedra (sentido literal); com autoridade
+– exceptio declinatoria fori (lat.) – exceção de incompetência do juízo
+– exceptio non adimpleti contractus (lat.) – exceção de contrato não cumprido
+
+– exceptio plurium concubentium (lat.) – na investigação de paternidade,
+exceção de muitos concubinos, isto é, de relações sexuais com muitos homens
+
+– exceptio proprietatis (lat.) – exceção da propriedade
+– exceptio rei judicatae (lat.) – exceção da coisa julgada
+– exceptio suspicionis (lat.) – exceção de suspeição
+– exceptio usucapionis (lat.) – exceção de usucapião
+– exceptio veritatis – exceção da verdade
+– ex contractu (lat.) – do contrato; em razão do contrato
+– ex delicto (lat.) – por força de delito
+– exempli gratia; e. g. (lat.) – por exemplo
+– ex empto (lat.) – pelo comprado; decorrente de contrato de compra e venda
+– exequatur (lat.) – execute-se, cumpra-se; ordem (do STJ) para o cumprimento
+de cartas rogatórias
+– ex facto offi cii (lat.) – de fato do ofício
+– Ex facto oritur jus. (lat.) – Do fato nasce o direito.
+– ex informata conscientia (lat.) – de uma consciência informada
+– existimatio (lat.) – estima, apreciação, avaliação
+– ex jure (lat.) – por direito
+– ex lege (lat.) – segundo a lei, por lei
+– ex locato (lat.) – relativo à locação, aluguel, arrendamento
+ex cathedra – ex locato
+Manual de Linguagem Jurídico-Judiciária – 107
+– ex nunc (lat.) – de agora em diante, sem efeito retroativo. Opõe-se a ex tunc.
+– ex offi cio (lat.) – por dever do cargo, ofi cialmente, por lei
+– ex persona (lat.) – da pessoa
+– expert (ingl.) – experto, perito
+– ex positis (lat.) – pelo exposto
+– ex professo (lat.) – com perfeito conhecimento
+– ex propria auctoritate (lat.) – por autoridade própria
+– ex re (lat.) – pela (ou decorrente da) coisa
+– ex soluto et soluta (lat.) – livre, solto, desimpedido; emprega-se com referência
+ao fi lho nascido de pais que, à época de sua concepção ou nascimento,
+não eram impedidos de casar
+– externa corporis (lat.) – de fora de um órgão ou grupo
+– extra petita (lat.) – fora do pedido
+– ex tunc (lat.) – desde então, com efeito retroativo. Opõe-se a ex nunc.
+– ex vi (lat.) – por força
+– ex vi legis (lat.) – por força da lei
+ex nunc – ex vi legis
+108 – Manual de Linguagem Jurídico-Judiciária
+F
+– factor (ingl.) – fator, agente
+– factoring (ingl.) – espécie de contrato comercial, denominado, em português,
+faturização; tem por intervenientes o faturizado e o faturizador
+– fac totum (lat.) – factótum (port.); aquele que faz tudo
+– factum praeteritum (sing.), facta praeterita (pl.) (lat.) – fato(s) pretérito(s),
+passado(s)
+– factum probatum (lat.) – fato provado
+– falsum (lat.; subst.) – falsidade; delito de falsidade
+– Falsum quod est, nihil est (lat.) – O que é falso nada vale.
+– fattispecie (ital.) – Situação fática prevista abstratamente numa norma.
+– faute du service (fr.) – falta do serviço
+– feedback (ingl.) – realimentação, retorno
+– fellatio (lat.) – felação
+– folder (ingl.) – impresso promocional, em geral no formato de uma folha,
+com duas ou mais dobras, impresso e distribuído publicamente
+– fornicatio simplex (lat.) – No Direito Canônico, concúbito normal e consensual
+com mulher livre e capaz.
+– forum rei sitae (lat.) – o foro da situação da coisa
+factor – forum rei sitae
+Manual de Linguagem Jurídico-Judiciária – 109
+– franchising (ingl.) – franquia
+– Fraus omnia corrumpit. (lat.) – A fraude corrompe tudo.
+– freelancer (ingl.) – pessoa que executa serviços profi ssionais sem vínculo
+empregatício
+– free-shop (ingl.) – local de venda de produtos sem taxa de importação
+– free-way (ingl.) – estrada expressa
+– fumus boni juris (lat.) – fumaça, indício de bom direito; possibilidade de
+existência de um direito
+franchising – fumus boni juris
+110 – Manual de Linguagem Jurídico-Judiciária
+G
+– gay (ingl.) – homossexual
+– gentleman (ingl.) – homem de boas maneiras, bem-educado
+– Genus continet differentiam potentia, non actu. (lat.) – O gênero se diferencia
+na força, e não no ato.
+– glamour (fr.) – encanto pessoal, magnetismo, charme
+– Google – sítio de procura na internet
+– grand fi nale (fr.) – último movimento
+– granus salis (lat.) – (ver cum grano salis)
+– grosso modo (lat.) – de modo geral (NUNCA usar a grosso modo, uma
+vez que a preposição a não faz parte da expressão latina.)
+– Grundgesetz (al.; neutro: das) – a lei fundamental; Constituição Federal
+da Alemanha; cfr. Verfassung.
+– guilty or not guilty (ingl.) – culpado ou não culpado
+gay – guilty or not guilty
+Manual de Linguagem Jurídico-Judiciária – 111
+H
+– habeas corpus (lat.) – (ver hábeas-córpus)
+– habeas data (lat.) – remédio jurídico para obter informações atinentes à
+pessoa junto aos bancos de dados e para retifi cação destas. Partes: impetrante
+/ impetrante-paciente / paciente / coator(a) / interessado(a) (Cf. art. 5º,
+LXXII, da Constituição da República.)
+– handicap (ingl.) – desvantagem
+– happy end (ingl.) – fi nal feliz
+– hardware (ingl.) – parte física do computador; equipamento
+– Hecha la ley hecha la trampa. (esp.) – Editada a lei, surge a trapaça.
+– hic et nunc (lat.) – aqui e agora
+– holding (ingl.) – sociedade fi nanceira que possui ações de outras sociedades
+– home page (ingl.) – página principal de abertura de um sítio
+– homo medius (lat.) – o homem médio
+– honoris causa (lat.) – por honra. Diz-se dos títulos universitários conferidos
+sem exame ou concurso, a título de homenagem.
+habeas corpus – honoris causa
+112 – Manual de Linguagem Jurídico-Judiciária
+I
+– ibidem (lat.) – aí mesmo, no mesmo lugar
+– ictu oculi (lat.) – de relance; num rápido olhar
+– idem (lat.) – o mesmo (não é necessário o uso de aspas)
+– id est; i. e. (lat.) – isto é
+– id quod plerumque accidit (lat.) – aquilo que geralmente acontece
+– Ignorantia legis neminem excusat. (lat.) – A ignorância da lei não desculpa
+o não cumprimento desta.
+– ilegitimatio ad causam (lat.) – ilegitimidade para a causa
+– immo pectore (lat.) – do fundo do peito
+– impeachment (ingl.) – impedimento; imposição, ao Presidente da República,
+da pena de destituição do cargo e suspensão dos direitos políticos
+– impotentia coeundi (lat.) – impotência sexual
+– imputatio factica (lat.) – imputação fática
+– imputatio juris (lat.) – imputação de direito
+– in (lat.) – em (não é necessário o uso de aspas)
+– in abstracto (lat.) – em abstrato
+– in (actione) quanti minoris (lat.) – na (ação) de redução de preço
+– in albis (lat.) – em branco, sem manifestação
+ibidem – in albis
+Manual de Linguagem Jurídico-Judiciária – 113
+– in articulo mortis (lat.) – no momento da morte
+– inaudita altera parte (lat.) – sem audiência da parte contrária; não ouvida
+a outra parte. (NÃO existe a forma inaudita altera ‘pars’.)
+– in bonam partem (lat.) – na boa parte; à boa parte
+– in casu (lat.) – no caso
+– incerta persona (lat.) – pessoa não certa
+– incidenter tantum (lat.) – apenas incidentalmente
+– In claris non fi t interpretatio. (lat.) – Nas questões claras não cabe interpretação.
+– in concreto (lat.) – em concreto
+– in dubio pro fi sco (lat.) – em caso de dúvida, a favor do Fisco
+– in dubio pro libertate (lat.) – na dúvida, prevalece a liberdade da pessoa
+– in dubio pro misero (lat.) – na dúvida, a favor do mais fraco
+– in dubio pro reo (lat.) – na dúvida, a favor do réu
+– in dubio pro societate (lat.) – na dúvida, a favor da sociedade
+– in fi eri (lat.) – por fazer-se; por vir a ser
+– in fi ne (lat.) – no fi m
+– infra petita (lat.) – menos que o pedido
+– in fraude executionis (lat.) – em fraude à execução
+– (in) initio litis (lat.) – no início da lide; no começo da lide
+– in itinere (lat.) – no itinerário, no caminho
+– in judicando (lat.) – no julgar (ver error in judicando)
+– in limine (lat.) – liminarmente, inicialmente; no princípio
+– in limine litis (lat.) – no início da lide
+– in loco (lat.) – no local
+in articulo mortis – in loco
+114 – Manual de Linguagem Jurídico-Judiciária
+– in malam partem (lat.) – na parte ruim ou pior; à má parte
+– In medio (stat) virtus. (lat.) – A virtude encontra-se no meio termo.
+– in melius (lat.) – para melhor
+– in memoriam (lat.) – em lembrança de
+– in natura (lat.) – ao natural, em estado natural; a coisa em si mesma
+– in pari causa (lat.) – em causa igual
+– in pectore (lat.) – no peito, no coração, intimamente, secretamente
+– in pejus (lat.) – para pior
+– input (ingl.) – insumo
+– in re ipsa (lat.) – na própria coisa
+– in rem propriam (lat.) – para coisa própria, em causa própria
+– in rem verso (lat.) – em benefício alheio
+– insight (ingl.) – capacidade de se aprofundar em alguma questão; discernimento
+– in situ (lat.) – no lugar, no próprio lugar
+– in solidum (lat.) – solidariamente (indica responsabilidade solidária)
+– inter crimen (lat.) – entre o crime
+– inter crimina (lat.) – entre os crimes
+– interna corporis (lat.) – dentro da corporação; no âmbito interno (da corporação,
+do grupo, do órgão, etc.)
+– inter nolentes (lat.) – entre os que não querem (adversários), em litígio
+– inter partes (lat.) – entre as partes
+– inter vivos (lat.) – entre vivos
+– inter volentes (lat.) – entre os que querem; entre interessados
+– in tota et in qualibet parte (lat.) – em toda e em qualquer parte
+in malam partem – in tota et in qualibet parte
+Manual de Linguagem Jurídico-Judiciária – 115
+– in totum (lat.) – ao todo; totalmente
+– intuitu familiae (lat.) – em razão da família
+– intuitu personae (lat.) – em consideração da pessoa
+– (in) verbis (lat.) – nestas palavras; nestes termos
+– in vitro (lat.) – em meio artifi cial
+– ipsis litteris, ipsis verbis (lat.) – com as mesmas letras, com as mesmas
+palavras; literalmente
+– ipso facto (lat.) – em razão do próprio fato; por isso mesmo
+– ipso jure (lat.) – pelo próprio direito
+– iter (lat.) – caminho, roteiro, meio para se obter um fi m
+– iter criminis (lat.) – o caminho do crime
+in totum – iter criminis
+116 – Manual de Linguagem Jurídico-Judiciária
+J
+– Judex ne procedat ex offi cio. (lat.) – O juiz não proceda de ofício.
+– judicatum solvi (lat.) – pague-se o que está julgado; caução às custas
+– judicia duplicia (lat.) – juízos dúplices
+– judicium (lat.) – julgamento; ação de julgar; juízo
+– judicium accusationis (lat.) – o juízo de acusação
+– judicium causae (lat.) – o juízo da causa
+– judicium rescindens (lat.) – o juízo rescindendo
+– Jura novit curia. (lat.) – O tribunal conhece o direito.
+– (de) jure et facto (lat.) – de direito e de fato
+– jure sanguinis (lat.) – pelo direito de sangue
+– jurisconsultus ou jurisprudens (lat.) – jurista
+– juris et de jure (lat.) – de direito e por direito (Diz-se da presunção legal
+que não admite prova em contrário.)
+– juris tantum (lat.) – Diz-se da presunção legal que prevalece até prova em
+contrário.
+– jus agendi (lat.) – o direito de agir
+– jus cogens (lat.) – o direito cogente
+– jus eundi (lat.) – o direito de ir
+Judex ne procedat ex offi cio. – jus eundi
+Manual de Linguagem Jurídico-Judiciária – 117
+– jus imperii (lat.) – o direito de império, de poder
+– jus in re aliena (lat.) – o direito (real) sobre coisa alheia
+– jus in se ipsum (lat.) – direito em si mesmo
+– jus novum (lat.) – o direito novo
+– jus possessionis (lat.) – o direito de posse
+– jus possidendi (lat.) – o direito de possuir; o direito do possuidor que é
+também proprietário
+– jus privatum (lat.) – direito privado
+– jus publicum (lat.) – direito público
+– jus puniendi (lat.) – direito de punir
+– jus sanguinis (lat.) – o direito de sangue
+– jus superveniens (lat.) – direito superveniente
+– jus tollendi (lat.) – direito de levantar benfeitorias voluptuárias
+– jus utendi (lat.) – direito de usar
+jus imperii – jus utendi
+118 – Manual de Linguagem Jurídico-Judiciária
+K
+– kibutz (hebr.) – fazenda coletiva em Israel, na qual se pratica o regime de
+copropriedade e cooperação mútua voluntária.
+– know-how (ingl.) – conjunto de conhecimentos técnicos, culturais e administrativos
+indispensáveis na execução de determinado trabalho; é de ordem
+tecnológica. Cfr. savoir-faire.
+kibutz – know-how
+Manual de Linguagem Jurídico-Judiciária – 119
+L
+– LAN House (ingl.) – Local Area Network House
+– lapsus calami (lat.) – erro da pena (caneta); erro de escrita
+– lapsus linguae (lat.) – lapso da língua; erro ao falar
+– lapsus mentis (lat.) – lapso da mente; erro de pensamento
+– Lasciate ogni speranza, voi ch’entrate. (ital.) – (Dante – Inferno, III, 9) –
+Deixai toda a esperança, vós que entrais.
+– Last but not least (ingl.) – último, mas não menos importante
+– la taxe sur la valeur ajoutée (fr.) – imposto sobre o valor agregado (IVA)
+– lato sensu (lat.) – em sentido amplo
+– layout (ingl.) – leiaute (port.); disposição, no espaço, de objetos; esboço
+(projeto, esquema); gráfi co de uma obra
+– leading case (ingl.) – caso orientador
+– leaseback (ingl.) – tipo de leasing
+– leasing (ingl.) – contrato de uso de coisa mediante pagamento mensal;
+arrendamento mercantil
+– Lege data. (lat.) – Dada a lei.
+– Legem habemus. (lat.) – Temos lei.
+– legitimatio ad causam (lat.) – legitimação para a causa
+LAN House – legitimatio ad causam 
+120 – Manual de Linguagem Jurídico-Judiciária
+legitimatio ad processum – locus citatus; loc. cit.
+– legitimatio ad processum (lat.) – capacidade de litigar em nome próprio
+ou por conta de outrem
+– Leitmotiv (al.) – motivo condutor
+– Le juge connait le droit. (fr.) – O Juiz conhece o direito. (ver Jura novit
+curia.)
+– lex (lat.) – lei
+– Lex est quod notamus. (lat.) – O que escrevemos é lei.
+– lex gravior (lat.) – lei mais grave; lei que grava a sanção punitiva
+– lex mitior (lat.) – lei mais branda; lei que suaviza a pena do condenado
+– Lex posterior generalis non derrogat priori speciali. (lat.) – A lei geral
+posterior não derroga a lei especial anterior.
+– Lex specialis derogat generali. (lat.) – A lei especial derroga a geral.
+– lex talionis (lat.) – lei de talião
+– Libertas, quae sera, tamen. (lat.) – Liberdade, ainda que tardia.
+– litiscontestatio (lat.) – litiscontestação; contestação da lide
+– litis per transactionem fi nitae (lat.) – da lide terminada por meio de transação
+– lobby (ingl.) – pessoa ou grupo que, nas antessalas de órgãos decisórios,
+procura infl uenciar os representantes do povo no sentido de fazê-los votar
+segundo os próprios interesses ou dos grupos que representam
+– locatio operarum (lat.) – locação de serviço, contrato de trabalho
+– locatio operis (lat.) – empreitada
+– locatio rei (lat.) – locação de coisa
+– loco citato; loc. cit. (lat.) – no lugar citado
+– locus (sing.), loci (pl.) (lat.) – posição de um gene num cromossomo
+– locus citatus; loc. cit. (lat.) – lugar citado
+Manual de Linguagem Jurídico-Judiciária – 121
+– longa manu (lat.) – espécie de contrato consensual
+– longa manus (lat.) – longo braço
+– lucida intervalla (lat.) – intervalos lúcidos; períodos em que o doente
+mental se apresenta lúcido
+– lucro captando (lat.) – pelo lucro a ser procurado
+longa manu – lucro captando
+122 – Manual de Linguagem Jurídico-Judiciária
+M
+– mainstream media (ingl.) – corrente ou tendência predominante de pensamento,
+opinião, infl uência ou atividade
+– mandamus (lat.) – mandado
+– manu militari (lat.) – à força
+– marketing (ingl.) – conjunto de estudos e medidas que proveem estrategicamente
+o lançamento e a sustentação de um produto ou serviço no mercado
+consumidor
+– mens legis (lat.) – espírito da lei
+– Mens sana in corpore sano. (lat.) – Mente sã em corpo são.
+– merchandising (ingl.) – propaganda não declarada feita por meio de menção
+ou aparição de serviço ou produto, utilizando-se de qualquer meio de
+comunicação
+– métier (fr.) – ofício
+– Minus quam volui (lat.) – Menos do que quis
+– mise en scène (fr.) – organização material de evento; encenação
+– modus agendi (lat.) – modo de agir
+– modus faciendi (lat.) – modo de proceder, de agir
+– modus operandi (lat.) – modo de trabalhar
+– modus vivendi (lat.) – modo ou regime de viver
+mainstream media – modus vivendi
+Manual de Linguagem Jurídico-Judiciária – 123
+– mora accipiendi (lat.) – mora do credor que sem razão se recusa a receber
+no tempo e lugar determinado
+– mora debitoris (lat.) – mora do devedor
+– mora ex persona (lat.) – mora pela pessoa
+– mora ex re (lat.) – mora pela coisa
+– mora solvendi (lat.) – demora em pagar
+– more uxorio (lat.) – à maneira de casados
+– mortis causa (lat.) – por causa da morte, em decorrência da morte (ver
+causa mortis)
+– motu proprio (lat.) – de própria iniciativa
+– mutatio libelli (lat.) – alteração do libelo
+– mutatis mutandis (lat.) – mudando o que deve ser mudado
+mora accipiendi – mutatis mutandis
+124 – Manual de Linguagem Jurídico-Judiciária
+N
+– Necessitas non caret lege. (lat.) – A necessidade não se sujeita à lei.
+– Nec prodest, nec nocet. (lat.) – Não favorece, nem prejudica.
+– nemine discrepante (lat.) – por unanimidade
+– neminem laedere (lat.) – não prejudicar a ninguém
+– Nemini jus ignorare conceditur. (lat.) – A ninguém é dado ignorar o direito.
+– Ne procedat judex ex offi cio (lat.) – Não proceda o juiz de ofício.
+– nihil (lat.) – nada
+– Nihil obstat. (lat.) – Nada obsta.
+– nobreak (ingl.) – equipamento destinado a suprir falhas na alimentação
+pela rede elétrica
+– nomen juris (lat.) – denominação legal
+– Nomine alieno precario, non a nomine domini. (lat.) – Por nome alheio
+precário, não pelo nome do dono.
+– Non bis in idem. (lat.) – Não incidência duas vezes sobre a mesma coisa.
+– Non liquet (lat.) – Não está claro.
+– non plus ultra (lat.) – não mais além; o ponto máximo
+– nonsense (ingl.) – algo sem sentido, disparate, bobagem
+– norma agendi (lat.) – norma de agir; norma de conduta
+Necessitas non caret lege. – norma agendi
+Manual de Linguagem Jurídico-Judiciária – 125
+– nota bene; N. B. (lat.) – nota bem; notai bem
+– notitia criminis (lat.) – comunicação do crime
+– novatio legis in pejus (lat.) – alteração da lei (norma) para pior; lei posterior
+mais severa
+– nudus cum nuda in eodem lecto (lat.) – nu com nua no mesmo leito
+– Nullum tributum sine lege. (lat.) – Nenhum tributo sem lei.
+– numerus apertus (lat.) – enumeração aberta, exemplifi cativa
+– numerus clausus (lat.) – enumeração cumulativa, fechada, exaustiva
+nota bene; N. B. – numerus clausus
+126 – Manual de Linguagem Jurídico-Judiciária
+O
+– offi ce-boy (ingl.) – rapaz de recados
+– offi cium judicis (lat.) – dever do Juiz
+– o. k. (ingl.) – correto
+– ombudsman (sueco) – mediador, defensor dos direitos do cidadão junto a
+entidades
+– omissis (lat.) – lacuna, hiato; vazio no texto
+– on-line (ingl.) – em linha
+– onus probandi (lat.) – ônus de provar; o ônus da prova
+– ope legis (lat.) – por força da lei
+– open market (ingl.) – mercado aberto. No Brasil, indica o conjunto de transações
+feitas com títulos de renda fi xa, de emissão pública ou privada.
+– opere citato; op. cit. (lat.) – na obra citada
+– opinio delicti (lat.) – opinião, convicção do delito
+– opportuno tempore (lat.) – no tempo oportuno; no momento propício
+– opus citatum; op. cit. (lat.) – a obra citada
+– otium cum dignitate (lat.) – ócio com dignidade
+– outdoor (ingl.) – painel de propaganda
+offi ce-boy – outdoor
+Manual de Linguagem Jurídico-Judiciária – 127
+overbooking – overnight
+– overbooking (ingl.) – reservas para assentos em voo acima da capacidade
+do avião
+– overdose (ingl.) – superdose; consumo excessivo de droga alucinógena,
+geralmente fatal
+– overnight (ingl.) – operações realizadas no open market em um dia para
+resgate no dia seguinte ou no primeiro dia útil depois da aplicação
+128 – Manual de Linguagem Jurídico-Judiciária
+P
+– pacta corvina (lat.), pactum corvinum (pl.) – pacto sucessório; literalmente:
+pacto(s) de corvo(s)
+– Pacta sunt servanda. (lat.) – Os pactos devem ser observados.
+– (pacto) de non petendo (lat.) – pacto de não exigir em juízo a obrigação
+de seu devedor
+– par condicio creditorum (lat.) – condição paritária dos credores
+– pari passu (lat.) – a passo igual, simultaneamente
+– Parquet (fr.) – preferir o emprego da denominação ofi cial do órgão: Ministério
+Público
+– parti pris (fr.) – escolha arbitrária, opinião preconcebida
+– pas de nullité sans grief (fr.) – não há nulidade sem prejuízo
+– passim ou et passim (lat.) – aqui e ali, a cada passo
+– per capita (lat.) – por cabeça, por indivíduo
+– per faz et nefas (lat.) – pelo permitido e pelo proibido
+– performance (ingl.; estrangeirismo desnecessário) – desempenho
+– periculum in mora (lat.) – perigo na demora
+– per saltum (lat.) – por salto; sem obediência à gradação estabelecida
+– per se (lat.) – por si (port.)
+pacta corvina, pactum corvinum – per se
+Manual de Linguagem Jurídico-Judiciária – 129
+– persecutio criminis (lat.) – persecução do crime; persecução penal
+– persona grata (lat.) – pessoa recebida com agrado, com simpatia, por alguém
+ou por alguma entidade
+– personal trainer (ingl.) – treinador pessoal
+– persona non grata (lat.) – pessoa que não é bem recebida, que não se
+aceita, contra a qual há reservas, indesejada
+– pleno jure (lat.) – de pleno direito
+– pool (ingl.) – reunião temporária de duas ou mais empresas com fi ns especulativos
+– post mortem (lat.) – depois da morte, além do túmulo, na outra vida
+– post scriptum (lat.) – o que se escreve depois da parte principal de um escrito
+– prima facie (lat.) – à primeira vista
+– primus inter pares (lat.) – o primeiro entre os pares
+– pro forma (lat.) – por formalidade
+– pro labore (lat.) – pró-labore (port.)
+– pro memoria (lat.) – por memória, para memória
+– propter offi cium (lat.) – em razão do ofício, do cargo
+– propter personam (lat.) – por causa (em razão) da pessoa
+– propter rem (lat.) – por causa da coisa (do fato)
+– pro rata (lat.) – em proporção
+– pro rata diei (lat.) – pela divisão de dia
+– pro soluto (lat.) – a título de pagamento e que efetivamente quita a
+dívida
+– pro solvendo (lat.) – expressão indicativa de que a coisa dada em pagamento
+somente extingue a obrigação depois de cumprido certo requisito
+– pro tempore (lat.) – por determinado tempo, provisório
+persecutio criminis – pro tempore
+130 – Manual de Linguagem Jurídico-Judiciária
+Q
+– quae sine damno dividuae sunt (lat.) – que são divisíveis (separáveis)
+sem dano; ou que estão divididas (separadas) sem dano
+– quaestio facti (lat.) – questão de fato
+– quaestio juris (lat.) – questão de direito
+– quaestio juris praejudicialis (lat.) – questão de direito prejudicial
+– quaestiones juris (lat.) – questões de direito
+– quantum debeatur (lat.) – quanto seja devido; quantia devida
+– quantum satis (lat.) – o quanto baste, o bastante
+– querela inoffi ciosa donationes (lat.) – doações por querela (queixa) inofi ciosa
+– querela nullitatis (lat.) – queixa de nulidade; recurso contra sentença que
+contém vício
+– Quod erat demonstrandum. (lat.) – O que se queria (pretendia) demonstrar.
+– Quod non est in actis non est in mundo. (lat.) – O que não está nos autos
+não está no mundo.
+– quod plerumque accidit (lat.) – o que geralmente acontece
+– quod plerumque fi t (lat.) – o que geralmente se faz
+– quorum (lat.) – quórum (forma aportuguesada): número mínimo de membros
+presentes necessário para que uma assembleia possa funcionar ou deliberar
+regularmente
+quae sine damno dividuae sunt – quorum
+Manual de Linguagem Jurídico-Judiciária – 131
+R
+– ratio legis (lat.) – a razão da lei
+– ratione personae (lat.) – em razão da pessoa
+– rebus sic stantibus (lat.) – permanecendo as coisas no estado em que se
+encontram
+– recall (ingl.) – rechamada (literalmente); convocação pública de fabricantes
+de produto para que seus adquirentes o levem de volta à fábrica ou à ofi -
+cina de seus representantes, para que sejam reparados defeitos ou trocadas
+peças defeituosas
+– rectius (lat.) – mais corretamente; mais precisamente
+– reformatio in melius (lat.) – reforma (da decisão) para melhor
+– reformatio in pejus (lat.) – reforma (da decisão) para pior
+– relax (ingl.) – relaxamento acompanhado de diminuição da tensão mental
+e que acarreta uma sensação de repouso
+– replay (ingl.) – repetição
+– Requiescat in pace. (lat.) – Descanse em paz.
+– Rerum Novarum (lat.) – Encíclica (de 1891) do Papa Leão XIII sobre questões
+sociais
+– res derelicta (lat.) – coisa abandonada pelo dono
+– res furtiva (lat.), res furtivae (pl.) – a coisa furtada
+ratio legis – res furtiva, res furtivae
+132 – Manual de Linguagem Jurídico-Judiciária
+– res in judicium deducta (lat.) – a coisa (a questão) trazida a juízo
+– res inter alia (lat.) – entre outras coisas; emprega-se em menções meramente
+exemplifi cativas
+– res inter alios acta (lat.) – coisa realizada entre terceiros
+– res, non verba (lat.) – fatos, não palavras
+– res nullius (lat.) – coisa de ninguém, isto é, coisa sem dono e ainda não
+apropriada
+– res sperata (lat.) – coisa esperada
+– restitutio in integrum (lat.) – restituição integral
+– rottweiler – raça alemã de cães
+– royalty (sing.), royalties (pl.) (ingl.) – valor pago ao detentor de uma marca,
+patente, processo de produção, produto ou obra original pelos direitos de
+sua exploração comercial
+– rule of law (ingl.) – Estado de Direito
+res in judicium deducta – rule of law
+Manual de Linguagem Jurídico-Judiciária – 133
+S
+– saisine (fr.) – saisina (port.); direito de posse do herdeiro
+– savoir-faire (fr.) – jeito, competência, habilidade especial de executar uma
+tarefa; é de natureza comportamental
+– savoir-vivre (fr.) – educação, polidez
+– scanner (ingl.) – escâner (port.); aparelho que digitaliza imagens e textos
+impressos para o computador
+– script (ingl.) – texto de cinema, teatro, etc.
+– secundum eventum litis (lat.) – segundo o resultado da lide
+– self-leasing (ingl.) – operação entre empresas ligadas ou coligadas
+– self-made man (ingl.) – aquele que obteve sucesso graças ao seu próprio
+trabalho ou esforço
+– self-service (ingl.) – autosserviço
+– semel heres, semper heres (lat.) – uma vez herdeiro, sempre herdeiro
+– serial killer (ingl.) – assassino serial
+– shopping center (ingl.) – centro comercial
+– showman (ingl.) – diretor de espetáculos, empresário
+– sic (lat.) – assim, assim mesmo. Pospõe-se, entre colchetes, a uma palavra
+ou expressão para indicar que ela está literalmente reproduzida, por
+errada ou estranha que seja ou pareça.
+saisine – sic
+134 – Manual de Linguagem Jurídico-Judiciária
+– si et in quantum (lat.) – se e em quanto (e não “enquanto”). Traduz uma
+circunstância de condição (si) e outra de intensidade (in quantum).
+– sine die (lat.) – sem data
+– Si vis pacem, para bellum. (lat.) – Se queres a paz, prepara-te para a
+guerra.
+– slogan (ingl.) – frase curta com mensagem
+– societas delinquentium (lat.) – sociedade (associação permanente, organização)
+de delinquentes
+– software (ingl.) – programas e aplicativos utilizados em computador
+– Solve et repete. (lat.) – Paga e (depois) reclama.
+– solvens (lat.) – aquele que efetua o pagamento de uma obrigação; pagador;
+cfr. accipiens
+– souvenir (fr.) – lembrança
+– sponte sua (lat.) – por sua própria vontade
+– spray (ingl.) – aerossol
+– spread (ingl.) – diferença entre o custo de captação e o de aplicação dos
+recursos feita pelos bancos; taxa adicional de risco cobrada principalmente,
+embora não exclusivamente, no mercado internacional
+– staff (ingl.) – grupo de assistentes ou assessores de um líder, executivo ou
+administrador principal.
+– statu quo (lat.) – no estado em que (ex.: No statu quo do processo, o proprietário
+deverá perder o imóvel.)
+– statu quo ante (lat.) – no estado anterior
+– status belli (lat.) – estado de guerra
+– status libertatis (lat.) – estado de liberdade
+– status quo (lat.) – O estado em que, isto é, o estado em que se acha(va)
+determinada questão ou situação. (ex.: Preocupa-nos o status quo da economia
+brasileira.)
+si et in quantum – status quo
+Manual de Linguagem Jurídico-Judiciária – 135
+status quo ante – suum cuique tribuere
+– status quo ante (lat.) – o estado anterior
+– strepitus fori (lat.) – tumulto (agitação, ruído) do foro
+– stricti juris (lat.) – de direito estrito
+– stricto sensu (lat.) – em sentido estrito; literal
+– strip-tease (ingl.) – ato de se despir total ou parcialmente em público
+– strip-teaser (ingl.) – pessoa que faz strip-tease
+– sub examine (lat.) – sob exame, sob julgamento
+– sub judice (lat.) – sob julgamento, pendente de julgamento
+– successio in possessione (lat.) – sucessão na posse
+– successio possessionis (lat.) – sucessão do herdeiro na mesma posse
+do de cujus
+– suffi cit (lat.) – é sufi ciente, basta
+– sui generis (lat.) – de seu próprio gênero, que não apresenta analogia
+com nenhuma outra pessoa ou coisa; peculiar, especial
+– Summum jus, summa injuria. (lat.) – excesso de justiça, excesso de injustiça.
+– superavit (lat.) – superávit (port.); diferença a mais entre receita e despesa
+– Superfi cies solo cedit. (lat.) – A superfície incorpora-se ao solo.
+– supposito partu (lat.) – de parto (prole) suposto
+– sursis (fr.) – suspensão condicional da pena
+– suum cuique tribuere (lat.) – dar a cada um o que é seu
+136 – Manual de Linguagem Jurídico-Judiciária
+T
+– tabula rasa (lat.) – tábula rasa (port.); estado de indeterminação completa,
+de vazio total, sem qualquer conteúdo
+– Tantum devolutum, quantum appellatum. (lat.) – Tanto se devolveu quanto
+se apelou.
+– Tatbestand (al.) – o tipo delitivo, o corpo de delito (no Processo Penal); o
+mérito (no Processo Civil)
+– tax on (ingl.) – imposto sobre
+– tertius (lat.) – terceiro; o terceiro interveniente ou candidato, a terceira força
+numa disputa antes travada entre dois indivíduos, candidatos ou intervenientes
+– testis unus, testis nullus (lat.) – testemunha única, testemunha nenhuma
+– tête-à-tête (fr.) – cara a cara; a sós
+– time-sharing (ingl.) – tempo compartilhado simultâneo (num computador
+central) ou exclusivo (num imóvel, durante uma época preestabelecida)
+– Tollitur quaestio. (lat.) – Encerra-se a discussão. Está encerrada a questão.
+– tout court (fr.) – rapidamente, de supetão; sem mais nada
+– trailer (ingl.) – exibição de curtos trechos de fi lme como publicidade; reboque
+tabula rasa – trailer
+Manual de Linguagem Jurídico-Judiciária – 137
+Ubi commodum, ibi incommodum. – ut(i) possidetis
+U
+– Ubi commodum, ibi incommodum. (lat.) – Onde está a vantagem, aí
+está a desvantagem.
+– ultima ratio (lat.) – última razão; argumento decisivo
+– ultra petita (lat.) – além do pedido
+– underground (ingl.) – movimento ou organização secreta
+– universitas bonorum (lat.) – universalidade de bens
+– universitas facti (lat.) – universalidade de fato
+– universitas juris (lat.) – universalidade de direito
+– universitas rerum (lat.) – universalidade de coisas
+– urbi et orbi (lat.; Direto Canônico) – para a Cidade (Roma) e o Mundo, isto
+é, para toda a comunidade cristã
+– usque (lat.) – até (não é necessário o uso de destaque)
+– usque ad satietatem (lat.) – à saciedade
+– usus forensis (lat.) – a praxe forense
+– ut (lat.) – como; conforme
+– ut infra (lat.) – como abaixo
+– ut(i) possidetis (lat.) – como possuís (vós, presente do indicativo) (variante:
+uti possidetis); estabelecimento do direito de um Estado a determinado
+território, fundado na posse efetiva e prolongada, independentemente de
+qualquer outro título
+138 – Manual de Linguagem Jurídico-Judiciária
+– ut retro (lat.) – como (dito, constante) atrás
+– ut(i) singuli (lat.) – coisas compostas que, embora reunidas, se consideram
+singularmente
+– ut supra (lat.) – como acima
+– ut(i) universi (lat.) – o que deve ser tratado como universalidade
+ut retro – ut(i) universi
+Manual de Linguagem Jurídico-Judiciária – 139
+V
+– vacatio legis (lat.) – intervalo entre a data da publicação da lei e sua entrada
+em vigor
+– venia concessa (lat.) – concedida vênia; com a devida vênia (permissão)
+– Venire contra factum proprium non licet. (lat.) – Não é permitido vir contra
+fato próprio.
+– Venter moram (ou dilationem) non patitur. (lat.) – O ventre (a barriga)
+não admite demora.
+– verbi gratia; v. g. (lat.) – por exemplo
+– verbum ad verbum (lat.) – palavra por palavra
+– Verfassung (al.; fem.: die) – Constituição
+– Verfassungsrecht (al.) – Direito Constitucional
+– versus (lat.) – contra
+– verus dominus – verdadeiro dono (senhor)
+– vexata quaestio (lat.; pronúncia: x = cs) – questão muito controvertida
+– vide (lat.) – veja
+– vide supra (lat.) – veja acima
+– vindex (lat.) – defensor ou fi ador do réu no Direito Romano (Não é sinônimo
+de Defensor Público.)
+vacatio legis – vindex
+140 – Manual de Linguagem Jurídico-Judiciária
+– vis absoluta (lat.) – violência absoluta; violência física
+– vis attractiva (lat.) – força atrativa
+– vis-à-vis (fr.) – em face, defronte
+– vis compulsiva (lat.) – força compulsiva; coação moral
+– vis corporalis (lat.) – violência física; coação física
+– Vox populi, vox Dei. (lat.) – A voz do povo é a voz de Deus.
+– voyeur (fr.) – pessoa que obtém gratifi cação sexual presenciando atos
+sexuais ou vendo as partes íntimas de outrem, a distância e secretamente.
+Substantivo derivado: voyeurismo
+vis absoluta – voyeur
+Manual de Linguagem Jurídico-Judiciária – 141
+W
+– writ (ingl.) – mandado, ordem judicial. Aplica-se comumente ao hábeas-
+-córpus e ao mandado de segurança. Em países de common law há, entre
+outros, o writ of habeas corpus e o writ of mandamus.
+writ
+142 – Manual de Linguagem Jurídico-Judiciária
+Y
+– Yahoo – sítio de procura na internet
+– youthful ofender (ingl.) – menor delinquente
+– yuppie (ingl.) – profi ssional urbano, jovem, educado, muito preocupado
+com a aparência, geralmente do mercado fi nanceiro, bem-remunerado, muito
+ambicioso, de estilo de vida próspero e materialista. O termo forma-se da
+expressão inglesa young urban people: pessoas jovens urbanas.
+Yahoo – yuppie
+Manual de Linguagem Jurídico-Judiciária – 143
+Z
+– zapping (ingl.) – ação de mudar de canal de televisão mediante o controle
+remoto.
+– zip (ingl.) – processo de compactação de arquivos mediante programas
+específi cos
+zapping – zip
+
+Manual de Linguagem Jurídico-Judiciária – 145
+ABREVIATURAS,
+SIGLAS E SÍMBOLOS
+146 – Manual de Linguagem Jurídico-Judiciária
+Manual de Linguagem Jurídico-Judiciária – 147
+A – ACC
+A
+A – ampère(s)
+A. – autor; AA. – autores
+a/a ou a. a. – ao ano
+a. – arroba(s)
+a. – assinado(a); aa. – assinados(as)
+A, B ou C; a, b ou c – Se pessoas, as letras maiúsculas; se coisas, as letras
+minúsculas, em itálico.
+ABNT – Associação Brasileira de Normas Técnicas
+ABRAS – Associação Brasileira de Supermercados
+ABRAVE – Associação Brasileira de Distribuidores de Veículos
+ABRH – Associação Brasileira de Recursos Humanos
+abr. – abril
+ac. – acórdão
+A. C. – no ano de Cristo, na era cristã
+a. C. – antes de Cristo
+AC – Apelação Cível (pl.: ACs)
+ACC – Adiantamento de Contrato de Câmbio
+148 – Manual de Linguagem Jurídico-Judiciária
+A/C – alv.
+A/C – ao(s) cuidado(s) de
+ADC – Ação Direta de Constitucionalidade
+ADCT – Ato das Disposições Constitucionais Transitórias
+ADECON – Ação Declaratória de Constitucionalidade
+ADI – Ação Direta de Inconstitucionalidade
+ADVB – Associação dos Dirigentes de Vendas e Marketing do Brasil
+AES Sul
+Ag – Agravo (pl.: Ags)
+AGADEMI – Associação Gaúcha das Empresas do Mercado Imobiliário
+agdo. – agravado
+AGERGS – Agência Reguladora dos Serviços Públicos Delegados
+AgExec – Agravo em Execução
+AGF – Aquisição do Governo Federal (pl.: AGFs)
+AgRg – Agravo Regimental (pl.: AgRgs)
+ago. – agosto
+agte. – agravante
+AI – Anistia Internacional
+AIDOF – Autorização para Impressão de Documentos Fiscais
+AJUFE – Associação dos Juízes Federais do Brasil
+AJURIS ou Ajuris – Associação dos Juízes do Rio Grande do Sul
+Al. – alameda (toponimicamente)
+al. – alínea
+ALALC – Associação Latino-Americana de Livre Comércio
+alv. – alvará
+Manual de Linguagem Jurídico-Judiciária – 149
+a. m. – art., arts.
+a. m. – ante meridiem (lat.); antes do meio-dia
+a/m ou a. m. – ao mês
+AMB – Associação Médica Brasileira
+AmBev – Companhia de Bebidas das Américas
+AMRIGS – Associação Médica do Rio Grande do Sul
+ANAMATRA – Associação Nacional dos Magistrados da Justiça do Trabalho
+ANATEL ou Anatel – Agência Nacional de Telecomunicações
+ANDE – Associação Nacional de Educação
+ANDIB – Associação Nacional dos Bancos de Investimento e Desenvolvimento
+ANDIMA – Associação Nacional das Instituições do Mercado Aberto
+ANFAVEA ou Anfavea – Associação Nacional dos Fabricantes de Veículos
+Automotores
+ANJ – Associação Nacional de Jornais
+ANVISA ou Anvisa – Agência Nacional de Vigilância Sanitária
+Ap – apelação
+ap. – apud
+ap. ou apart. – apartamento
+apdo. – apelado
+apte. – apelante
+A. R. – autor reconvindo
+AR – aviso de recebimento
+ARI – Associação Riograndense de Imprensa
+ART – Anotação de Responsabilidade Técnica
+art., arts. – artigo, artigos
+150 – Manual de Linguagem Jurídico-Judiciária
+atte. – AVC
+atte. – atenciosamente
+Av. – avenida (toponimicamente)
+AVC – acidente vascular cerebral
+Manual de Linguagem Jurídico-Judiciária – 151
+B – BO
+B
+B – beco (toponimicamente)
+BACEN – Banco Central do Brasil
+BACEN JUD – sistema de comunicação eletrônica entre o Poder Judiciário
+e instituições fi nanceiras bancárias, com intermediação, gestão técnica e
+serviço de suporte a cargo do Banco Central.
+Banrisul, S. A. – Banco do Estado do Rio Grande do Sul
+BB – Banco do Brasil S. A.
+b.el (bel.), b.éis (béis.), bel.a
+ (bela.), bel.as (belas.) – bacharel, bacharéis, bacharela,
+bacharelas
+BID – Banco Interamericano de Desenvolvimento
+BIM – Boletim Informativo Mensal
+BIRD – Banco Internacional de Reconstrução e Desenvolvimento – Banco
+Mundial
+BIS – Banco para Compensações Internacionais
+BM & F – Bolsa de Mercadorias e Futuros
+BNDES – Banco Nacional de Desenvolvimento Econômico e Social
+BNH – Banco Nacional de Habitação
+BO – Boletim de Ocorrência
+152 – Manual de Linguagem Jurídico-Judiciária
+BOVESPA – BVRJ
+BOVESPA ou Bovespa – Bolsa de Valores do Estado de São Paulo
+BR-101
+Bradesco – Banco Brasileiro de Descontos S. A.
+BVES – Bolsa de Valores do Extremo Sul
+BVRJ – Bolsa de Valores do Rio de Janeiro
+Manual de Linguagem Jurídico-Judiciária – 153
+C. (ou Col.) – CComp ou CCpt. n.
+C
+C. (ou Col.) – Colendo
+CAC – Cadastro de Abertura de Crédito
+CACEX – Carteira de Comércio Exterior do Banco do Brasil
+CADE ou Cade – Conselho Administrativo de Defesa Econômica
+CADIN – Cadastro de Inadimplentes
+CAGE – Contadoria e Auditoria-Geral do Estado
+CAN – Correio Aéreo Nacional
+cap., caps. – capítulo, capítulos
+CAPES – Coordenação de Aperfeiçoamento de Pessoal de Nível Superior
+CASE – Centro de Atendimento Sócio-Educativo
+CASEF – Centro de Atendimento Sócio-Educativo Feminino
+CBA – Código Brasileiro de Aeronáutica
+CBL – Câmara Brasileira do Livro
+CC – Código Civil
+c/c ou c. c. – combinado com; com cópia; conta-corrente
+C. Com. – Código Comercial
+CComp ou CCpt. n. – Confl ito de Competência n.
+154 – Manual de Linguagem Jurídico-Judiciária
+CDA – CGJ
+CDA – Certidão de Dívida Ativa
+CDB – Certifi cado de Depósito Bancário (pl.: CDBs)
+CDC – Código de Defesa do Consumidor; Crédito Direto ao Consumidor
+CDDPH – Conselho de Defesa dos Direitos da Pessoa Humana
+CDL – Clube de Diretores Lojistas
+CDU – Classifi cação Decimal Universal
+CE – Constituição Estadual; Comunidade Europeia
+CEASA ou Ceasa – Centrais de Abastecimento S. A.
+CEBRAP – Centro Brasileiro de Análise e Planejamento
+CEF – Caixa Econômica Federal
+CEME – Central de Medicamentos
+CEP – Código de Endereçamento Postal
+CEPEA – Centro de Estudos Avançados em Economia Aplicada
+CEPERS – Centro de Professores do Estado do Rio Grande do Sul
+CERS/89 – Constituição do Estado do Rio Grande do Sul (1989)
+CESMAR – Centro Social Marista de Porto Alegre
+CETIP – Central de Liquidação e Custódia de Títulos Privados
+CETRAN – Conselho Estadual de Trânsito
+CF – Constituição Federal
+CF/88 – Constituição da República Federativa do Brasil (1988)
+cf. – confi ra, confronte com, verifi que
+cfr. – confi ra, confronte
+CGC – Cadastro Geral de Contribuintes
+CGJ – Corregedoria-Geral da Justiça
+Manual de Linguagem Jurídico-Judiciária – 155
+CGT – CNPq
+CGT – Central Geral dos Trabalhadores; Confederação Geral dos Trabalhadores
+CHC – Centro de Habilitação de Condutores
+C.ia ou Cia. – companhia
+CIBRAZEM – Companhia Brasileira de Armazenamento
+CID – Classifi cação Internacional de Doenças
+CELAN ou Celan – Conselho Episcopal Latino-Americano
+CIERGS – Centro de Indústrias do Estado do Rio Grande do Sul
+CIMOR – Comissão de Infortunística, Medicina Ocupacional e Readaptação
+CIPA – Comitê Interno de Prevenção de Acidentes
+CIRETRAN – Circunscrição Regional de Trânsito
+CLA – Certifi cado de Licenciamento Anual
+CLT – Consolidação das Leis do Trabalho
+CMN – Conselho Monetário Nacional
+CNA – Confederação Nacional da Agricultura
+CNBB – Confederação Nacional dos Bispos do Brasil
+CNC – Confederação Nacional do Comércio
+CNDM – Conselho Nacional dos Direitos da Mulher
+CNEN – Comissão Nacional de Energia Nuclear
+CNH – Carteira Nacional de Habilitação
+CNI – Confederação Nacional da Indústria
+CNJ – Conselho Nacional de Justiça
+CNP – Conselho Nacional do Petróleo
+CNPq – Conselho Nacional de Desenvolvimento Científi co e Tecnológico
+(pseudossigla)
+156 – Manual de Linguagem Jurídico-Judiciária
+CNS – CP
+CNS – Conselho Nacional de Saúde
+CNTI – Confederação Nacional dos Trabalhadores na Indústria
+COBAL – Companhia Brasileira de Alimentação
+COC – Centro de Observação Criminológica
+CODEFAT – Conselho Deliberativo do Fundo de Amparo ao Trabalhador
+COFECON – Conselho Federal de Economia
+COJE – Código de Organização Judiciária do Estado
+CONAMA – Conselho Nacional do Meio Ambiente
+CONARQ – Conselho Nacional de Arquivos
+CONCINE – Conselho Nacional de Cinema
+conf. ou cfe. – conforme
+CONFAZ – Conselho de Política Fazendária
+CONFEN – Conselho Federal de Entorpecentes
+CONIN – Conselho Nacional de Informática e Automação
+CONMETRO ou Conmetro – Conselho Nacional de Metrologia, Normalização
+e Qualidade Industrial
+CONSIJ – Conselho da Infância e da Juventude
+CONTAG – Confederação Nacional dos Trabalhadores na Agricultura
+CONTRAN – Conselho Nacional de Trânsito
+COPESUL – Companhia Petroquímica do Sul
+COPOM – Comitê de Política Monetária (órgão do Banco Central)
+CORSAN – Companhia Riograndense de Saneamento
+cp. – compare, coteje, confronte
+CP – Código Penal
+Manual de Linguagem Jurídico-Judiciária – 157
+CPC – CVM
+CPC – Código de Processo Civil
+CPI – Comissão Parlamentar de Inquérito
+CPMF – Contribuição Provisória sobre Movimentação Financeira
+CPOR – Centro de Preparação de Ofi ciais da Reserva
+CPP – Código de Processo Penal
+CREA – Conselho Regional de Engenharia, Arquitetura e Agronomia
+CRLV – Certifi cado de Registro e Licenciamento de Veículos
+CRV – Certifi cado de Registro de Veículo
+CSM – Conselho Superior da Magistratura
+CSMP – Conselho Superior do Ministério Público
+CTB – Código de Trânsito Brasileiro
+CTC – Comissão Técnica de Classifi cação (analisa progressões das penas)
+CTNBio – Comissão Técnica Nacional de Biossegurança
+CTPS – Carteira de Trabalho e Previdência Social
+CUB – Custo Unitário Básico (pl.: CUBs)
+CUT – Central Única dos Trabalhadores
+CVM – Comissão de Valores Mobiliários
+158 – Manual de Linguagem Jurídico-Judiciária
+d – Dep.
+D
+d – dia(s)
+d. – douto
+D. – distrito; DD. – distritos
+D. – Digno(a); Dom; Dona
+DAP – Departamento de Abastecimento e Preços
+DARF – Documento de Arrecadação da Receita Federal
+DATAPREV – Empresa de Processamento de Dados da Previdência Social
+dB – decibel
+d. C. – depois de Cristo
+DD. – Digníssimo(a)
+DECON – Departamento Estadual de Polícia do Consumidor
+DEFREC – Delegacia Especializada em Furtos, Roubos, Entorpecentes e
+Capturas
+DENATRAN – Departamento Nacional de Trânsito
+DENTEL – Departamento Nacional de Telecomunicações
+dep., deps. – departamento, departamentos
+Dep. – Deputado
+Manual de Linguagem Jurídico-Judiciária – 159
+DEPEC – DPVAT
+DEPEC – Departamento Econômico do Banco Central
+DEPREC – Departamento Estadual de Portos, Rios e Canais
+Des. – Desembargador (Desembargadores)
+Desa., Des.a
+ (Desas., Des.as) – Desembargadora (Desembargadoras)
+dez. – dezembro
+DIEESE – Departamento Intersindical de Estudos Socioeconômicos
+DJ – Diário da Justiça
+DL (sigla), Dec.-Lei (abreviatura) – Decreto-Lei
+DMJ – Departamento Médico Judiciário
+DML – Departamento Médico-Legal
+DNA – sigla inglesa de deoxyrbonucleic acid (em português: ácido desoxirribonucleico
+– ADN) – ácido encontrado no cromossomo do núcleo das células,
+constituinte da molécula portadora das características hereditárias. A sigla
+portuguesa ADN é pouco usada.
+DNER – Departamento Nacional de Estradas de Rodagem
+DNOS – Departamento Nacional de Obras de Saneamento
+DNPDC – Departamento Nacional de Proteção e Defesa do Consumidor
+DNPM – Departamento Nacional de Produção Mineral
+DOC – Documento de Ordem de Crédito (pl.: DOCs)
+DOE – Diário Ofi cial do Estado
+DOPS – Departamento de Ordem Política e Social
+DORT – Distúrbio Osteomuscular Relacionado ao Trabalho
+DOU – Diário Ofi cial da União
+DPVAT – (Seguro Obrigatório de) Danos Pessoais Causados por Veículos
+Automotores de Vias Terrestres
+160 – Manual de Linguagem Jurídico-Judiciária
+dr. (drs.) – DST
+dr. (drs.) – doutor (doutores)
+dra., dr.a (dras., dr.as) – doutora (doutoras)
+D. R. A. – distribuída, registrada e autuada
+DRT – Delegacia Regional do Trabalho
+DST – doença sexualmente transmissível
+Manual de Linguagem Jurídico-Judiciária – 161
+E. – EMBRAPA
+E
+E. – Estado, editor; EE. – Estados, editores
+E. ou Egr. – Egrégio
+ECA – Estatudo da Criança e do Adolescente
+ECAD ou Ecad – Escritório Central de Arrecadação e de Distribuição de Direitos
+ECT – Empresa Brasileira de Correios e Telégrafos
+Ed. – Editora
+ed. – edição
+e. g. – exempli gratia (por exemplo)
+EGF – Empréstimo do Governo Federal (pl.: EGFs)
+Eletrobrás – Centrais Elétricas Brasileiras
+E. M. – em mão(s)
+em. – ementário
+EMATER – Empresa Brasileira de Extensão Rural (uma para cada Estado)
+embdo. – embargado
+EMBRAER – Empresa Brasileira de Aeronáutica
+EMBRAPA – Empresa Brasileira de Pesquisa Agropecuária
+162 – Manual de Linguagem Jurídico-Judiciária
+EMBRATEL – exto.
+EMBRATEL – Empresa Brasileira de Telecomunicações
+EMBRATUR – Empresa Brasileira de Turismo
+embte. – embargante
+EMFA – Estado-Maior das Forças Armadas
+EOAB – Estatuto da Ordem dos Advogados do Brasil
+EOC – Equipe de Observação Criminológica (analisa progressão das penas)
+E/T ou E. T. – em tempo
+et alii, et al. – e outros
+execdo. – executado
+exeqte. – exequente
+Ex.mo (Exmo.) – Excelentíssimo
+exte. – excipiente
+exto. – excepto
+Manual de Linguagem Jurídico-Judiciária – 163
+FAMURS – FGV
+F
+FAMURS – Federação das Associações de Municípios do Rio Grande do Sul
+FAO – Food and Agricultural Organization (Organização da Alimentação e
+Agricultura)
+FARSUL – Federação da Agricultura do Estado do Rio Grande do Sul
+FAT – Fundo de Amparo ao Trabalhador
+FEARROZ – Federação das Cooperativas de Arroz
+FEBEM – Fundação Estadual do Bem-Estar do Menor
+FEBRABAN – Federação Brasileira das Associações de Bancos
+FECOTRIGO – Federação das Cooperativas de Trigo e Soja do Rio Grande
+do Sul
+FEEVALE – Federação dos Estabelecimentos de Ensino Superior em Novo
+Hamburgo
+FENABAN – Federação Nacional dos Bancos
+FEPAM – Fundação Estadual de Proteção Ambiental
+FETAG – Federação dos Trabalhadores na Agricultura do Estado do Rio
+Grande do Sul
+fev. – fevereiro
+FGTS – Fundo de Garantia por Tempo de Serviço
+FGV – Fundação Getúlio Vargas
+164 – Manual de Linguagem Jurídico-Judiciária
+FIERGS – FUNTRABALHO
+FIERGS – Federação das Indústrias do Estado do Rio Grande do Sul
+FINSOCIAL – Fundo de Investimento Social
+FIPEME – Financiamento para as Pequenas e Médias Empresas
+fl .; fl s.; fl . 7v.; fl . 7 e v. – folha; folhas; verso da folha 7; folha 7 e verso
+FMI – Fundo Monetário Internacional
+Fr. – Frei
+FUMSA – Fundação Municipal de Saúde
+FUNABEM – Fundação Nacional do Bem-Estar do Menor
+FUNAI – Fundação Nacional do Índio
+FUNDERGS – Fundação de Esporte e Lazer do Rio Grande do Sul
+FUNRURAL – Fundo de Assistência e Previdência do Trabalhador Rural
+FUNTRABALHO – Fundo Especial para Modernização e Aperfeiçoamento
+da Justiça do Trabalho
+Manual de Linguagem Jurídico-Judiciária – 165
+g – GLP
+G
+g – grama(s)
+GATT – General Agreement on Tariffs and Trade (Acordo Geral de Tarifas e
+Comércio)
+GEDPRO – Gestão Eletrônica de Documentos Processuais
+GLP – Gás Liquefeito de Petróleo
+166 – Manual de Linguagem Jurídico-Judiciária
+h – HIV
+H
+h – hora(s)
+h. – honorável
+ha – hectare(s)
+HC – habeas corpus (hábeas, hábeas-córpus)
+HD – habeas data; hard disc (disco rígido)
+HIV – Human Immunodefi ciency Virus (vírus da imunodefi ciência humana)
+Manual de Linguagem Jurídico-Judiciária – 167
+IAA – Il.mo ou Ilmo.
+I
+IAA – Instituto do Açúcar e do Álcool
+IAB – Instituto dos Advogados Brasileiros
+IBAMA – Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis
+IBDFAM – Instituto Brasileiro de Direito de Família
+IBGE – Instituto Brasileiro de Geografi a e Estatística
+IBOPE – Instituto Brasileiro de Opinião Pública e Estatística
+IBOVESPA – Índice da Bolsa de Valores do Estado de São Paulo
+IBV – Índice da Bolsa de Valores do Rio de Janeiro
+ICMS – Imposto sobre Circulação de Mercadorias e Serviços
+IEE – Instituto de Estudos Empresariais
+IES – Instituto de Ensino Superior (pl.: IESs)
+i. é – isto é
+i. e. – id est
+IGP-DI – Índice Geral de Preços – Disponibilidade Interna
+IGP-M – Índice Geral de Preços de Mercado
+Il.mo ou Ilmo. – Ilustríssimo (NUNCA Ilm.o
+)
+168 – Manual de Linguagem Jurídico-Judiciária
+IML – ISO 9000
+IML – Instituto Médico Legal
+inc., incs. – inciso, incisos
+INCRA – Instituto Nacional de Colonização e Reforma Agrária
+INMETRO – Instituto Nacional de Metrologia, Normalização e Qualidade Industrial
+INPC – Índice Nacional de Preços ao Consumidor
+INPI – Instituto Nacional de Propriedade Industrial
+INPM – Instituto Nacional de Pesos e Medidas
+IN-SAT – Instrução Normativa da Superintendência da Administração Tributária
+INSS – Instituto Nacional do Seguro Social
+invdo. – inventariado
+invte. – inventariante
+IOF – Imposto sobre Operações Financeiras
+IPC – Índice de Preços ao Consumidor
+IPCA – Índice de Preços ao Consumidor Acumulado
+IPCC – Intergovernamental Panel on Climate Change
+IPEA (ou Ipea) – Instituto de Pesquisa Econômica Aplicada
+IPI – Imposto sobre Produtos Industrializados
+IPM – Inquérito Policial-Militar
+IPTU – Imposto sobre a Propriedade Predial e Territorial Urbana
+IPVA – Imposto sobre a Propriedade de Veículos Automotores
+IRB – Instituto de Resseguros do Brasil
+IRBr – Instituto Rio Branco
+ISO 9000 – International Organization for Standartization (Organização Internacional
+de Normalização: Série de Normas ISO 9000) 
+Manual de Linguagem Jurídico-Judiciária – 169
+ISS – IVC
+ISS – Imposto sobre Serviços (tributo municipal)
+ITBI – Imposto sobre Transmissão de Bens Imóveis
+ITCD – Imposto de Transmissão Causa Mortis e Doação
+ITR – Imposto Territorial Rural
+IVA – imposto sobre o valor agregado
+IVC – Instituto de Verifi cação de Circulação
+170 – Manual de Linguagem Jurídico-Judiciária
+j. – JUTACrim.
+J
+j. – julgado(a)
+J. A. – Junte-se em apenso.
+jan. – janeiro
+JARI – Junta Administrativa de Recursos de Infrações
+JEC – Juizado Especial Cível
+JECRIMA – Juizado Especial Criminal Adjunto
+JECrim. – Juizado Especial Criminal
+Jr. – Junior (lat.), júnior
+JTARGS – Julgados do Tribunal de Alçada do Estado do Rio Grande do Sul
+jul. – julho
+jun. – junho
+JUTACrim. – Julgados do Tribunal de Alçada Criminal
+Manual de Linguagem Jurídico-Judiciária – 171
+kg – km
+K
+kg – quilograma(s)
+km – quilômetro(s)
+172 – Manual de Linguagem Jurídico-Judiciária
+L. – LOM
+L
+L. – largo (toponimicamente)
+LADV – Licença para Aprendizagem de Direção Veicular
+LBC – Letra do Banco Central (pl.: LBCs)
+LC – Lei Complementar
+LCP – Lei das Contravenções Penais
+LDA – Lei dos Direitos Autorais
+LEF – Lei das Execuções Fiscais
+LEP – Lei de Execução Penal
+LER – Lesão por Esforço Repetitivo
+LGTT – Lésbicas, Gays, Bissexuais, Transexuais e Transgêneros
+LICC – Lei de Introdução ao Código Civil (denominação alterada). Veja LINDB, a
+seguir.
+LINDB – Lei de Introdução às Normas do Direito Brasileiro (nova denominação,
+desde 30-12-2010)
+lit. – literaliter (lat.); literalmente
+LOA – Lei do Orçamento Anual
+loc. cit. – loco citato (lat.); no lugar citado; ou locus citatus (lat.); lugar citado
+LOM – Lei Orgânica do Município (seguido do nome do Município e sigla do
+Estado a que pertence. Ex.: LOM/PA/RS)
+Manual de Linguagem Jurídico-Judiciária – 173
+LOMAN – Lei Orgânica da Magistratura Nacional
+LPI – Lei de Propriedade Industrial
+Lt.da (Ltda.) – Limitada
+LTN – Letra do Tesouro Nacional (pl.: LTNs)
+LUG – Lei Uniforme de Genebra
+LOMAN – LUG
+174 – Manual de Linguagem Jurídico-Judiciária
+M
+m – metro(s)
+MAer. – Ministério da Aeronáutica
+mai. – maio (preferir a forma por extenso)
+mar. – março
+MCE – Mercado Comum Europeu
+M. D. – Mui(to) Digno(a)
+MERCOSUL – Mercado Comum do Cone Sul
+min – minuto(s)
+Min.ª (forma preferencial) ou Mina. – Ministra
+MM. – Meritíssimo(a)
+MP – Ministério Público; medida provisória
+MS – Mandado de Segurança
+MSC – Mandado de Segurança Coletivo
+m – MSC
+Manual de Linguagem Jurídico-Judiciária – 175
+N
+n. – nome; número(s)
+NAF – Núcleo de Assistência Familiar
+NASDAQ ou Nasdaq (National Association of Securities Dealers Automated
+Quotation) – índice da bolsa de valores de empresas de alta tecnologia dos
+Estados Unidos
+N. B. (ou n. b.) – nota bene (lat.); nota bem
+N/C – Nesta Capital
+nodo. – notifi cado
+note. – notifi cante
+nov. – novembro
+n. – nov.
+176 – Manual de Linguagem Jurídico-Judiciária
+O
+OAB – Ordem dos Advogados do Brasil
+ob. – obra(s)
+obs. – observação, observações
+OEA – Organização dos Estados Americanos
+of. – ofício
+OGMs – Organismos Geneticamente Modifi cados
+OMS – Organização Mundial da Saúde
+ONG – Organização Não Governamental (pl.: ONGs)
+ONS – Operador Nacional do Sistema Elétrico
+ONU – Organização das Nações Unidas
+OPEP – Organização dos Países Exportadores de Petróleo
+op. cit. – opere citato (na obra citada); opus citatum (a obra citada)
+opp. citt. (lat.) – opera citata; obras citadas
+opte. – opoente
+OTAN – Organização do Tratado do Atlântico Norte
+out. – outubro
+OAB – out.
+Manual de Linguagem Jurídico-Judiciária – 177
+P
+p. – página (ABL), página(s) ABNT
+PAD – Processo Administrativo Disciplinar
+PAIR – Perda Auditiva Induzida por Ruído
+par. ou §, pars. ou §§ – parágrafo, parágrafos (sempre preferível o uso do
+símbolo)
+PARSEP – Programa de Apoio à Reforma dos Sistemas Estaduais de Previdência
+PASEP – Programa de Formação do Patrimônio do Servidor Público
+PEPA – Parcela de Estímulo à Pesquisa Agropecuária
+Petrobras – Petróleo Brasileiro S. A.
+p. ex. – por exemplo
+PF – Polícia Federal
+pg. – pago, pagou
+PGQP – Programa Gaúcho de Qualidade e Produtividade
+Ph. D. – Philosophiae Doctor
+PIB – Produto Interno Bruto
+PIS – Plano de Integração Social
+PISA ou Pisa – Programa Integrado Socioambiental
+p. – PISA 
+178 – Manual de Linguagem Jurídico-Judiciária
+PM – Polícia Militar
+p. m. (lat.) – post meridiem; depois do meio-dia
+PNAD – Pesquisa Nacional por Amostra de Domicílio
+PNB – Produto Nacional Bruto
+POP – Procedimento Operacional Padrão
+pp. – páginas (ABL)
+p. p. – por procuração; próximo passado
+pq. – porque
+Pq. – Parque (toponimicamente)
+proc. – processo; procuração
+PROCERGS – Companhia de Processamento de Dados do Estado do Rio
+Grande do Sul
+PROCON – Programa Estadual de Defesa do Consumidor
+PROCONVE – Programa de Controle de Poluição do Ar por Veículos Automotores
+prof. (profs.) – professor (professores)
+prof.a (prof.as), profa. (profas.) – professora (professoras)
+PS – post scriptum; pós-escrito
+PSC – Prestação de Serviço à Comunidade
+PSDD – Processo de Suspensão do Direito de Dirigir
+PM – PSDD
+Manual de Linguagem Jurídico-Judiciária – 179
+Q
+Q. E. D. ou q. e. d. (lat.) – quod erat demonstrandum; o que se devia demonstrar
+ql. – quilate(s)
+Q. E. D. ou q. e. d. – ql.
+180 – Manual de Linguagem Jurídico-Judiciária
+R
+r. – respeitável (sentença)
+R. – Rua (toponimicamente); reprovado (classifi cação escolar)
+R., RR. – réu, réus
+RDB – Recibo de Depósito Bancário (pl.: RDBs)
+RDD – Regimento Disciplinar Diferenciado
+RDP – Regimento Disciplinar Penitenciário
+RE – Recurso Extraordinário (STF) (pl.: REs)
+recdo. – recorrido
+recte. – recorrente
+reg. – regimento; regular
+rel. – relatório
+Rel. – Relator
+Rel.a
+, Rela. – Relatora
+RENAVAM (ou Renavam) – Registro Nacional de Veículos Automotores
+reqdo. – requerido
+reqte. – requerente
+REsp – Recurso Especial (STJ) (pl.: REsps)
+r. – REsp
+Manual de Linguagem Jurídico-Judiciária – 181
+RIMA (ou Rima) – Relatório de Impacto Ambiental
+RISTF – Regimento Interno do Supremo Tribunal Federal
+RISTJ – Regimento Interno do Superior Tribunal de Justiça
+RJTJRGS – Revista de Jurisprudência do Tribunal de Justiça do Estado do
+Rio Grande do Sul
+RJU – Regime Jurídico Único
+RMS – Reexame em Mandado de Segurança (pl.: RMSs)
+RN – Reexame Necessário (pl.: RNs)
+RO – recurso ordinário
+RPPS – Regime Próprio de Previdência Social
+RPV – Requisição de Pequeno Valor (pl. RPVs)
+RR – Recurso de Revista
+RS-040
+RSTJ – Revista do Superior Tribunal de Justiça
+R. S. V. P. – Répondez s'il vous plaît (fr.); responda, por favor
+RTCE – Revista do Tribunal de Contas do Estado do Rio Grande do Sul
+RTJSTF – Revista Trimestral de Jurisprudência do Supremo Tribunal Federal
+RIMA – RTJSTF
+182 – Manual de Linguagem Jurídico-Judiciária
+S
+s – segundo(s)
+s., ss. – seguinte, seguintes
+S. A. ou S/A – sociedade anônima (ex.: Banco do Brasil S/A)
+SA – sociedade anônima (sigla da empresa mercantil)
+sal. min. ou SM – salário mínimo
+s. d. – sem data
+SDFNR – Selo Digital de Fiscalização Notarial e Registral
+SEAP – Secretaria Especial de Abastecimento e Preços
+SEBRAE (ou Sebrae) – Serviço Brasileiro de Apoio às Micro e Pequenas
+Empresas
+SELIC ou Selic – Sistema Especial de Liquidação e Custódia
+SENAC – Serviço Nacional de Aprendizagem Comercial
+SENAI – Serviço Nacional de Aprendizagem Industrial
+SERASA – Serviços de Assessoria S. A. (hoje: Centralizadora de Serviços
+de Bancos S. A.)
+SERPRO ou Serpro – Serviço Federal de Processamento de Dados
+SESC – Serviço Social do Comércio
+SESI – Serviço Social da Indústria
+s – SESI
+Manual de Linguagem Jurídico-Judiciária – 183
+set. – setembro
+SFH – Sistema Financeiro da Habitação
+SFN – Sistema Financeiro Nacional
+SIAC – Sistema Integrado de Administração de Caixa
+SIJ – Serviço de Informações Judiciárias
+SIMPLES – Sistema Simplifi cado de Pagamento de Impostos
+Sindjus – Sindicato dos Servidores da Justiça do RS
+s/m ou s. m. – sua mulher
+S. M. J. ou s. m. j. – salvo melhor juízo
+s. n. – sem nome
+s/nº – sem número
+SNDC – Sistema Nacional de Defesa do Consumidor
+SNVS – Sistema Nacional de Vigilância Sanitária
+SPB – Sistema de Pagamentos Brasileiro
+SPC – Serviço de Proteção ao Crédito
+sr. (srs.); sr.a (sr.as), sra. (sras.) – senhor (senhores); senhora (senhoras)
+sr.ta (sr.tas), srta. (srtas.) – senhorita (senhoritas)
+STF – Supremo Tribunal Federal
+STJ – Superior Tribunal de Justiça
+STM – Superior Tribunal Militar
+SUSEP – Superintendência de Seguros Privados
+SUSEPE ou Susepe – Superintendência dos Serviços Penitenciários
+set. – SUSEPE
+184 – Manual de Linguagem Jurídico-Judiciária
+T
+t – tonelada(s)
+TAC – Termo de Compromisso de Ajustamento de Conduta
+TACívSP – Tribunal de Alçada Cível de São Paulo
+TACrimSP – Tribunal de Alçada Criminal de São Paulo
+TARF – Tribunal Administrativo de Recursos Fiscais
+TARGS – Tribunal de Alçada do Rio Grande do Sul
+Taxa SELIC – taxa básica da economia brasileira, estabelecida mensalmente
+pelo Comitê de Política Monetária (COPOM), órgão do Banco Central
+tb. – também
+TBF – Taxa Básica Financeira
+TCE – Tribunal de Contas do Estado
+TCU – Tribunal de Contas da União
+TDA – Título da Dívida Agrária (pl.: TDAs)
+TDAH – Transtorno de Défi ce de Atenção e Hiperatividade
+TEC – Tarifa Externa Comum do Mercosul
+TED – Transferência Eletrônica Disponível
+tel. – telefone
+t – tel.
+Manual de Linguagem Jurídico-Judiciária – 185
+test. – testemunha
+TFP – Sociedade Brasileira de Defesa da Tradição, Família e Propriedade
+TFR – Tribunal Federal de Recursos
+TIT – Termo de Infração de Trânsito
+TJ – Tribunal de Justiça
+TJLP – Taxa de Juros de Longo Prazo
+TJRS – Tribunal de Justiça do Estado do Rio Grande do Sul
+TR – Taxa de Referência
+TRD – Taxa de Referência Diária
+TRE – Tribunal Regional Eleitoral
+TRF – Tribunal Regional Federal (seguida da região, p. ex.: TRF-4ª)
+TRT – Tribunal Regional do Trabalho (seguida da região, p. ex.: TRT-4ª)
+TSE – Tribunal Superior Eleitoral
+TST – Tribunal Superior do Trabalho
+test. – TST
+186 – Manual de Linguagem Jurídico-Judiciária
+U
+u. – unânime
+UDR – União Democrática Ruralista
+UERGS – Universidade Estadual do Rio Grande do Sul
+UFIR – Unidade Fiscal de Referência (pl.: UFIRs)
+UFM – Unidade Financeira Municipal
+UGAPOCI – União Gaúcha de Policiais Civis
+UIF/RS – Unidade de Incentivo Fundopem/RS
+ULBRA – Universidade Luterana do Brasil
+UnB – Universidade de Brasília
+UNE – União Nacional dos Estudantes
+UNESCO – Organização das Nações Unidas para a Educação, Ciência e Cultura
+UNICEF – Fundo das Nações Unidas para a Infância
+UNISINOS – Universidade do Vale do Rio dos Sinos
+UPF – Unidade-Padrão Fiscal
+URC – Unidade de Referência de Custas
+URE – Unidade de Referência de Emolumentos
+UTI – Unidade de Terapia Intensiva
+u. – UTI
+Manual de Linguagem Jurídico-Judiciária – 187
+V
+V – volt
+v. – volume (forma preferencial), vide
+v. ou ven. – venerando (acórdão)
+Varig, S. A.
+V. Ema. Revma. – Vossa Eminência Reverendíssima (Cardeal)
+V. Exa. – Vossa Excelência (pl.: V. Exas.)
+V. Exa. Revma. – Vossa Excelência Reverendíssima (Arcebispo e Bispo)
+v. g. – verbi gratia
+V. M. – Vossa Majestade
+V. Maga. – Vossa Magnifi cência (Reitor de Universidade)
+vol., vols. – volume, volumes
+VOLP09 – Vocabulário Ortográfi co da Língua Portuguesa, 2009
+VRG – Valor Residual Garantido
+V. S. – Vossa Santidade (Papa)
+V. S.a
+, V. Sa. (V. S.as, V. Sas.) – Vossa Senhoria (Vossas Senhorias)
+v. u. – voto unânime
+V – v. u.
+188 – Manual de Linguagem Jurídico-Judiciária
+W
+W – watt
+WMO – World Meteorological Organization
+WWW – World Wide Web (ingl.); rede de extensão mundial; parte multimídia
+da internet
+W – WWW
+Manual de Linguagem Jurídico-Judiciária – 189
+Z
+ZFM – Zona Franca de Manaus
+ZH – Zero Hora
+ZPE – Zona de Processamento de Exportação
+ZFM – ZPE
+
+Manual de Linguagem Jurídico-Judiciária – 191
+ABREVIATURAS E SIGLAS
+NA NOMENCLATURA
+DOS FEITOS
+192 – Manual de Linguagem Jurídico-Judiciária
+Manual de Linguagem Jurídico-Judiciária – 193
+Ação Declaratória – ADcl
+Ação Direta de Inconstitucionalidade – ADI
+Ação Rescisória – AResc
+Ação Rescisória – Execução – AResc-Ex
+Agravo – Ag
+Agravo em Embargos Infringentes – AEmbInf
+Agravo de Instrumento – AI
+Agravo de Instrumento – STJ/STF – AI-STJ/STF
+Agravo Interno – AInt
+Agravo Regimental – AgRg
+Apelação Cível – AC
+Apelação Criminal – ACr
+Apelação e Reexame Necessário – ARN
+Assistência Judiciária Gratuita – AJud
+Carta de Ordem – CO
+Carta Precatória – CPrec
+Carta Testemunhável – CTest
+Cautelar Inominada – CInom
+Confl ito de Competência – CComp ou CCpt
+Ação Declaratória – Confl ito de Competência
+194 – Manual de Linguagem Jurídico-Judiciária
+Confl ito de Jurisdição – CJur
+Correição Parcial – CParc
+Desaforamento – Desaf
+Embargos à Execução – EExec
+Embargos Declaratórios no Recurso Extraordinário – EDclRE
+Embargos de Declaração – EDcl
+Embargos de Nulidade – ENul
+Embargos Infringentes – EI
+Exceção da Verdade – ExVerd
+Exceção de Suspeição – ExSusp
+Exceção de Suspeição, Impedimento e Incompetência – ExSuspII
+Execução – Exec
+Habeas Corpus (ou Hábeas-Córpus) – HC
+Habeas Data – HD
+Habilitação – Hab
+Impugnação ao Pedido de Assistência Judiciária – IPAJ
+Impugnação ao Valor da Causa – IVC
+Incidente de Impugnação – Iimp
+Incidente de Inconstitucionalidade – IIn
+Inquérito Policial – IP
+Mandado de Injunção – MI
+Mandado de Segurança – MS
+Medida Cautelar – MC
+Notícia-Crime – NCr
+Confl ito de Jurisdição – Notícia-Crime
+Manual de Linguagem Jurídico-Judiciária – 195
+Notifi cação Judicial – NJ
+Outros Feitos – OF
+Outros Incidentes – OI
+Pedido de Arquivamento – PArq
+Pedido de Exame – PEx
+Processo-Crime – PCr
+Processo de Execução – PExec
+Queixa-Crime – QCr
+Reabilitação – Reab
+Recurso de Decisão de Hábeas – RDHC
+Recurso de Ofício – ROf
+Recurso de Ofício em Sentido Estrito – ROSE
+Recurso em Sentido Estrito – RES
+Recurso Especial – REsp
+Recurso Extraordinário – RE
+Recurso Extraordinário e Especial – REEsp
+Recurso Ordinário em Mandado de Segurança – ROMS
+Reexame Necessário – RN
+Representação – Rep
+Restauração de Autos – RA
+Revisão Criminal – RvCr
+Termo Circunstanciado – TC
+Uniformização de Jurisprudência – UJur
+Notifi cação Judicial – Uniformização de Jurisprudência
+196 – Manual de Linguagem Jurídico-Judiciária
+Manual de Linguagem Jurídico-Judiciária – 197
+OBRAS CONSULTADAS
+ACADEMIA BRASILEIRA DE LETRAS. Vocabulário Ortográfi co da Língua
+Portuguesa. 5ª ed. São Paulo: Global Editora, 2009.
+HOUAISS, Antônio; VILLAR, Mauro de Salles. Elaborado pelo Instituto Antônio
+Houaiss de Lexicografi a e Banco de Dados da Língua Portuguesa. Dicionário
+Houaiss da Língua Portuguesa. Rio de Janeiro: Objetiva Editora, 2009.
+FISCHER, Luís Augusto. Dicionário de Palavras & Expressões Estrangeiras.
+1ª ed. Porto Alegre: L&PM Editores, 2004.
+FERREIRA, Aurélio Buarque de Holanda. Novo dicionário da língua portuguesa.
+2ª ed. Rio de Janeiro: Nova Fronteira, 1997.
+KASPARY, Adalberto J. Habeas verba. 9ª ed. revista e ampliada. Porto Alegre:
+Livraria do Advogado, 2007.
+KASPARY, Adalberto J. Nova ortografi a integrada: o que continuou + o que
+mudou + como fi cou. Porto Alegre: EDITA, 2011.
+KASPARY, Adalberto J. O verbo na linguagem jurídica – acepções e regimes.
+7ª ed. revista e ampliada. Porto Alegre: Livraria do Advogado, 2010.
+KASPARY, Adalberto J. Português para profi ssionais – atuais e futuros.
+22ª ed. Porto Alegre: Edita, 2006.
+KASPARY, Adalberto J. Redação ofi cial – normas e modelos. 17ª ed. Porto
+Alegre: Edita, 2004.
+198 – Manual de Linguagem Jurídico-Judiciária
+LUFT, Celso Pedro. Grande manual de ortografi a. Rio de Janeiro: Globo,1985.
+SACCONI, Luiz Antonio. Grande dicionário Sacconi da língua portuguesa:
+comentado, crítico e enciclopédico.São Paulo: Nova Geração, 2010.
+SANDRONI, Paulo. Novíssimo dicionário de economia. São Paulo: Best
+Seller, 2000.
+
