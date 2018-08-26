@@ -28,16 +28,25 @@ python -m spacy init-model pt vectors_spacy --vectors-loc .\vectors\vetores.txt
 ```
 
 Será criada a pasta <b>vectors_spacy<b> que poderá ser carregada pelo Spacy
-```py
-  from spacy import util as spc_util
+```pyfrom spacy import util as spc_util
   import pt_core_news_sm
 
   nlp = pt_core_news_sm.load()
+
+  doc=nlp('justica tribunal')
+  tk=[k for k in doc]
+  print('Semelhança entre justica e tribunal = ',tk[0].similarity(tk[1]))
+
   pathw2v = './vectors_spacy'
   spc_util.load_model(pathw2v, vocab=nlp.vocab)
 
-  print(nlp('teste de texto com vetores')) 
+  doc=nlp('justica tribunal')
+  tk=[k for k in doc]
+  print('Semelhança entre justica e tribunal = ',tk[0].similarity(tk[1]))
 ```
+Como exemplo, termos a saída das comparações dos termos <b>justica</b> e <b>tribunal</b> com e sem o modelo gerado pelos 25 documentos:
+- <b>Sem o uso do modelo gerado:</b> Semelhança entre justica e tribunal =  0.49759972
+- <b>Com o uso do modelo gerado:</b> Semelhança entre justica e tribunal =  0.9622429
  
 ### 4 Utilizando o tensorboard para visualizar o modelo criado e testar algumas similaridades
 O tensorboard é uma ferramenta excelente para visualizar o modelo criado com a rederização de uma nuvem de vetores onde os termos ficam próximos dos seus semelhantes, o exemplo <b>vectors_tensorboard.py</b> foi baseado no código abaixo:
