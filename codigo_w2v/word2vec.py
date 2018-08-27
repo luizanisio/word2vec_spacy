@@ -22,15 +22,25 @@ def removeacentos(texto):
         txt = re.sub(r"[{}]".format(de), para, txt)
     return txt
 
+def read_decode(arq):
+    tipos = ['utf8','ascii','latin1']
+    for tp in tipos:
+        try:
+            with open(arq, encoding=tp) as f:
+                return (tp,f.read().splitlines())
+        except UnicodeError:
+            continue
+        with open(arq, encoding='latin1', errors='ignore') as f:
+            return ('latin1',f.read().splitlines())
+
 def read_texts():
     logging.info("Procurando os arquivos .... ")
     arqs = [f for f in glob.glob(r".\textos\*.txt")]
     logging.info("Lendo {} arquivos .... ".format(len(arqs)))
     for arq in arqs:
-        with open(arq, encoding='utf-8', errors='ignore') as f:
-            logging.info(" - {}".format(arq))
-            lines = f.read().splitlines()
-            yield gensim.utils.simple_preprocess(removeacentos(''.join(lines)))
+        tp,lines = read_decode(arq)
+        logging.info(" - {} [{}]".format(arq,tp))
+        yield gensim.utils.simple_preprocess(' '.join(lines))
 
 if __name__ == '__main__':
     out_loc = os.getcwd()+'/vectors'
@@ -45,7 +55,7 @@ if __name__ == '__main__':
         window=10,
         min_count=2,
         workers=10)
-    model.train(documents, total_examples=len(documents), epochs=10)
+    model.train(documents, total_examples=len(documents), epochs=20)
 
     # gravando o modelo em formato texto para ser convertido para o spacy
     logging.info('Gravando o modelo...')
