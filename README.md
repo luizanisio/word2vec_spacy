@@ -24,6 +24,7 @@ Foram realizados testes com o código de <b>Kavita Ganesan</b> que pode ser baix
 - ao final, será criado o arquivo <b>\vectors\vetores.txt</b> que será convertido para o formato do Spacy.
 
 ### 3. Convertendo o modelo para usar no Spacy
+
 A conversão do modelo gerado pelo Gensim para o formato do Spacy é feita pela linha de comando:
 ```bat
 python -m spacy init-model pt vectors_spacy --vectors-loc .\vectors\vetores.txt
@@ -53,6 +54,7 @@ Como exemplo, termos a saída das comparações dos termos <b>justiça</b> e <b>
 - <b>Com o uso do modelo gerado:</b> Semelhança entre justiça e tribunal =  0.8437208
  
 ### 4. Utilizando o <b>tensorboard</b> para visualizar o modelo criado e testar algumas similaridades
+
 O tensorboard é uma ferramenta excelente para visualizar o modelo criado com a rederização de uma nuvem de vetores onde os termos ficam próximos dos seus semelhantes, o exemplo <b>vectors_tensorboard.py</b> foi baseado no código abaixo:
 - https://github.com/explosion/spaCy/blob/master/examples/vectors_tensorboard.py
 
