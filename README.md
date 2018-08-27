@@ -36,16 +36,16 @@ import pt_core_news_sm
 
 nlp = pt_core_news_sm.load()
 
-doc=nlp('justica tribunal')
+doc=nlp('justiça tribunal')
 tk=[k for k in doc]
-print('Semelhança entre justica e tribunal = ',tk[0].similarity(tk[1]))
+print('Semelhança entre justiça e tribunal = ',tk[0].similarity(tk[1]))
 
 pathw2v = './vectors_spacy'
 spc_util.load_model(pathw2v, vocab=nlp.vocab)
 
 doc=nlp('justiça tribunal')
 tk=[k for k in doc]
-print('Semelhança entre justica e tribunal = ',tk[0].similarity(tk[1]))
+print('Semelhança entre justiça e tribunal = ',tk[0].similarity(tk[1]))
 ```
 
 Como exemplo, termos a saída das comparações dos termos <b>justiça</b> e <b>tribunal</b> com e sem o modelo gerado pelos 25 documentos:
